@@ -1,4 +1,4 @@
-# Pokemon stock monitor (Java + GitHub Actions)
+# monitor (Java + GitHub Actions)
 
 Monitors Danish retail sites for Pokemon products and pings a Discord channel on
 new / removed / restocked / price-changed items. Runs free on GitHub Actions.
