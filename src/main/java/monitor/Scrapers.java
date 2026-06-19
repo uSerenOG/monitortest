@@ -23,12 +23,9 @@ public class Scrapers {
 
     /** Register your active scrapers here. */
     public static final List<Scraper> ALL = List.of(
-            new MaxGamingScraper()
-            // , new MaxGamingScraper()
-            // , new BilkaScraper()
-            // , new FoetexScraper()
-            // , new BrScraper()
-    );
+        new MaxGamingScraper(),
+        new BrScraper()
+);
 
     private static final ObjectMapper MAPPER = new ObjectMapper();
     private static final String UA =
