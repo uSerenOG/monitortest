@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 5 minutes = GitHub's minimum. Real runs are often delayed 5-30 min
     # and can be dropped under high load - this is best-effort, not real-time.
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}        # adds a manual "Run workflow" button
 
 permissions:
