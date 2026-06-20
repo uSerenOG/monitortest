@@ -1155,7 +1155,7 @@
       "productId" : "200371877",
       "name" : "Pokémon Mini Tin med samlekort - Feraligatr/Budew",
       "price" : 119.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-feraligatr-budew/200371877/"
     }, {
       "site" : "br.dk",
