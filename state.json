@@ -153,7 +153,7 @@
       "productId" : "sv9-battle-partners-booster-box-japansk",
       "name" : "Pokémon SV9 Battle Partners Booster Box (Japansk)",
       "price" : 689.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/sv9-battle-partners-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
