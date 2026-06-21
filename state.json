@@ -1344,7 +1344,7 @@
       "productId" : "200296069",
       "name" : "Pokémon booster surging sparks pakke – flere varianter – assorteret",
       "price" : 49.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-booster-surging-sparks-pakke-flere-varianter-assorteret/200296069/"
     }, {
       "site" : "br.dk",
