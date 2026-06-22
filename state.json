@@ -1299,6 +1299,20 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     }, {
       "site" : "br.dk",
+      "productId" : "200356085",
+      "name" : "Pokémon TCG: Mega Evolution Perfect order - samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-mega-evolution-perfect-order-samlekort/200356085/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200356078",
+      "name" : "Pokémon TCG booster pack - samlekort",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-booster-pack-samlekort/200356078/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366284",
       "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
       "price" : 299.0,
@@ -1409,6 +1423,13 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-25-cm/200195518/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200371886",
+      "name" : "Pokémon First Partner Collection Box 2 samlekort",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-2-samlekort/200371886/"
     } ]
   }
 }
