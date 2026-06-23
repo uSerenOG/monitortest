@@ -1152,18 +1152,18 @@
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
+      "productId" : "200366284",
+      "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-ascended-heroes-flere-varianter-assorteret/200366284/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200371874",
       "name" : "Pokémon Mini Tin med samlekort - Salamence/Litleo",
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-salamence-litleo/200371874/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200371875",
-      "name" : "Pokémin Mini Tin med samlekort - Meganium/Meowstic",
-      "price" : 119.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemin-mini-tin-med-samlekort-meganium-meowstic/200371875/"
     }, {
       "site" : "br.dk",
       "productId" : "200371882",
@@ -1178,6 +1178,13 @@
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-emboar-inkay/200371876/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200371875",
+      "name" : "Pokémin Mini Tin med samlekort - Meganium/Meowstic",
+      "price" : 119.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemin-mini-tin-med-samlekort-meganium-meowstic/200371875/"
     }, {
       "site" : "br.dk",
       "productId" : "200366279",
@@ -1201,25 +1208,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200209928",
-      "name" : "Pokemon Deluxe Battle Deck 23",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366280",
+      "name" : "Pokémon Chaos Rising - 3 pak",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
       "productId" : "200366285",
@@ -1229,32 +1229,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366281",
-      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200277178",
       "name" : "Pokémon battle spinner – flere varianter - assorteret",
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "100568448",
-      "name" : "Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
-      "price" : 40.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "100549325",
-      "name" : "Pokémon samlehæfte - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1271,11 +1250,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
-      "productId" : "200279925",
-      "name" : "Pokémon Battle Academy 2024",
+      "productId" : "200209928",
+      "name" : "Pokemon Deluxe Battle Deck 23",
       "price" : 249.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
     }, {
       "site" : "br.dk",
       "productId" : "100559004",
@@ -1285,11 +1264,53 @@
       "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366281",
+      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200279925",
+      "name" : "Pokémon Battle Academy 2024",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100568448",
+      "name" : "Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
+      "price" : 40.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366283",
       "name" : "Pokémon Chaos Rising Elite Trainer Box",
       "price" : 599.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200291390",
+      "name" : "Pokémon battle deck – flere varianter – assorteret",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100549325",
+      "name" : "Pokémon samlehæfte - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366278",
+      "name" : "Pokémon TCG Chaos Rising booster bundle - samlekort",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-chaos-rising-booster-bundle-samlekort/200366278/"
     }, {
       "site" : "br.dk",
       "productId" : "200356085",
@@ -1304,20 +1325,6 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-booster-pack-samlekort/200356078/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366284",
-      "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-ascended-heroes-flere-varianter-assorteret/200366284/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366278",
-      "name" : "Pokémon TCG Chaos Rising booster bundle - samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-chaos-rising-booster-bundle-samlekort/200366278/"
     }, {
       "site" : "br.dk",
       "productId" : "200354829",
@@ -1353,13 +1360,6 @@
       "price" : 479.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200291390",
-      "name" : "Pokémon battle deck – flere varianter – assorteret",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
     }, {
       "site" : "br.dk",
       "productId" : "200277179",
