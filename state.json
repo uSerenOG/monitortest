@@ -6,7 +6,7 @@
       "productId" : "pokemon-mystery-gaveaske-forenklet-kinesisk",
       "name" : "Pokémon Mystery Gift box (Simplified Chinese)",
       "price" : 139.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mystery-gaveaske-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
