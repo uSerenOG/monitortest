@@ -192,18 +192,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-heroes-mini-tin"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-151c-gathering-booster-box-forenklet-kinesisk",
-      "name" : "Pokémon 151C Gathering Booster Box (Simplified Chinese)",
-      "price" : 969.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151c-gathering-booster-box-forenklet-kinesisk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-elite-trainer-box",
       "name" : "Pokémon Mega Evolution Elite Trainer Box",
       "price" : 589.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-elite-trainer-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-151c-gathering-booster-box-forenklet-kinesisk",
+      "name" : "Pokémon 151C Gathering Booster Box (Simplified Chinese)",
+      "price" : 969.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151c-gathering-booster-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pokemon-day-2026-collection-box-3-pack",
