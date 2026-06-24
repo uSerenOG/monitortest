@@ -68,7 +68,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-dream-ex-boosterboks-japansk",
       "name" : "Pokémon Mega Dream ex Booster Box (Japansk)",
-      "price" : 990.0,
+      "price" : 899.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-dream-ex-boosterboks-japansk"
     }, {
@@ -1208,13 +1208,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200215319",
-      "name" : "Pokémon Battle Deck EX samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366280",
       "name" : "Pokémon Chaos Rising - 3 pak",
       "price" : 179.0,
@@ -1222,18 +1215,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366285",
-      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
-      "price" : 529.0,
+      "productId" : "200215319",
+      "name" : "Pokémon Battle Deck EX samlekort",
+      "price" : 179.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200277178",
-      "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
+      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1250,6 +1236,20 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
+      "productId" : "200279925",
+      "name" : "Pokémon Battle Academy 2024",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200277178",
+      "name" : "Pokémon battle spinner – flere varianter - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200209928",
       "name" : "Pokemon Deluxe Battle Deck 23",
       "price" : 249.0,
@@ -1264,18 +1264,18 @@
       "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366281",
       "name" : "Pokémon Chaos Rising Booster Pack samlekort",
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200279925",
-      "name" : "Pokémon Battle Academy 2024",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
     }, {
       "site" : "br.dk",
       "productId" : "100568448",
@@ -1313,13 +1313,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-chaos-rising-booster-bundle-samlekort/200366278/"
     }, {
       "site" : "br.dk",
-      "productId" : "200356085",
-      "name" : "Pokémon TCG: Mega Evolution Perfect order - samlekort",
-      "price" : 179.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-mega-evolution-perfect-order-samlekort/200356085/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200356078",
       "name" : "Pokémon TCG booster pack - samlekort",
       "price" : 49.0,
@@ -1346,13 +1339,6 @@
       "price" : 399.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-collector-s-chest-kuffert-med-samlekort/200340784/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200296069",
-      "name" : "Pokémon booster surging sparks pakke – flere varianter – assorteret",
-      "price" : 49.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-booster-surging-sparks-pakke-flere-varianter-assorteret/200296069/"
     }, {
       "site" : "br.dk",
       "productId" : "200291392",
