@@ -12,7 +12,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-abyss-eye-booster-box-japansk",
       "name" : "Pokémon Abyss Eye Booster Box (Japansk)",
-      "price" : 969.0,
+      "price" : 929.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-abyss-eye-booster-box-japansk"
     }, {
@@ -103,7 +103,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
       "name" : "Pokémon Ninja Spinner Booster Box (Japanese)",
-      "price" : 829.0,
+      "price" : 779.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-ninja-spinner-booster-box-japanese"
     }, {
@@ -122,18 +122,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-greninja-kangaskhan"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-premium-25-pack-plastfickor",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 49.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-premium-25-pack-plastfickor"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "sv9-battle-partners-booster-box-japansk",
       "name" : "Pokémon SV9 Battle Partners Booster Box (Japansk)",
       "price" : 689.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/sv9-battle-partners-booster-box-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "toploader-3x4-clear-premium-25-pack-plastfickor",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-premium-25-pack-plastfickor"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "battle-academy",
@@ -500,18 +500,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "mega-symphonia-m1s-booster-box-japanese",
-      "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
-      "price" : 689.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard X (65 stk)",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-x-65-stk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "mega-symphonia-m1s-booster-box-japanese",
+      "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
+      "price" : 739.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-flip-deck-box-mega-charizard-x",
@@ -1173,18 +1173,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-gallade-goomy/200371882/"
     }, {
       "site" : "br.dk",
-      "productId" : "200371876",
-      "name" : "Pokémon Mini Tin med samlekort - Emboar/Inkay",
-      "price" : 119.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-emboar-inkay/200371876/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200371875",
       "name" : "Pokémin Mini Tin med samlekort - Meganium/Meowstic",
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemin-mini-tin-med-samlekort-meganium-meowstic/200371875/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200371876",
+      "name" : "Pokémon Mini Tin med samlekort - Emboar/Inkay",
+      "price" : 119.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-emboar-inkay/200371876/"
     }, {
       "site" : "br.dk",
       "productId" : "200366279",
@@ -1201,13 +1201,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
-      "productId" : "100552697",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366280",
       "name" : "Pokémon Chaos Rising - 3 pak",
       "price" : 179.0,
@@ -1220,6 +1213,13 @@
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100552697",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1236,25 +1236,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
-      "productId" : "200279925",
-      "name" : "Pokémon Battle Academy 2024",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200277178",
       "name" : "Pokémon battle spinner – flere varianter - assorteret",
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200209928",
-      "name" : "Pokemon Deluxe Battle Deck 23",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
     }, {
       "site" : "br.dk",
       "productId" : "100559004",
@@ -1264,18 +1250,18 @@
       "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366285",
-      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
-      "price" : 529.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366281",
       "name" : "Pokémon Chaos Rising Booster Pack samlekort",
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200279925",
+      "name" : "Pokémon Battle Academy 2024",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
     }, {
       "site" : "br.dk",
       "productId" : "100568448",
@@ -1285,11 +1271,25 @@
       "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200291390",
       "name" : "Pokémon battle deck – flere varianter – assorteret",
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200209928",
+      "name" : "Pokemon Deluxe Battle Deck 23",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
     }, {
       "site" : "br.dk",
       "productId" : "100549325",
@@ -1393,21 +1393,21 @@
       "productId" : "200356089",
       "name" : "Pokemon first partner collection box",
       "price" : 249.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box/200356089/"
     }, {
       "site" : "br.dk",
       "productId" : "200353707",
       "name" : "Pokemon Premium Poster Collection boosterpakke",
       "price" : 799.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-premium-poster-collection-boosterpakke/200353707/"
     }, {
       "site" : "br.dk",
       "productId" : "200340782",
       "name" : "Pokémon Mega Venusaur ex Premium Collection pakke",
       "price" : 549.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-mega-venusaur-ex-premium-collection-pakke/200340782/"
     } ]
   }
