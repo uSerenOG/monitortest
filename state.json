@@ -1149,6 +1149,13 @@
       "price" : 119.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/binder-pikachu-2-pocket"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-collection-series-2",
+      "name" : "Pokémon First Partner Collection Series 2",
+      "price" : 2269.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-2"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
