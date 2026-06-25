@@ -1388,6 +1388,27 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-25-cm/200195518/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200356089",
+      "name" : "Pokemon first partner collection box",
+      "price" : 199.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box/200356089/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200353707",
+      "name" : "Pokemon Premium Poster Collection boosterpakke",
+      "price" : 699.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-premium-poster-collection-boosterpakke/200353707/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200340782",
+      "name" : "Pokémon Mega Venusaur ex Premium Collection pakke",
+      "price" : 449.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-venusaur-ex-premium-collection-pakke/200340782/"
     } ]
   }
 }
