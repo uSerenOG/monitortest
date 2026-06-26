@@ -76,7 +76,7 @@
       "productId" : "pokemon-mega-dream-ex-boosterboks-japansk",
       "name" : "Pokémon Mega Dream ex Booster Box (Japansk)",
       "price" : 899.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-dream-ex-boosterboks-japansk"
     }, {
       "site" : "maxgaming.dk",
