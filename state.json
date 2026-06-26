@@ -1330,7 +1330,7 @@
       "productId" : "200353707",
       "name" : "Pokemon Premium Poster Collection boosterpakke",
       "price" : 799.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-premium-poster-collection-boosterpakke/200353707/"
     }, {
       "site" : "br.dk",
