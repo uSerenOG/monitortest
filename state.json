@@ -1060,18 +1060,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/shimmering-skyline-sleeves-65-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
-      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
-      "price" : 819.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-paradise-dragona-sv4a-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Paradise Dragona SV7a Booster Box (Japanese)",
       "price" : 669.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-paradise-dragona-sv4a-booster-box-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
+      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
+      "price" : 819.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "bts-pencil-case-charizard",
