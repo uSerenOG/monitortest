@@ -1194,13 +1194,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
     }, {
       "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366280",
       "name" : "Pokémon Chaos Rising - 3 pak",
       "price" : 179.0,
@@ -1215,6 +1208,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
+    }, {
+      "site" : "br.dk",
       "productId" : "100552697",
       "name" : "Pokémon portefolio samlemappe assorteret",
       "price" : 89.0,
@@ -1227,13 +1227,6 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200277178",
-      "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1257,18 +1250,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
     }, {
       "site" : "br.dk",
+      "productId" : "200277178",
+      "name" : "Pokémon battle spinner – flere varianter - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
+    }, {
+      "site" : "br.dk",
       "productId" : "100568448",
       "name" : "Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
       "price" : 40.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "100559004",
-      "name" : "Plastlommer til samlemapper 9-lommer pr side",
-      "price" : 50.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
       "productId" : "200366285",
@@ -1283,6 +1276,13 @@
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100559004",
+      "name" : "Plastlommer til samlemapper 9-lommer pr side",
+      "price" : 50.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
       "productId" : "100549325",
