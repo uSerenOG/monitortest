@@ -59,18 +59,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151-dream-painting-water-ecology-figure-blind-collection-box-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-dream-ex-boosterboks-japansk",
-      "name" : "Pokémon Mega Dream ex Booster Box (Japansk)",
-      "price" : 899.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-dream-ex-boosterboks-japansk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
       "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
       "price" : 169.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-dream-ex-boosterboks-japansk",
+      "name" : "Pokémon Mega Dream ex Booster Box (Japansk)",
+      "price" : 899.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-dream-ex-boosterboks-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-plush-toy-card-display-gaveaske",
