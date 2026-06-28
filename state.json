@@ -878,18 +878,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-regular-25-pack",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 29.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-regular-25-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "mega-brave-m1l-booster-box-japanese",
       "name" : "Pokémon Mega Brave M1L Booster Box (Japanese)",
       "price" : 799.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "toploader-3x4-clear-regular-25-pack",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 29.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-regular-25-pack"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-venusaur-ex-premium-collection",
