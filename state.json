@@ -1215,13 +1215,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
-      "productId" : "100552697",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366282",
       "name" : "Pokémon Chaos Rising Premium Checklane",
       "price" : 79.0,
@@ -1229,18 +1222,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
-      "productId" : "100502881",
-      "name" : "Ultra Pro Pro-Fit Kortlommer til Samlekort  (100 stk.)",
-      "price" : 50.0,
+      "productId" : "100552697",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 89.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366281",
-      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
       "productId" : "200279925",
@@ -1264,11 +1250,25 @@
       "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
+      "productId" : "100502881",
+      "name" : "Ultra Pro Pro-Fit Kortlommer til Samlekort  (100 stk.)",
+      "price" : 50.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366281",
+      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
     }, {
       "site" : "br.dk",
       "productId" : "200291390",
