@@ -587,7 +587,7 @@
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
@@ -783,7 +783,7 @@
       "productId" : "pokemon-pikachu-special-box-pokemon-center-tohoku",
       "name" : "Pokémon Pikachu Special Box Pokémon Center - Tohoku",
       "price" : 1389.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
     }, {
       "site" : "maxgaming.dk",
@@ -794,18 +794,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-charizard-ex-ultra-premium-samling"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-special-box-pokemon-center-hiroshima",
-      "name" : "Pokémon Pikachu Special Box Pokémon Center - Hiroshima",
-      "price" : 1799.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-hiroshima"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-grafaiai-ex-box",
       "name" : "Pokémon Grafaiai ex Box",
       "price" : 259.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grafaiai-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-special-box-pokemon-center-hiroshima",
+      "name" : "Pokémon Pikachu Special Box Pokémon Center - Hiroshima",
+      "price" : 1799.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-hiroshima"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "center-mega-brave-japansk",
@@ -818,7 +818,7 @@
       "productId" : "pokemon-pikachu-special-box-pokemon-center-fukuoka",
       "name" : "Pokémon Pikachu Special Box Pokémon Center - Fukuoka",
       "price" : 1729.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-fukuoka"
     }, {
       "site" : "maxgaming.dk",
@@ -853,7 +853,7 @@
       "productId" : "mega-brave-m1l-booster-box-japanese",
       "name" : "Pokémon Mega Brave M1L Booster Box (Japanese)",
       "price" : 799.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
@@ -1156,6 +1156,34 @@
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-crystal-gathering-booster-box-simplified-chinese",
+      "name" : "Pokémon Crystal Gathering Booster Box (Simplified Chinese)",
+      "price" : 939.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-booster-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
+      "name" : "Pokémon Crystal Gathering Exclusive Gift Box (Simplified Chinese)",
+      "price" : 2890.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-2026-dragon-boat-festival-simplified-chinese",
+      "name" : "Pokémon 2026 Dragon Boat Festival (Simplified Chinese)",
+      "price" : 239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-dragon-boat-festival-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-grand-crystal-binder-gift-box-umbreon",
+      "name" : "Pokémon Grand Crystal Binder Gift Box - Umbreon",
+      "price" : 1219.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-umbreon"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
