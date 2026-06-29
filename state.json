@@ -360,18 +360,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-4-paradox-rift-booster",
-      "name" : "Pokémon Scarlet & Violet 4: Paradox Rift Booster",
-      "price" : 45.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-4-paradox-rift-booster"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-checklane-booster",
       "name" : "Pokémon ME04 Chaos Rising Checklane Booster",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-checklane-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-4-paradox-rift-booster",
+      "name" : "Pokémon Scarlet & Violet 4: Paradox Rift Booster",
+      "price" : 45.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-4-paradox-rift-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-black-bolt-booster-bundle-6-pack",
@@ -836,18 +836,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-super-electric-breaker-sv8-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder",
-      "name" : "Pokémon Elite Series Charizard 12-Lomme Lynlås PRO Binder",
-      "price" : 409.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-gift-box-bulbasaur-simplified-chinese",
       "name" : "Pokémon First Partner Gift Box - Bulbasaur (Simplified Chinese)",
       "price" : 1090.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-bulbasaur-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder",
+      "name" : "Pokémon Elite Series Charizard 12-Lomme Lynlås PRO Binder",
+      "price" : 409.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "mega-brave-m1l-booster-box-japanese",
