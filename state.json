@@ -1281,7 +1281,7 @@
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
