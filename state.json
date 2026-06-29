@@ -13,7 +13,7 @@
       "productId" : "pokemon-gem-pack-vol-5-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 5 Booster Box (Simplified Chinese)",
       "price" : 449.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-5-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -962,18 +962,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-blister-3-pak"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-portfolio-9-p-mega-charizard-x-y",
-      "name" : "Pokémon Portfolio 9-P Mega Charizard X/Y",
-      "price" : 119.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-mega-charizard-x-y"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-portfolio-9-p-poke-me01",
       "name" : "Pokémon Portfolio 9-P Poke ME01",
       "price" : 1149.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-poke-me01"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-portfolio-9-p-mega-charizard-x-y",
+      "name" : "Pokémon Portfolio 9-P Mega Charizard X/Y",
+      "price" : 119.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-marnie",
@@ -1253,7 +1253,7 @@
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
