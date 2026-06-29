@@ -1081,18 +1081,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-melmetal-ex"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "bts-pencil-case-charizard",
-      "name" : "Pokémon BTS Pencil Case Charizard",
-      "price" : 103.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/bts-pencil-case-charizard"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "tcg-my-first-battle-charmander-squirtle",
       "name" : "Pokémon TCG My first battle - Charmander & Squirtle",
       "price" : 117.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "bts-pencil-case-charizard",
+      "name" : "Pokémon BTS Pencil Case Charizard",
+      "price" : 103.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/bts-pencil-case-charizard"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-steven",
