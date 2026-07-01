@@ -430,18 +430,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x-rod"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "sv2a-151-booster-box-japansk",
       "name" : "Pokémon SV2a 151 Booster Box (Japansk)",
       "price" : 1839.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/sv2a-151-booster-box-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "deck-sleeve-charmander-65-stk",
