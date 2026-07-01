@@ -1222,13 +1222,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
@@ -1250,18 +1243,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366280",
+      "name" : "Pokémon Chaos Rising - 3 pak",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200277178",
-      "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1271,18 +1264,11 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366282",
-      "name" : "Pokémon Chaos Rising Premium Checklane",
-      "price" : 79.0,
+      "productId" : "200277178",
+      "name" : "Pokémon battle spinner – flere varianter - assorteret",
+      "price" : 129.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366281",
-      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
       "productId" : "100568448",
@@ -1297,6 +1283,20 @@
       "price" : 529.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366282",
+      "name" : "Pokémon Chaos Rising Premium Checklane",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366281",
+      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
     }, {
       "site" : "br.dk",
       "productId" : "200366278",
@@ -1334,13 +1334,6 @@
       "url" : "https://www.br.dk/produkter/ultrapro-pokemon-9p-samlemappe-charizard/200354828/"
     }, {
       "site" : "br.dk",
-      "productId" : "200353708",
-      "name" : "Pokemon boosterpakke ME02.5 Ascended Heros",
-      "price" : 499.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-boosterpakke-me02-5-ascended-heros/200353708/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200353707",
       "name" : "Pokemon Premium Poster Collection boosterpakke",
       "price" : 799.0,
@@ -1360,13 +1353,6 @@
       "price" : 549.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-mega-venusaur-ex-premium-collection-pakke/200340782/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200308076",
-      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
-      "price" : 849.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
     }, {
       "site" : "br.dk",
       "productId" : "200291392",
