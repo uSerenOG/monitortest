@@ -822,18 +822,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-charizard-ex-ultra-premium-samling"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-special-box-pokemon-center-fukuoka",
-      "name" : "Pokémon Pikachu Special Box Pokémon Center - Fukuoka",
-      "price" : 1729.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-fukuoka"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-grafaiai-ex-box",
       "name" : "Pokémon Grafaiai ex Box",
       "price" : 259.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grafaiai-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-special-box-pokemon-center-fukuoka",
+      "name" : "Pokémon Pikachu Special Box Pokémon Center - Fukuoka",
+      "price" : 1729.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-fukuoka"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "center-mega-brave-japansk",
