@@ -1197,7 +1197,7 @@
       "productId" : "200371875",
       "name" : "Pokémin Mini Tin med samlekort - Meganium/Meowstic",
       "price" : 119.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemin-mini-tin-med-samlekort-meganium-meowstic/200371875/"
     }, {
       "site" : "br.dk",
@@ -1281,7 +1281,7 @@
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
