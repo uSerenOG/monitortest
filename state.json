@@ -1351,7 +1351,7 @@
       "productId" : "200340782",
       "name" : "Pokémon Mega Venusaur ex Premium Collection pakke",
       "price" : 549.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mega-venusaur-ex-premium-collection-pakke/200340782/"
     }, {
       "site" : "br.dk",
