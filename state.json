@@ -1428,7 +1428,7 @@
       "productId" : "200353708",
       "name" : "Pokemon boosterpakke ME02.5 Ascended Heros",
       "price" : 499.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-boosterpakke-me02-5-ascended-heros/200353708/"
     }, {
       "site" : "br.dk",
