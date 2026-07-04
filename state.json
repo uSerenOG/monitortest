@@ -633,18 +633,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-checklane-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-premium-checklane",
-      "name" : "Pokémon Mega Evolution Premium Checklane",
-      "price" : 79.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-premium-checklane"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mini-album-med-booster-q1-26",
       "name" : "Pokémon Mini Album med Booster Q1 26",
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-evolution-premium-checklane",
+      "name" : "Pokémon Mega Evolution Premium Checklane",
+      "price" : 79.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-premium-checklane"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
@@ -899,18 +899,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-charmander-mappe-4-pocket",
-      "name" : "Pokémon Charmander Mappe - 4 Pocket",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-4-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – M",
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-charmander-mappe-4-pocket",
+      "name" : "Pokémon Charmander Mappe - 4 Pocket",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-4-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-charmander",
@@ -962,18 +962,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-lucario-ex-figur-samling",
-      "name" : "Pokémon Mega Lucario ex Figure Collection",
-      "price" : 339.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-lucario-ex-figur-samling"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
       "price" : 1019.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-lucario-ex-figur-samling",
+      "name" : "Pokémon Mega Lucario ex Figure Collection",
+      "price" : 339.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-lucario-ex-figur-samling"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "flareon-vmax-gift-box",
@@ -1158,18 +1158,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-steven"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "deluxe-battle-deck-miraidon",
-      "name" : "Pokémon Deluxe Battle Deck Miraidon ex",
-      "price" : 199.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/deluxe-battle-deck-miraidon"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-premium-rod-snap-binder-poke",
       "name" : "Pokémon Premium Red Snap Binder",
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "deluxe-battle-deck-miraidon",
+      "name" : "Pokémon Deluxe Battle Deck Miraidon ex",
+      "price" : 199.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/deluxe-battle-deck-miraidon"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "binder-pikachu-2-pocket",
