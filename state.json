@@ -885,18 +885,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-charmander-mappe-9-pocket",
-      "name" : "Pokémon Charmander Mappe - 9 Pocket",
-      "price" : 109.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-forste-partner-gaveaske-forenklet-kinesisk",
       "name" : "Pokémon First Partner Gift Box - Squirtle (Simplified Chinese)",
       "price" : 1090.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-forste-partner-gaveaske-forenklet-kinesisk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-charmander-mappe-9-pocket",
+      "name" : "Pokémon Charmander Mappe - 9 Pocket",
+      "price" : 109.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
