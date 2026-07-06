@@ -103,7 +103,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
       "name" : "Pokémon Ninja Spinner Booster Box (Japanese)",
-      "price" : 779.0,
+      "price" : 759.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-ninja-spinner-booster-box-japanese"
     }, {
@@ -901,7 +901,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-charmander-mappe-9-pocket",
       "name" : "Pokémon Charmander Mappe - 9 Pocket",
-      "price" : 109.0,
+      "price" : 99.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
     }, {
@@ -1219,6 +1219,20 @@
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
+      "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
+      "price" : 1149.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-lumiose-city-mini-tin",
+      "name" : "Pokémon Lumiose City Mini Tin",
+      "price" : 125.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
@@ -1318,13 +1332,6 @@
       "price" : 549.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mega-venusaur-ex-premium-collection-pakke/200340782/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200308076",
-      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
-      "price" : 849.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
     }, {
       "site" : "br.dk",
       "productId" : "200296069",
