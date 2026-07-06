@@ -61,7 +61,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-abyss-eye-booster-box-japansk",
       "name" : "Pokémon Abyss Eye Booster Box (Japansk)",
-      "price" : 929.0,
+      "price" : 819.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-abyss-eye-booster-box-japansk"
     }, {
@@ -1179,6 +1179,20 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-lumiose-city-mini-tin",
+      "name" : "Pokémon Lumiose City Mini Tin",
+      "price" : 125.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
+      "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
+      "price" : 1149.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-elite-trainer-box",
       "name" : "Pokémon ME05: Pitch Black - Elite Trainer Box",
       "price" : 669.0,
@@ -1219,20 +1233,6 @@
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
-      "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
-      "price" : 1149.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-lumiose-city-mini-tin",
-      "name" : "Pokémon Lumiose City Mini Tin",
-      "price" : 125.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
