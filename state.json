@@ -745,18 +745,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-ex-gengar-diancie"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-9-journey-together-9-pocket-binder",
-      "name" : "Pokémon Scarlet & Violet 9: Journey Together 9-pocket binder",
-      "price" : 99.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me25-ascended-heroes-enhanced-2-pack",
       "name" : "Pokémon ME2.5 Ascended Heroes Enhanced 2-Pack",
       "price" : 125.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-enhanced-2-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-9-journey-together-9-pocket-binder",
+      "name" : "Pokémon Scarlet & Violet 9: Journey Together 9-pocket binder",
+      "price" : 99.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-super-electric-breaker-sv8-booster-box-japanese",
