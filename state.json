@@ -318,18 +318,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-psyduck-ar-199-193-m2a-japansk-mega-dream-ex"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-team-rockets-mewtwo-ex-league-battle-deck",
-      "name" : "Pokémon Team Rocket's Mewtwo ex League Battle Deck",
-      "price" : 369.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-team-rockets-mewtwo-ex-league-battle-deck"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-blister-booster",
       "name" : "Pokémon ME04 Chaos Rising Blister Booster",
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-team-rockets-mewtwo-ex-league-battle-deck",
+      "name" : "Pokémon Team Rocket's Mewtwo ex League Battle Deck",
+      "price" : 369.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-team-rockets-mewtwo-ex-league-battle-deck"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-munikis-zero-booster-box-japanese",
