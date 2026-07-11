@@ -1267,7 +1267,7 @@
       "productId" : "200366280",
       "name" : "Pokémon Chaos Rising - 3 pak",
       "price" : 179.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
