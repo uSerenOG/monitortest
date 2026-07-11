@@ -969,18 +969,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-traner-varktojskasse-25",
-      "name" : "Pokémon Træner Værktøjskasse 25",
-      "price" : 25375.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "jolteon-vmax-gift-box",
       "name" : "Pokémon Jolteon VMAX Gift Box (Simplified Chinese)",
       "price" : 1029.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/jolteon-vmax-gift-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-traner-varktojskasse-25",
+      "name" : "Pokémon Træner Værktøjskasse 25",
+      "price" : 25375.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-premium-checklane",
