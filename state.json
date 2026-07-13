@@ -1011,13 +1011,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
-      "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
-      "price" : 1149.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-charmander",
       "name" : "Pokémon Playmat Charmander",
       "price" : 199.0,
@@ -1030,6 +1023,13 @@
       "price" : 25375.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
+      "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
+      "price" : 1149.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-portfolio-9-p-poke-me01",
