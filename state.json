@@ -614,7 +614,7 @@
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-shiny-treasure-ex-sv4a-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Shiny Treasure ex SV4a Booster Box (Japanese)",
-      "price" : 855.0,
+      "price" : 1289.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-shiny-treasure-ex-sv4a-booster-box-japanese"
     }, {
@@ -860,7 +860,7 @@
       "productId" : "pokemon-grand-crystal-binder-gift-box-umbreon",
       "name" : "Pokémon Grand Crystal Binder Gift Box - Umbreon",
       "price" : 1219.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-umbreon"
     }, {
       "site" : "maxgaming.dk",
@@ -909,7 +909,7 @@
       "productId" : "pokemon-2026-dragon-boat-festival-simplified-chinese",
       "name" : "Pokémon 2026 Dragon Boat Festival (Simplified Chinese)",
       "price" : 239.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-dragon-boat-festival-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -1028,7 +1028,7 @@
       "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
       "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
       "price" : 1149.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
     }, {
       "site" : "maxgaming.dk",
