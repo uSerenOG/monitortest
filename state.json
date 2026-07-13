@@ -696,18 +696,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
-      "name" : "Pokémon Crystal Gathering Exclusive Gift Box (Simplified Chinese)",
-      "price" : 2890.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-ex-gengar-diancie",
       "name" : "Pokémon Battle Deck Ex Gengar/Diancie",
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-ex-gengar-diancie"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
+      "name" : "Pokémon Crystal Gathering Exclusive Gift Box (Simplified Chinese)",
+      "price" : 2890.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-premium-checklane",
