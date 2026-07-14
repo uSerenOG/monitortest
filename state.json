@@ -220,18 +220,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-heroes-mini-tin"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-phantasmal-flames-booster",
-      "name" : "Pokémon ME02 Phantasmal Flames Booster",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-booster"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
       "name" : "Pokémon ME04 Chaos Rising Booster Bundle (6-Pack)",
       "price" : 379.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster-bundle-6-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me02-phantasmal-flames-booster",
+      "name" : "Pokémon ME02 Phantasmal Flames Booster",
+      "price" : 90.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-booster",
@@ -493,6 +493,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-y"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-deck-box-alcove-tower",
+      "name" : "Pokémon Pikachu Deck Box Alcove Tower",
+      "price" : 329.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-deck-box-alcove-tower"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard X (65 stk)",
       "price" : 59.0,
@@ -505,13 +512,6 @@
       "price" : 1229.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/vstar-universe-booster-box-japansk"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-deck-box-alcove-tower",
-      "name" : "Pokémon Pikachu Deck Box Alcove Tower",
-      "price" : 329.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-deck-box-alcove-tower"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
@@ -976,18 +976,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-samlerkiste",
-      "name" : "Pokémon Collector's Chest 2025",
-      "price" : 25339.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-forste-partner-gaveaske-forenklet-kinesisk",
       "name" : "Pokémon First Partner Gift Box - Squirtle (Simplified Chinese)",
       "price" : 1090.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-forste-partner-gaveaske-forenklet-kinesisk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-samlerkiste",
+      "name" : "Pokémon Collector's Chest 2025",
+      "price" : 25339.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-blister-3-pak",
@@ -1088,6 +1088,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-me05-pitch-black-checklane",
+      "name" : "Pokémon ME05: Pitch Black - Checklane",
+      "price" : 59.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-checklane-booster",
       "name" : "Pokémon Mega Evolution Checklane Booster",
       "price" : 59.0,
@@ -1102,13 +1109,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-binder-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me05-pitch-black-checklane",
-      "name" : "Pokémon ME05: Pitch Black - Checklane",
-      "price" : 59.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
       "price" : 819.0,
@@ -1116,18 +1116,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "tcg-my-first-battle-charmander-squirtle",
-      "name" : "Pokémon TCG My first battle - Charmander & Squirtle",
-      "price" : 117.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-lumiose-city-mini-tin",
       "name" : "Pokémon Lumiose City Mini Tin",
       "price" : 125.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "tcg-my-first-battle-charmander-squirtle",
+      "name" : "Pokémon TCG My first battle - Charmander & Squirtle",
+      "price" : 117.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "center-mega-brave-japansk",
