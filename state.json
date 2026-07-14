@@ -1238,7 +1238,7 @@
       "productId" : "pokemon-first-partner-card-set-vol-2",
       "name" : "Pokémon First Partner Card Set Vol 2",
       "price" : 2139.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-vol-2"
     } ],
     "br.dk" : [ {
