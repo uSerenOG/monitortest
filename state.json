@@ -493,13 +493,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-y"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-deck-box-alcove-tower",
-      "name" : "Pokémon Pikachu Deck Box Alcove Tower",
-      "price" : 329.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-deck-box-alcove-tower"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard X (65 stk)",
       "price" : 59.0,
@@ -512,6 +505,13 @@
       "price" : 1229.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/vstar-universe-booster-box-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-deck-box-alcove-tower",
+      "name" : "Pokémon Pikachu Deck Box Alcove Tower",
+      "price" : 329.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-deck-box-alcove-tower"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
