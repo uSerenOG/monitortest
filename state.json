@@ -440,7 +440,7 @@
       "productId" : "mega-inferno-x-booster-box-japansk",
       "name" : "Pokémon Mega Inferno X Booster Box (Japansk)",
       "price" : 1249.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-inferno-x-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
@@ -622,7 +622,7 @@
       "productId" : "scarlet-violet-shiny-treasure-ex-sv4a-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Shiny Treasure ex SV4a Booster Box (Japanese)",
       "price" : 1289.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-shiny-treasure-ex-sv4a-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
@@ -1233,6 +1233,13 @@
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/deluxe-battle-deck-miraidon"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-card-set-vol-2",
+      "name" : "Pokémon First Partner Card Set Vol 2",
+      "price" : 2139.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-vol-2"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
