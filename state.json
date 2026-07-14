@@ -370,7 +370,7 @@
       "productId" : "pokemon-gem-pack-vol-3-booster-box-forenklet-kinesisk",
       "name" : "Pokémon Gem Pack Vol 3 Booster Box (Simplified Chinese)",
       "price" : 749.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-3-booster-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
@@ -909,7 +909,7 @@
       "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
       "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
       "price" : 1149.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
     }, {
       "site" : "maxgaming.dk",
