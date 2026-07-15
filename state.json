@@ -1456,7 +1456,7 @@
       "productId" : "200380918",
       "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
       "price" : 599.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
@@ -1491,7 +1491,7 @@
       "productId" : "200380908",
       "name" : "Pokémon Pitch Black booster bundle - samlekort",
       "price" : 299.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     }, {
       "site" : "br.dk",
