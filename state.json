@@ -839,7 +839,7 @@
       "productId" : "pokemon-me05-pitch-black-booster-bundle",
       "name" : "Pokémon ME05: Pitch Black - Booster Bundle",
       "price" : 479.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
@@ -1247,6 +1247,13 @@
       "price" : 499.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-summer-ex-tin-box",
+      "name" : "Pokémon Summer ex Tin box",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
