@@ -90,7 +90,7 @@
       "productId" : "pokemon-mystery-gaveaske-forenklet-kinesisk",
       "name" : "Pokémon Mystery Gift box (Simplified Chinese)",
       "price" : 139.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mystery-gaveaske-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
@@ -867,7 +867,7 @@
       "productId" : "pokemon-me05-pitch-black-3-pack-blister",
       "name" : "Pokémon ME05: Pitch Black - 3-Pack Blister",
       "price" : 179.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-3-pack-blister"
     }, {
       "site" : "maxgaming.dk",
@@ -1035,7 +1035,7 @@
       "productId" : "pokemon-me05-pitch-black-checklane",
       "name" : "Pokémon ME05: Pitch Black - Checklane",
       "price" : 59.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
     }, {
       "site" : "maxgaming.dk",
