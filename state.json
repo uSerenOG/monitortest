@@ -20,7 +20,7 @@
       "productId" : "pokemon-ascended-heroes-booster-bundle",
       "name" : "Pokémon Ascended Heroes Booster Bundle",
       "price" : 419.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-ascended-heroes-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
@@ -174,7 +174,7 @@
       "productId" : "scarlet-violet-10-destined-rivals-booster-2",
       "name" : "Pokémon Scarlet & Violet 10: Destined Rivals Booster",
       "price" : 54.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-booster-2"
     }, {
       "site" : "maxgaming.dk",
@@ -895,7 +895,7 @@
       "productId" : "battle-academy",
       "name" : "Pokémon Battle Academy",
       "price" : 241.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/battle-academy"
     }, {
       "site" : "maxgaming.dk",
@@ -1098,7 +1098,7 @@
       "productId" : "pokemon-lumiose-city-mini-tin",
       "name" : "Pokémon Lumiose City Mini Tin",
       "price" : 125.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
     }, {
       "site" : "maxgaming.dk",
@@ -1245,7 +1245,7 @@
       "productId" : "pokemon-mega-greninja-ex-premium-collection",
       "name" : "Pokémon Mega Greninja ex Premium Collection",
       "price" : 499.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
     } ],
     "br.dk" : [ {
