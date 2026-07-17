@@ -902,7 +902,7 @@
       "productId" : "pokemon-me05-pitch-black-premium-checklane",
       "name" : "Pokémon ME05: Pitch Black - Premium Checklane",
       "price" : 59.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-premium-checklane"
     }, {
       "site" : "maxgaming.dk",
