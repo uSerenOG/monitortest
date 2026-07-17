@@ -20,7 +20,7 @@
       "productId" : "pokemon-ascended-heroes-booster-bundle",
       "name" : "Pokémon Ascended Heroes Booster Bundle",
       "price" : 419.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-ascended-heroes-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
@@ -1240,6 +1240,13 @@
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/deluxe-battle-deck-miraidon"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-greninja-ex-premium-collection",
+      "name" : "Pokémon Mega Greninja ex Premium Collection",
+      "price" : 499.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
