@@ -248,18 +248,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-battle-deck-greninja-kangaskhan",
-      "name" : "Pokémon Battle Deck Greninja/Kangaskhan",
-      "price" : 172.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-greninja-kangaskhan"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-scarlet-violet-7-stellar-crown-elite-trainer-box",
       "name" : "Pokémon Scarlet & Violet 7: Stellar Crown Elite Trainer Box",
       "price" : 399.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-scarlet-violet-7-stellar-crown-elite-trainer-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-battle-deck-greninja-kangaskhan",
+      "name" : "Pokémon Battle Deck Greninja/Kangaskhan",
+      "price" : 172.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-greninja-kangaskhan"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-booster",
@@ -402,18 +402,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-inferno-x-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "9-pocket-binder-tinkaton",
-      "name" : "Pokémon 9-Pocket Binder: Tinkaton",
-      "price" : 130.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/9-pocket-binder-tinkaton"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-black-bolt-white-flare-unova-poster-collection",
       "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Unova Poster Collection",
       "price" : 261.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-unova-poster-collection"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "9-pocket-binder-tinkaton",
+      "name" : "Pokémon 9-Pocket Binder: Tinkaton",
+      "price" : 130.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/9-pocket-binder-tinkaton"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-zygarde-ex-premium-collection",
