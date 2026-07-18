@@ -776,7 +776,7 @@
       "productId" : "scarlet-violet-9-journey-together-9-pocket-binder",
       "name" : "Pokémon Scarlet & Violet 9: Journey Together 9-pocket binder",
       "price" : 99.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
     }, {
       "site" : "maxgaming.dk",
