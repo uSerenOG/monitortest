@@ -549,13 +549,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/vstar-universe-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
-      "name" : "Pokémon Deck Pro Mega Charizard Y (65 stk)",
-      "price" : 59.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-y-65-stk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
@@ -563,11 +556,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-flip-deck-box-mega-charizard-x",
-      "name" : "Pokémon Flip Deck Box Mega Charizard X",
-      "price" : 239.0,
+      "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
+      "name" : "Pokémon Deck Pro Mega Charizard Y (65 stk)",
+      "price" : 59.0,
       "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-y-65-stk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-tin-pokeball-25-rel-5-12",
@@ -575,6 +568,13 @@
       "price" : 25172.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tin-pokeball-25-rel-5-12"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-flip-deck-box-mega-charizard-x",
+      "name" : "Pokémon Flip Deck Box Mega Charizard X",
+      "price" : 239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "ultra-pro-charmander-m2-deck-box",
@@ -920,18 +920,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/battle-academy"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
-      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
-      "price" : 1019.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
       "name" : "Pokémon ME05: Pitch Black - Checklane",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
+      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
+      "price" : 1019.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-venusaur-ex-premium-collection",
