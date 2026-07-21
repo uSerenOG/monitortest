@@ -860,7 +860,7 @@
       "productId" : "pokemon-summer-ex-tin-box",
       "name" : "Pokémon Summer ex Tin box",
       "price" : 299.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
     }, {
       "site" : "maxgaming.dk",
