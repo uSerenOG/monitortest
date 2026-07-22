@@ -1295,7 +1295,7 @@
       "productId" : "200366279",
       "name" : "Pokémon Chaos Rising 1 pak",
       "price" : 49.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
     }, {
       "site" : "br.dk",
@@ -1465,6 +1465,13 @@
       "price" : 50.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200296069",
+      "name" : "Pokémon booster surging sparks pakke – flere varianter – assorteret",
+      "price" : 49.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-booster-surging-sparks-pakke-flere-varianter-assorteret/200296069/"
     }, {
       "site" : "br.dk",
       "productId" : "200366285",
