@@ -76,7 +76,7 @@
       "productId" : "pokemon-gem-pack-vol-4-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 4 Booster Box (Simplified Chinese)",
       "price" : 349.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-4-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -111,7 +111,7 @@
       "productId" : "pokemon-gem-pack-vol-5-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 5 Booster Box (Simplified Chinese)",
       "price" : 449.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-5-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -139,7 +139,7 @@
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
       "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
       "price" : 169.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
