@@ -1260,7 +1260,7 @@
       "productId" : "200371882",
       "name" : "Pokémon Mini Tin med samlekort - Gallade/Goomy",
       "price" : 119.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mini-tin-med-samlekort-gallade-goomy/200371882/"
     }, {
       "site" : "br.dk",
