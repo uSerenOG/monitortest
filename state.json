@@ -664,7 +664,7 @@
       "productId" : "pokemon-mega-greninja-ex-premium-collection",
       "name" : "Pokémon Mega Greninja ex Premium Collection",
       "price" : 499.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
