@@ -1126,7 +1126,7 @@
       "productId" : "pokemon-traner-varktojskasse-25",
       "name" : "Pokémon Træner Værktøjskasse 25",
       "price" : 25375.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
     }, {
       "site" : "maxgaming.dk",
