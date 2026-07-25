@@ -167,7 +167,7 @@
       "productId" : "mega-inferno-x-booster-box-japansk",
       "name" : "Pokémon Mega Inferno X Booster Box (Japansk)",
       "price" : 1249.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-inferno-x-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
