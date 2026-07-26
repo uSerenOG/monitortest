@@ -307,7 +307,7 @@
       "productId" : "pokemon-battle-deck-greninja-kangaskhan",
       "name" : "Pokémon Battle Deck Greninja/Kangaskhan",
       "price" : 172.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-greninja-kangaskhan"
     }, {
       "site" : "maxgaming.dk",
