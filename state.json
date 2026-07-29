@@ -640,18 +640,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-white-flare-sv11w-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-card-set-simplified-chinese",
-      "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
-      "price" : 169.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mini-album-med-booster-q1-26",
       "name" : "Pokémon Mini Album med Booster Q1 26",
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-card-set-simplified-chinese",
+      "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
+      "price" : 169.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-blister-3-pack",
