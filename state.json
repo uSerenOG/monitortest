@@ -577,18 +577,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tinkaton-deck-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-flip-deck-box-mega-charizard-x",
-      "name" : "Pokémon Flip Deck Box Mega Charizard X",
-      "price" : 239.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "ultra-pro-charmander-m2-deck-box",
       "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
       "price" : 329.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-flip-deck-box-mega-charizard-x",
+      "name" : "Pokémon Flip Deck Box Mega Charizard X",
+      "price" : 239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-ceruledge",
