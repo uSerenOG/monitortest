@@ -1035,7 +1035,7 @@
       "productId" : "jolteon-vmax-gift-box",
       "name" : "Pokémon Jolteon VMAX Gift Box (Simplified Chinese)",
       "price" : 1029.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/jolteon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
