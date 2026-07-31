@@ -1493,13 +1493,6 @@
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     } ]
   }
 }
