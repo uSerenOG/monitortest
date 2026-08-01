@@ -181,7 +181,7 @@
       "productId" : "battle-academy",
       "name" : "Pokémon Battle Academy",
       "price" : 241.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/battle-academy"
     }, {
       "site" : "maxgaming.dk",
