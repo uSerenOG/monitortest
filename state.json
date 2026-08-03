@@ -1453,6 +1453,13 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200380918",
       "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
       "price" : 599.0,
@@ -1493,6 +1500,13 @@
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366283",
+      "name" : "Pokémon Chaos Rising Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     } ]
   }
 }
