@@ -13,7 +13,7 @@
       "productId" : "pokemon-me05-pitch-black-booster",
       "name" : "Pokémon ME05: Pitch Black - Booster",
       "price" : 49.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster"
     }, {
       "site" : "maxgaming.dk",
@@ -1460,6 +1460,13 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366279",
+      "name" : "Pokémon Chaos Rising 1 pak",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
@@ -1500,20 +1507,6 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380908",
-      "name" : "Pokémon Pitch Black booster bundle - samlekort",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     } ]
   }
 }
