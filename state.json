@@ -1512,7 +1512,7 @@
       "productId" : "200366283",
       "name" : "Pokémon Chaos Rising Elite Trainer Box",
       "price" : 599.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     } ]
   }
