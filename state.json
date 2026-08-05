@@ -1278,20 +1278,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366279",
-      "name" : "Pokémon Chaos Rising 1 pak",
-      "price" : 49.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366278",
       "name" : "Pokémon TCG Chaos Rising booster bundle - samlekort",
       "price" : 299.0,
@@ -1486,6 +1472,13 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380908",
+      "name" : "Pokémon Pitch Black booster bundle - samlekort",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     } ]
   }
 }
