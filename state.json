@@ -1264,13 +1264,6 @@
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
-      "productId" : "200380919",
-      "name" : "Pokémon Box Premium Ex Mega Greninja",
-      "price" : 529.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-box-premium-ex-mega-greninja/200380919/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366284",
       "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
       "price" : 299.0,
@@ -1283,13 +1276,6 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366281",
-      "name" : "Pokémon Chaos Rising Booster Pack samlekort",
-      "price" : 69.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-booster-pack-samlekort/200366281/"
     }, {
       "site" : "br.dk",
       "productId" : "200366280",
