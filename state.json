@@ -710,18 +710,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-black-bolt-sv11b-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-special-box-pokemon-center-tohoku",
-      "name" : "Pokémon Pikachu Special Box Pokémon Center - Tohoku",
-      "price" : 1389.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
       "name" : "Pokémon Crystal Gathering Exclusive Gift Box (Simplified Chinese)",
       "price" : 2890.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-special-box-pokemon-center-tohoku",
+      "name" : "Pokémon Pikachu Special Box Pokémon Center - Tohoku",
+      "price" : 1389.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-special-box-pokemon-center-hiroshima",
