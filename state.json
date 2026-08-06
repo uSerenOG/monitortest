@@ -699,7 +699,7 @@
       "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
       "name" : "Ultra Pro Toploader 3x4",
       "price" : 89.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
     }, {
       "site" : "maxgaming.dk",
