@@ -1453,6 +1453,13 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366279",
+      "name" : "Pokémon Chaos Rising 1 pak",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
