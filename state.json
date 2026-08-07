@@ -1313,6 +1313,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-collector-s-chest-kuffert-med-samlekort/200340784/"
     }, {
       "site" : "br.dk",
+      "productId" : "200308076",
+      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
+      "price" : 849.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200291392",
       "name" : "Pokémon trainer toolkit",
       "price" : 479.0,
@@ -1456,7 +1463,7 @@
       "productId" : "200385295",
       "name" : "Pokemon First Partner collection box 3 samlekort",
       "price" : 249.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
     }, {
       "site" : "br.dk",
@@ -1500,13 +1507,6 @@
       "price" : 599.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200308076",
-      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
-      "price" : 849.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
     } ]
   }
 }
