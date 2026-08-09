@@ -682,18 +682,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pro-binder-9-p-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 89.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-heroes-mini-tin",
       "name" : "Pokémon Mega Heroes Mini Tin",
       "price" : 159.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-heroes-mini-tin"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 89.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
