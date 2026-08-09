@@ -209,7 +209,7 @@
       "productId" : "pokemon-team-rockets-mewtwo-ex-league-battle-deck",
       "name" : "Pokémon Team Rocket's Mewtwo ex League Battle Deck",
       "price" : 369.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-team-rockets-mewtwo-ex-league-battle-deck"
     }, {
       "site" : "maxgaming.dk",
@@ -1334,6 +1334,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366283",
+      "name" : "Pokémon Chaos Rising Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
       "productId" : "100502881",
       "name" : "Ultra Pro Pro-Fit Kortlommer til Samlekort  (100 stk.)",
       "price" : 50.0,
@@ -1348,13 +1355,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366280",
       "name" : "Pokémon Chaos Rising - 3 pak",
       "price" : 179.0,
@@ -1362,18 +1362,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
-      "productId" : "200308076",
-      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
-      "price" : 849.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366285",
       "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
       "price" : 529.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200308076",
+      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
+      "price" : 849.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
     }, {
       "site" : "br.dk",
       "productId" : "200385295",
