@@ -1369,20 +1369,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
-      "productId" : "200308076",
-      "name" : "Pokémon Prismatic Elite Trainer Box samlekort",
-      "price" : 849.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-prismatic-elite-trainer-box-samlekort/200308076/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200385295",
-      "name" : "Pokemon First Partner collection box 3 samlekort",
-      "price" : 249.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100559004",
       "name" : "Plastlommer til samlemapper 9-lommer pr side",
       "price" : 50.0,
@@ -1402,13 +1388,6 @@
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366279",
-      "name" : "Pokémon Chaos Rising 1 pak",
-      "price" : 49.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
     }, {
       "site" : "br.dk",
       "productId" : "200366282",
@@ -1444,13 +1423,6 @@
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-35-cm/200195520/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200371886",
-      "name" : "Pokémon First Partner Collection Box 2 samlekort",
-      "price" : 249.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-2-samlekort/200371886/"
     }, {
       "site" : "br.dk",
       "productId" : "200366284",
@@ -1514,6 +1486,13 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380908",
+      "name" : "Pokémon Pitch Black booster bundle - samlekort",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     } ]
   }
 }
