@@ -1261,6 +1261,13 @@
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/deluxe-battle-deck-miraidon"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-grand-crystal-mystery-box-simplified-chinese",
+      "name" : "Pokémon Grand Crystal Mystery Box (Simplified Chinese)",
+      "price" : 259.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-mystery-box-simplified-chinese"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
@@ -1435,7 +1442,7 @@
       "productId" : "200366278",
       "name" : "Pokémon TCG Chaos Rising booster bundle - samlekort",
       "price" : 299.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-chaos-rising-booster-bundle-samlekort/200366278/"
     }, {
       "site" : "br.dk",
