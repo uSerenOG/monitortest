@@ -1428,7 +1428,7 @@
       "productId" : "200195520",
       "name" : "Squishmallows Pokémon Piplup 35 cm",
       "price" : 249.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-35-cm/200195520/"
     }, {
       "site" : "br.dk",
