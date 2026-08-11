@@ -90,7 +90,7 @@
       "productId" : "scarlet-violet-10-destined-rivals-booster-2",
       "name" : "Pokémon Scarlet & Violet 10: Destined Rivals Booster",
       "price" : 54.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-booster-2"
     }, {
       "site" : "maxgaming.dk",
