@@ -90,7 +90,7 @@
       "productId" : "scarlet-violet-10-destined-rivals-booster-2",
       "name" : "Pokémon Scarlet & Violet 10: Destined Rivals Booster",
       "price" : 54.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-booster-2"
     }, {
       "site" : "maxgaming.dk",
@@ -1486,13 +1486,6 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380908",
-      "name" : "Pokémon Pitch Black booster bundle - samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     } ]
   }
 }
