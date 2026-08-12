@@ -1432,6 +1432,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
       "site" : "br.dk",
+      "productId" : "200371886",
+      "name" : "Pokémon First Partner Collection Box 2 samlekort",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-2-samlekort/200371886/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366284",
       "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
       "price" : 299.0,
@@ -1493,13 +1500,6 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200371886",
-      "name" : "Pokémon First Partner Collection Box 2 samlekort",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-2-samlekort/200371886/"
     } ]
   }
 }
