@@ -1285,6 +1285,20 @@
       "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
     }, {
       "site" : "br.dk",
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366283",
+      "name" : "Pokémon Chaos Rising Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200380917",
       "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
       "price" : 79.0,
@@ -1292,11 +1306,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
     }, {
       "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
+      "productId" : "200366280",
+      "name" : "Pokémon Chaos Rising - 3 pak",
+      "price" : 179.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
       "productId" : "100568448",
@@ -1313,18 +1327,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
       "productId" : "200380911",
@@ -1341,13 +1348,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366285",
-      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
-      "price" : 529.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100549325",
       "name" : "Pokémon samlehæfte - assorteret",
       "price" : 129.0,
@@ -1362,13 +1362,6 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
     }, {
       "site" : "br.dk",
-      "productId" : "200277178",
-      "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
@@ -1376,11 +1369,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "100559004",
-      "name" : "Plastlommer til samlemapper 9-lommer pr side",
-      "price" : 50.0,
+      "productId" : "200277178",
+      "name" : "Pokémon battle spinner – flere varianter - assorteret",
+      "price" : 129.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
       "productId" : "200279925",
@@ -1388,6 +1381,13 @@
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100559004",
+      "name" : "Plastlommer til samlemapper 9-lommer pr side",
+      "price" : 50.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
       "productId" : "200277179",
