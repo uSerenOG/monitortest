@@ -132,7 +132,7 @@
       "productId" : "pokemon-storm-emeralda-booster-box-japanese",
       "name" : "Pokémon Storm Emeralda Booster Box (Japanese)",
       "price" : 1499.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-storm-emeralda-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
@@ -209,7 +209,7 @@
       "productId" : "scarlet-violet-shiny-treasure-ex-sv4a-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Shiny Treasure ex SV4a Booster Box (Japanese)",
       "price" : 1289.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-shiny-treasure-ex-sv4a-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
