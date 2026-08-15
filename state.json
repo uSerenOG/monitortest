@@ -304,18 +304,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pokemon-day-2026-collection-box-3-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
-      "name" : "Pokémon ME04 Chaos Rising Booster Bundle (6-Pack)",
-      "price" : 379.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster-bundle-6-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-summer-ex-tin-box",
       "name" : "Pokémon Summer ex Tin box",
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
+      "name" : "Pokémon ME04 Chaos Rising Booster Bundle (6-Pack)",
+      "price" : 379.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-sleeved-booster",
