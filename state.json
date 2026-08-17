@@ -1273,7 +1273,7 @@
       "productId" : "pokemon-first-partner-collection-series-3",
       "name" : "Pokémon First Partner Collection Series 3",
       "price" : 3279.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-3"
     } ],
     "br.dk" : [ {
