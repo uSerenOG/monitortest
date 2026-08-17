@@ -1268,6 +1268,13 @@
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-collection-series-3",
+      "name" : "Pokémon First Partner Collection Series 3",
+      "price" : 3279.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-3"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
