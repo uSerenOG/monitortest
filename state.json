@@ -1411,13 +1411,6 @@
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-25-cm/200195518/"
     }, {
       "site" : "br.dk",
-      "productId" : "200354829",
-      "name" : "UltraPro Charizard mappe til kort",
-      "price" : 349.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366284",
       "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
       "price" : 299.0,
@@ -1435,8 +1428,15 @@
       "productId" : "200366278",
       "name" : "Pokémon TCG Chaos Rising booster bundle - samlekort",
       "price" : 299.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-chaos-rising-booster-bundle-samlekort/200366278/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200354829",
+      "name" : "UltraPro Charizard mappe til kort",
+      "price" : 349.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
     }, {
       "site" : "br.dk",
       "productId" : "200340784",
