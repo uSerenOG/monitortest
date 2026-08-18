@@ -1425,6 +1425,20 @@
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-ascended-heroes-flere-varianter-assorteret/200366284/"
     }, {
       "site" : "br.dk",
+      "productId" : "200340784",
+      "name" : "Pokémon Collector's Chest kuffert med samlekort",
+      "price" : 399.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-collector-s-chest-kuffert-med-samlekort/200340784/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200291392",
+      "name" : "Pokémon trainer toolkit",
+      "price" : 479.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366282",
       "name" : "Pokémon Chaos Rising Premium Checklane",
       "price" : 79.0,
@@ -1444,20 +1458,6 @@
       "price" : 349.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200340784",
-      "name" : "Pokémon Collector's Chest kuffert med samlekort",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-collector-s-chest-kuffert-med-samlekort/200340784/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200291392",
-      "name" : "Pokémon trainer toolkit",
-      "price" : 479.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
     }, {
       "site" : "br.dk",
       "productId" : "200291390",
