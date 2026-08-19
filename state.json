@@ -41,7 +41,7 @@
       "productId" : "pokemon-crystal-gathering-booster-box-simplified-chinese",
       "name" : "Pokémon Crystal Gathering Booster Box (Simplified Chinese)",
       "price" : 939.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
