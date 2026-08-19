@@ -111,7 +111,7 @@
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
