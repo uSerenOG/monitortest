@@ -521,18 +521,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmagoriske-flammer-blister-1-pakke"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "vstar-universe-booster-box-japansk",
-      "name" : "Pokémon VSTAR Universe Booster Box (japansk)",
-      "price" : 1229.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/vstar-universe-booster-box-japansk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard X (65 stk)",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-x-65-stk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "vstar-universe-booster-box-japansk",
+      "name" : "Pokémon VSTAR Universe Booster Box (japansk)",
+      "price" : 1229.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/vstar-universe-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "charizard-ex-special-collection",
@@ -976,18 +976,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-samlerkiste",
-      "name" : "Pokémon Collector's Chest 2025",
-      "price" : 25339.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
       "price" : 819.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-samlerkiste",
+      "name" : "Pokémon Collector's Chest 2025",
+      "price" : 25339.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-grafaiai-ex-box",
