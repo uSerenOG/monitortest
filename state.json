@@ -944,7 +944,7 @@
       "productId" : "pokemon-premium-snap-binder-poke-blue",
       "name" : "Pokémon Premium Snap Binder Poke Blue",
       "price" : 199.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-snap-binder-poke-blue"
     }, {
       "site" : "maxgaming.dk",
