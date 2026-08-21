@@ -906,18 +906,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-venusaur-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
-      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
-      "price" : 1019.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-9-pocket-binder",
       "name" : "Pokémon Pikachu 9 Pocket Binder",
       "price" : 129.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-9-pocket-binder"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
+      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
+      "price" : 1019.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-regular-25-pack",
