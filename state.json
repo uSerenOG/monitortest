@@ -472,18 +472,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-hiroshima"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-card-set-simplified-chinese",
-      "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
-      "price" : 169.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
       "name" : "Pokémon ME05: Pitch Black - Checklane",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-card-set-simplified-chinese",
+      "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
+      "price" : 169.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-4-paradox-rift-booster",
