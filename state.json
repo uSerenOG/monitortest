@@ -195,7 +195,7 @@
       "productId" : "pokemon-me05-pitch-black-booster-bundle",
       "name" : "Pokémon ME05: Pitch Black - Booster Bundle",
       "price" : 479.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
@@ -1486,6 +1486,13 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380919",
+      "name" : "Pokémon Box Premium Ex Mega Greninja",
+      "price" : 529.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-box-premium-ex-mega-greninja/200380919/"
     } ]
   }
 }
