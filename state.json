@@ -41,7 +41,7 @@
       "productId" : "pokemon-me05-pitch-black-elite-trainer-box",
       "name" : "Pokémon ME05: Pitch Black - Elite Trainer Box",
       "price" : 669.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
@@ -1018,18 +1018,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-lucario-ex-figur-samling"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-charizard-9p-pro-binder-zip-elite",
-      "name" : "Pokémon Charizard 9P PRO-Binder Zip Elite",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charizard-9p-pro-binder-zip-elite"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "jolteon-vmax-gift-box",
       "name" : "Pokémon Jolteon VMAX Gift Box (Simplified Chinese)",
       "price" : 1029.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/jolteon-vmax-gift-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-charizard-9p-pro-binder-zip-elite",
+      "name" : "Pokémon Charizard 9P PRO-Binder Zip Elite",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charizard-9p-pro-binder-zip-elite"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-marnie",
