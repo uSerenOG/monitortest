@@ -41,7 +41,7 @@
       "productId" : "pokemon-me05-pitch-black-elite-trainer-box",
       "name" : "Pokémon ME05: Pitch Black - Elite Trainer Box",
       "price" : 669.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
@@ -195,7 +195,7 @@
       "productId" : "pokemon-me05-pitch-black-booster-bundle",
       "name" : "Pokémon ME05: Pitch Black - Booster Bundle",
       "price" : 479.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
