@@ -1025,18 +1025,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/palafin-ex-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-charizard-9p-pro-binder-zip-elite",
-      "name" : "Pokémon Charizard 9P PRO-Binder Zip Elite",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charizard-9p-pro-binder-zip-elite"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-lucario-ex-figur-samling",
       "name" : "Pokémon Mega Lucario ex Figure Collection",
       "price" : 339.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-lucario-ex-figur-samling"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-charizard-9p-pro-binder-zip-elite",
+      "name" : "Pokémon Charizard 9P PRO-Binder Zip Elite",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charizard-9p-pro-binder-zip-elite"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-marnie",
