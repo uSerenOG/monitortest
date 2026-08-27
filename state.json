@@ -416,18 +416,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151c-gathering-booster-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-special-box-pokemon-center-hiroshima",
-      "name" : "Pokémon Pikachu Special Box Pokémon Center - Hiroshima",
-      "price" : 1629.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-hiroshima"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-10-destined-rivals-team-rocket-ex-dase",
       "name" : "Pokémon Scarlet & Violet 10: Destined Rivals - Team Rocket ex Dåse",
       "price" : 269.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-team-rocket-ex-dase"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-special-box-pokemon-center-hiroshima",
+      "name" : "Pokémon Pikachu Special Box Pokémon Center - Hiroshima",
+      "price" : 1479.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-hiroshima"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-black-bolt-zekrom-elite-trainer-box",
@@ -670,7 +670,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-special-box-pokemon-center-fukuoka",
       "name" : "Pokémon Pikachu Special Box Pokémon Center - Fukuoka",
-      "price" : 1569.0,
+      "price" : 1349.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-fukuoka"
     }, {
@@ -705,7 +705,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-special-box-pokemon-center-tohoku",
       "name" : "Pokémon Pikachu Special Box Pokémon Center - Tohoku",
-      "price" : 1289.0,
+      "price" : 1199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
     }, {
