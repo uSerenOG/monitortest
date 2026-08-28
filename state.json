@@ -48,7 +48,7 @@
       "productId" : "pokemon-2026-dragon-boat-festival-simplified-chinese",
       "name" : "Pokémon 2026 Dragon Boat Festival (Simplified Chinese)",
       "price" : 269.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-dragon-boat-festival-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
