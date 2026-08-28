@@ -1275,6 +1275,48 @@
       "price" : 119.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/binder-pikachu-2-pocket"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-starter-set-sprigatito-meowscarada-ex-japansk",
+      "name" : "Pokémon Mega Starter Set - Sprigatito & Meowscarada EX (Japansk)",
+      "price" : 369.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-sprigatito-meowscarada-ex-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-starter-set-eevee-ex-japansk",
+      "name" : "Pokémon Mega Starter Set - Eevee EX (Japansk)",
+      "price" : 369.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-eevee-ex-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-starter-set-zorua-zoroark-ex-japansk",
+      "name" : "Pokémon Mega Starter Set - Zorua & Zoroark EX (Japansk)",
+      "price" : 369.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-zorua-zoroark-ex-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
+      "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
+      "price" : 339.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-chasing-glory-together-jumbo-booster-box-simplified-chinese",
+      "name" : "Pokémon Chasing Glory Together Jumbo Booster Box (Simplified Chinese)",
+      "price" : 569.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-chasing-glory-together-jumbo-booster-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-vol-3-simplified-chinese",
+      "name" : "Pokémon First Partner Vol. 3 (Simplified Chinese)",
+      "price" : 139.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-vol-3-simplified-chinese"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
