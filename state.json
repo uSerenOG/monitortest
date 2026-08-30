@@ -328,7 +328,7 @@
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
       "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
       "price" : 169.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
