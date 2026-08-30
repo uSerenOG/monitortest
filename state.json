@@ -542,18 +542,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/151c-journey-booster-box-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-deck-box-mega-charizard-x",
-      "name" : "Pokémon Deck Box Mega Charizard X",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-box-mega-charizard-x-rod",
       "name" : "Pokémon Deck Box Mega Charizard X Rød",
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x-rod"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-deck-box-mega-charizard-x",
+      "name" : "Pokémon Deck Box Mega Charizard X",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-charmander",
