@@ -1321,7 +1321,7 @@
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-85-prismatic-evolutions-super-premium-collection",
       "name" : "Pokémon Scarlet & Violet 8.5: Prismatic Evolutions Super Premium Collection",
-      "price" : 1229.0,
+      "price" : 1549.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-85-prismatic-evolutions-super-premium-collection"
     } ],
@@ -1540,7 +1540,7 @@
       "productId" : "200195518",
       "name" : "Squishmallows Pokémon Piplup 25 cm",
       "price" : 199.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-25-cm/200195518/"
     }, {
       "site" : "br.dk",
