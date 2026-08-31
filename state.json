@@ -1336,7 +1336,7 @@
       "site" : "br.dk",
       "productId" : "100568448",
       "name" : "Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
-      "price" : 32.0,
+      "price" : 40.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
@@ -1378,7 +1378,7 @@
       "site" : "br.dk",
       "productId" : "100549325",
       "name" : "Pokémon samlehæfte - assorteret",
-      "price" : 103.2,
+      "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
     }, {
@@ -1392,7 +1392,7 @@
       "site" : "br.dk",
       "productId" : "200277178",
       "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 103.2,
+      "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
@@ -1469,7 +1469,7 @@
       "site" : "br.dk",
       "productId" : "200354829",
       "name" : "UltraPro Charizard mappe til kort",
-      "price" : 279.2,
+      "price" : 349.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
     }, {
@@ -1497,7 +1497,7 @@
       "site" : "br.dk",
       "productId" : "200277179",
       "name" : "Pokémon Battle Spinner Arena sæt",
-      "price" : 199.2,
+      "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
@@ -1525,14 +1525,14 @@
       "site" : "br.dk",
       "productId" : "200195519",
       "name" : "Squishmallows Pokémon blinkende Pikachu 25 cm",
-      "price" : 159.2,
+      "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
     }, {
       "site" : "br.dk",
       "productId" : "200195518",
       "name" : "Squishmallows Pokémon Piplup 25 cm",
-      "price" : 159.2,
+      "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-25-cm/200195518/"
     }, {
