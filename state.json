@@ -1376,13 +1376,6 @@
       "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
-      "productId" : "100549325",
-      "name" : "Pokémon samlehæfte - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380919",
       "name" : "Pokémon Box Premium Ex Mega Greninja",
       "price" : 529.0,
@@ -1395,6 +1388,13 @@
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100549325",
+      "name" : "Pokémon samlehæfte - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
     }, {
       "site" : "br.dk",
       "productId" : "200380918",
