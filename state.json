@@ -1317,6 +1317,13 @@
       "price" : 369.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-zorua-zoroark-ex-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-85-prismatic-evolutions-super-premium-collection",
+      "name" : "Pokémon Scarlet & Violet 8.5: Prismatic Evolutions Super Premium Collection",
+      "price" : 1229.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-85-prismatic-evolutions-super-premium-collection"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
