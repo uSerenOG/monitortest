@@ -717,18 +717,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmagoriske-flammer-blister-1-pakke"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "gem-pack-vol-1-booster-box-chinese-2",
-      "name" : "Pokémon Gem Pack Vol 1 Booster Box (Simplified Chinese)",
-      "price" : 539.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/gem-pack-vol-1-booster-box-chinese-2"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-151-dream-figure-set-promo-card-blind-box",
       "name" : "Pokémon 151 Dream Figure Set Promo Card Blind Box",
       "price" : 229.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151-dream-figure-set-promo-card-blind-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "gem-pack-vol-1-booster-box-chinese-2",
+      "name" : "Pokémon Gem Pack Vol 1 Booster Box (Simplified Chinese)",
+      "price" : 539.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/gem-pack-vol-1-booster-box-chinese-2"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "151c-hope-booster-box-chinese",
@@ -1193,6 +1193,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-brave-japansk"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-charmander",
+      "name" : "Pokémon Playmat Charmander",
+      "price" : 199.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "ex-battle-deck-houndoom-ex",
       "name" : "Pokémon Ex Battle Deck - Houndoom ex",
       "price" : 130.0,
@@ -1205,13 +1212,6 @@
       "price" : 1090.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-forste-partner-gaveaske-forenklet-kinesisk"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-charmander",
-      "name" : "Pokémon Playmat Charmander",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "ex-battle-deck-melmetal-ex",
