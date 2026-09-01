@@ -125,7 +125,7 @@
       "productId" : "pokemon-grand-crystal-mystery-box-simplified-chinese",
       "name" : "Pokémon Grand Crystal Mystery Box (Simplified Chinese)",
       "price" : 259.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-mystery-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
