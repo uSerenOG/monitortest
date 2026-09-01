@@ -1193,18 +1193,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-brave-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-charmander",
-      "name" : "Pokémon Playmat Charmander",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "ex-battle-deck-houndoom-ex",
       "name" : "Pokémon Ex Battle Deck - Houndoom ex",
       "price" : 130.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-houndoom-ex"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-charmander",
+      "name" : "Pokémon Playmat Charmander",
+      "price" : 199.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-forste-partner-gaveaske-forenklet-kinesisk",
