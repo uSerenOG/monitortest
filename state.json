@@ -1341,13 +1341,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
-      "productId" : "100568448",
-      "name" : "Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
-      "price" : 40.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100552697",
       "name" : "Pokémon portefolio samlemappe assorteret",
       "price" : 89.0,
@@ -1355,11 +1348,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380910",
-      "name" : "Pokémon ME05 Pitch Black samlekort",
-      "price" : 179.0,
+      "productId" : "100568448",
+      "name" : "Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
+      "price" : 40.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
+      "url" : "https://www.br.dk/produkter/toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
       "productId" : "200279925",
@@ -1376,18 +1369,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "100559004",
-      "name" : "Plastlommer til samlemapper 9-lommer pr side",
-      "price" : 50.0,
+      "productId" : "200380910",
+      "name" : "Pokémon ME05 Pitch Black samlekort",
+      "price" : 179.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380919",
-      "name" : "Pokémon Box Premium Ex Mega Greninja",
-      "price" : 529.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-box-premium-ex-mega-greninja/200380919/"
+      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
     }, {
       "site" : "br.dk",
       "productId" : "200277178",
@@ -1397,18 +1383,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
+      "productId" : "100559004",
+      "name" : "Plastlommer til samlemapper 9-lommer pr side",
+      "price" : 50.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
+    }, {
+      "site" : "br.dk",
       "productId" : "100549325",
       "name" : "Pokémon samlehæfte - assorteret",
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380918",
-      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
       "productId" : "200380917",
@@ -1423,13 +1409,6 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380908",
-      "name" : "Pokémon Pitch Black booster bundle - samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     }, {
       "site" : "br.dk",
       "productId" : "200366285",
@@ -1535,13 +1514,6 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200195518",
-      "name" : "Squishmallows Pokémon Piplup 25 cm",
-      "price" : 199.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/squishmallows-pokemon-piplup-25-cm/200195518/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
