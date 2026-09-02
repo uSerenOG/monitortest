@@ -111,7 +111,7 @@
       "productId" : "pokemon-me05-pitch-black-booster",
       "name" : "Pokémon ME05: Pitch Black - Booster",
       "price" : 49.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster"
     }, {
       "site" : "maxgaming.dk",
