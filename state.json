@@ -62,7 +62,7 @@
       "productId" : "pokemon-lumiose-city-mini-tin",
       "name" : "Pokémon Lumiose City Mini Tin",
       "price" : 125.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
     }, {
       "site" : "maxgaming.dk",
