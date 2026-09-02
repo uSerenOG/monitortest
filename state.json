@@ -419,7 +419,7 @@
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard X (65 stk)",
       "price" : 59.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-x-65-stk"
     }, {
       "site" : "maxgaming.dk",
@@ -524,7 +524,7 @@
       "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard Y (65 stk)",
       "price" : 59.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-y-65-stk"
     }, {
       "site" : "maxgaming.dk",
