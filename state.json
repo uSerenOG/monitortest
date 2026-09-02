@@ -902,7 +902,7 @@
       "productId" : "pokemon-pikachu-9-pocket-binder",
       "name" : "Pokémon Pikachu 9 Pocket Binder",
       "price" : 129.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-9-pocket-binder"
     }, {
       "site" : "maxgaming.dk",
@@ -1329,7 +1329,7 @@
       "productId" : "scarlet-violet-10-destined-rivals-elite-trainer-box",
       "name" : "Pokémon Scarlet & Violet 10: Destined Rivals Elite Trainer Box",
       "price" : 689.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-elite-trainer-box"
     } ],
     "br.dk" : [ {
