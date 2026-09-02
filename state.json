@@ -181,7 +181,7 @@
       "productId" : "pokemon-me04-chaos-rising-elite-trainer-box",
       "name" : "Pokémon ME04 Chaos Rising Elite Trainer Box",
       "price" : 619.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
@@ -412,7 +412,7 @@
       "productId" : "pokemon-me04-chaos-rising-booster",
       "name" : "Pokémon ME04 Chaos Rising Booster",
       "price" : 49.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster"
     }, {
       "site" : "maxgaming.dk",
