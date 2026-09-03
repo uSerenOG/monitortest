@@ -972,7 +972,7 @@
       "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
       "price" : 1019.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
     }, {
       "site" : "maxgaming.dk",
@@ -1084,7 +1084,7 @@
       "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
       "price" : 819.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
