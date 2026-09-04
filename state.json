@@ -12,7 +12,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-storm-emeralda-booster-box-japanese",
       "name" : "Pokémon Storm Emeralda Booster Box (Japanese)",
-      "price" : 1349.0,
+      "price" : 1199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-storm-emeralda-booster-box-japanese"
     }, {
@@ -146,7 +146,7 @@
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
@@ -160,14 +160,14 @@
       "productId" : "mega-brave-m1l-booster-box-japanese",
       "name" : "Pokémon Mega Brave M1L Booster Box (Japanese)",
       "price" : 799.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-terastal-festival-ex-sv8a-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Terastal Festival ex SV8a Booster Box (Japanese)",
       "price" : 949.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-terastal-festival-ex-sv8a-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
