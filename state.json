@@ -955,13 +955,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-zygarde-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "battle-academy",
-      "name" : "Pokémon Battle Academy",
-      "price" : 241.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/battle-academy"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – M",
       "price" : 199.0,
