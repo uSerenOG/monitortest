@@ -1493,27 +1493,6 @@
       "price" : 50.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366284",
-      "name" : "Pokémon Mega Evolution Ascended Heroes - flere varianter (assorteret)",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-ascended-heroes-flere-varianter-assorteret/200366284/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200354829",
-      "name" : "UltraPro Charizard mappe til kort",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200248869",
-      "name" : "Pokémon TCG: Scarlet & Violet—Paldean Fates Tin",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-scarlet-violetpaldean-fates-tin/200248869/"
     } ]
   }
 }
