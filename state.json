@@ -1456,15 +1456,8 @@
       "productId" : "200354829",
       "name" : "UltraPro Charizard mappe til kort",
       "price" : 349.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200340784",
-      "name" : "Pokémon Collector's Chest kuffert med samlekort",
-      "price" : 399.0,
       "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-collector-s-chest-kuffert-med-samlekort/200340784/"
+      "url" : "https://www.br.dk/produkter/ultrapro-charizard-mappe-til-kort/200354829/"
     }, {
       "site" : "br.dk",
       "productId" : "200291392",
