@@ -1362,18 +1362,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
     }, {
       "site" : "br.dk",
-      "productId" : "200215319",
-      "name" : "Pokémon Battle Deck EX samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200215319",
+      "name" : "Pokémon Battle Deck EX samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
       "productId" : "200277178",
