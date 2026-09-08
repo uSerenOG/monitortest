@@ -1376,18 +1376,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "200279925",
-      "name" : "Pokémon Battle Academy 2024",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380910",
       "name" : "Pokémon ME05 Pitch Black samlekort",
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200279925",
+      "name" : "Pokémon Battle Academy 2024",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
     }, {
       "site" : "br.dk",
       "productId" : "100559004",
