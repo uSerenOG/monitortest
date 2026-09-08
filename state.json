@@ -1011,18 +1011,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-enhanced-2-pack-blister-2026",
-      "name" : "Pokémon Enhanced 2-Pack Blister 2026",
-      "price" : 26139.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-blister-2026"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-blister-3-pack",
       "name" : "Pokémon ME04 Chaos Rising Blister (3-Pack)",
       "price" : 159.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-3-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-enhanced-2-pack-blister-2026",
+      "name" : "Pokémon Enhanced 2-Pack Blister 2026",
+      "price" : 26139.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-blister-2026"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-checklane-booster",
@@ -1158,18 +1158,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "shimmering-skyline-sleeves-65-pack",
-      "name" : "Pokémon Shimmering Skyline Sleeves (65-pack)",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/shimmering-skyline-sleeves-65-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-vol-3-simplified-chinese",
       "name" : "Pokémon First Partner Vol. 3 (Simplified Chinese)",
       "price" : 139.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-vol-3-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "shimmering-skyline-sleeves-65-pack",
+      "name" : "Pokémon Shimmering Skyline Sleeves (65-pack)",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/shimmering-skyline-sleeves-65-pack"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "jolteon-vmax-gift-box",
