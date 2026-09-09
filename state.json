@@ -1484,7 +1484,7 @@
       "productId" : "200322371",
       "name" : "Pokémon Destined Rivals elite trainer box",
       "price" : 699.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-destined-rivals-elite-trainer-box/200322371/"
     }, {
       "site" : "br.dk",
