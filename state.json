@@ -1418,6 +1418,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366283",
+      "name" : "Pokémon Chaos Rising Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366282",
       "name" : "Pokémon Chaos Rising Premium Checklane",
       "price" : 79.0,
@@ -1430,13 +1437,6 @@
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200322371",
-      "name" : "Pokémon Destined Rivals elite trainer box",
-      "price" : 699.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-destined-rivals-elite-trainer-box/200322371/"
     }, {
       "site" : "br.dk",
       "productId" : "200291392",
@@ -1479,13 +1479,6 @@
       "price" : 50.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     } ]
   }
 }
