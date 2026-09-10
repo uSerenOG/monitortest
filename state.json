@@ -1324,6 +1324,34 @@
       "price" : 1419.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-symphonia"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-elite-trainer-box",
+      "name" : "Pokémon 30th Celebration - Elite Trainer Box",
+      "price" : 669.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-elite-trainer-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-binder-collection",
+      "name" : "Pokémon 30th Celebration - Binder Collection",
+      "price" : 439.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-binder-collection"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-poster-collection",
+      "name" : "Pokémon 30th Celebration - Poster Collection",
+      "price" : 239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-poster-collection"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-2-pack-blister",
+      "name" : "Pokémon 30th Celebration - 2-Pack Blister",
+      "price" : 119.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-2-pack-blister"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
