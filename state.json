@@ -395,18 +395,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-flip-deck-box-mega-charizard-y",
-      "name" : "Pokémon Flip Deck Box Mega Charizard Y",
-      "price" : 239.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-y"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-psyduck-ar-199-193-m2a-japansk-mega-dream-ex",
       "name" : "Pokémon Psyduck AR 199/193 m2a Mega Dream ex – Pokémonkort",
       "price" : 129.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-psyduck-ar-199-193-m2a-japansk-mega-dream-ex"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-flip-deck-box-mega-charizard-y",
+      "name" : "Pokémon Flip Deck Box Mega Charizard Y",
+      "price" : 239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-y"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
@@ -990,18 +990,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grafaiai-ex-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-latias-ex-box",
-      "name" : "Pokémon Mega Latias Ex Box",
-      "price" : 279.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-latias-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-gift-box-charmander-simplified-chinese",
       "name" : "Pokémon First Partner Gift Box - Charmander (Simplified Chinese)",
       "price" : 1239.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-latias-ex-box",
+      "name" : "Pokémon Mega Latias Ex Box",
+      "price" : 279.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-latias-ex-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-samlerkiste",
@@ -1032,18 +1032,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-3-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
-      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
-      "price" : 1019.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-premium-snap-binder-poke-blue",
       "name" : "Pokémon Premium Snap Binder Poke Blue",
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-snap-binder-poke-blue"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
+      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
+      "price" : 1019.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-charmander-mappe-4-pocket",
