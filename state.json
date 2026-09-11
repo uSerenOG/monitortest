@@ -111,7 +111,7 @@
       "productId" : "pokemon-crystal-gathering-booster-box-simplified-chinese",
       "name" : "Pokémon Crystal Gathering Booster Box (Simplified Chinese)",
       "price" : 939.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -153,7 +153,7 @@
       "productId" : "pokemon-2026-dragon-boat-festival-simplified-chinese",
       "name" : "Pokémon 2026 Dragon Boat Festival (Simplified Chinese)",
       "price" : 269.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-dragon-boat-festival-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -195,7 +195,7 @@
       "productId" : "pokemon-gem-pack-vol-5-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 5 Booster Box (Simplified Chinese)",
       "price" : 449.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-5-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -216,7 +216,7 @@
       "productId" : "pokemon-gem-pack-vol-4-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 4 Booster Box (Simplified Chinese)",
       "price" : 349.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-4-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -636,7 +636,7 @@
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
       "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
       "price" : 169.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -650,7 +650,7 @@
       "productId" : "151c-journey-booster-box-chinese",
       "name" : "Pokémon 151C Journey Booster Box (Simplified Chinese)",
       "price" : 819.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/151c-journey-booster-box-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -671,7 +671,7 @@
       "productId" : "pokemon-151c-gathering-booster-box-forenklet-kinesisk",
       "name" : "Pokémon 151C Gathering Booster Box (Simplified Chinese)",
       "price" : 819.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151c-gathering-booster-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
@@ -790,7 +790,7 @@
       "productId" : "pokemon-chasing-glory-together-jumbo-booster-box-simplified-chinese",
       "name" : "Pokémon Chasing Glory Together Jumbo Booster Box (Simplified Chinese)",
       "price" : 569.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-chasing-glory-together-jumbo-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -860,7 +860,7 @@
       "productId" : "pokemon-grand-crystal-binder-gift-box-umbreon",
       "name" : "Pokémon Grand Crystal Binder Gift Box - Umbreon (Simplified Chinese)",
       "price" : 1219.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-umbreon"
     }, {
       "site" : "maxgaming.dk",
@@ -902,14 +902,14 @@
       "productId" : "pokemon-grand-crystal-binder-gift-box-sylveon",
       "name" : "Pokémon Grand Crystal Binder Gift Box - Sylveon",
       "price" : 1149.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-sylveon"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
       "name" : "Pokémon Crystal Gathering Exclusive Gift Box (Simplified Chinese)",
       "price" : 2890.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -1070,7 +1070,7 @@
       "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
       "price" : 339.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -1140,7 +1140,7 @@
       "productId" : "pokemon-first-partner-vol-3-simplified-chinese",
       "name" : "Pokémon First Partner Vol. 3 (Simplified Chinese)",
       "price" : 139.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-vol-3-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
