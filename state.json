@@ -146,7 +146,7 @@
       "productId" : "pokemon-mega-starter-set-eevee-ex-japansk",
       "name" : "Pokémon Mega Starter Set - Eevee EX (Japansk)",
       "price" : 369.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-eevee-ex-japansk"
     }, {
       "site" : "maxgaming.dk",
