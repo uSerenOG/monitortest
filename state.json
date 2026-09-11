@@ -600,14 +600,14 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-tinkaton-deck-box",
       "name" : "Pokémon Tinkaton Deck Box",
-      "price" : 27.0,
+      "price" : 19.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tinkaton-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-ceruledge",
       "name" : "Pokémon Full View Deck Box - Ceruledge",
-      "price" : 90.0,
+      "price" : 19.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/full-view-deck-box-ceruledge"
     }, {
@@ -1463,7 +1463,7 @@
       "productId" : "200366283",
       "name" : "Pokémon Chaos Rising Elite Trainer Box",
       "price" : 599.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     }, {
       "site" : "br.dk",
