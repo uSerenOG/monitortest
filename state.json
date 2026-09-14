@@ -593,7 +593,7 @@
       "site" : "maxgaming.dk",
       "productId" : "ultra-pro-charmander-m2-deck-box",
       "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 329.0,
+      "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
@@ -1352,6 +1352,20 @@
       "price" : 1419.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-symphonia"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-booster-box-japanese",
+      "name" : "Pokémon 30th Celebration Booster Box (Japanese)",
+      "price" : 1459.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-premium-deck-set-espeon-umbreon-japanese",
+      "name" : "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon (Japanese)",
+      "price" : 1729.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-premium-deck-set-espeon-umbreon-japanese"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
