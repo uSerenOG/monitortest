@@ -1533,7 +1533,7 @@
       "productId" : "200392206",
       "name" : "Pokémon Ex Box 30th samlekort",
       "price" : 349.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-ex-box-30th-samlekort/200392206/"
     }, {
       "site" : "br.dk",
