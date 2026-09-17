@@ -1547,7 +1547,7 @@
       "productId" : "200392806",
       "name" : "Pokémon Sylveon ex Box 30th",
       "price" : 349.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-box-30th/200392806/"
     }, {
       "site" : "br.dk",
