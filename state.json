@@ -1368,18 +1368,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-steven"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-sylveon-ex-box",
-      "name" : "Pokémon 30th Celebration - Sylveon ex Box",
-      "price" : 329.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-sylveon-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-greninja-ex-box",
       "name" : "Pokémon 30th Celebration - Greninja ex Box",
       "price" : 329.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-greninja-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-sylveon-ex-box",
+      "name" : "Pokémon 30th Celebration - Sylveon ex Box",
+      "price" : 329.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-sylveon-ex-box"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
