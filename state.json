@@ -1380,6 +1380,13 @@
       "price" : 329.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-sylveon-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-tin-ex",
+      "name" : "Pokémon 30th Celebration - Tin ex",
+      "price" : 329.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-tin-ex"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
