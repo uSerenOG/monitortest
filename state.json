@@ -1526,14 +1526,14 @@
       "productId" : "200392809",
       "name" : "Pokemon Greninja EX tin samlekort",
       "price" : 299.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-tin-samlekort/200392809/"
     }, {
       "site" : "br.dk",
       "productId" : "200392808",
       "name" : "Pokemon Sylveon EX tin samlekort",
       "price" : 299.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-tin-samlekort/200392808/"
     }, {
       "site" : "br.dk",
