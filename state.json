@@ -1554,7 +1554,7 @@
       "productId" : "200392214",
       "name" : "Pokémon 30th samlekort",
       "price" : 179.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-30th-samlekort/200392214/"
     }, {
       "site" : "br.dk",
@@ -1575,7 +1575,7 @@
       "productId" : "200392202",
       "name" : "Pokémon Elite Trainer Box 30th samlekort",
       "price" : 799.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
     } ]
   }
