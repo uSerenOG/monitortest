@@ -584,18 +584,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-deck-box-alcove-tower"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
-      "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
-      "price" : 339.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-ceruledge",
       "name" : "Pokémon Full View Deck Box - Ceruledge",
       "price" : 19.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/full-view-deck-box-ceruledge"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
+      "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
+      "price" : 339.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-glory-of-team-rocket-sv10-booster-box",
