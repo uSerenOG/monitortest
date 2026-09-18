@@ -409,18 +409,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-tin"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-pikachu-special-box-pokemon-center-tohoku",
-      "name" : "Pokémon Pikachu Special Box Pokémon Center - Tohoku",
-      "price" : 1129.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-white-flare-booster-bundle-6-pack",
       "name" : "Pokémon Scarlet & Violet 10.5: White Flare Booster Bundle (6-pack)",
       "price" : 359.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-booster-bundle-6-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-pikachu-special-box-pokemon-center-tohoku",
+      "name" : "Pokémon Pikachu Special Box Pokémon Center - Tohoku",
+      "price" : 1129.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me03-perfect-order-elite-trainer-box",
