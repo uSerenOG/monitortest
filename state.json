@@ -6,7 +6,7 @@
       "productId" : "pokemon-30th-celebration-elite-trainer-box",
       "name" : "Pokémon 30th Celebration - Elite Trainer Box",
       "price" : 639.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
@@ -237,7 +237,7 @@
       "productId" : "pokemon-30th-celebration-binder-collection",
       "name" : "Pokémon 30th Celebration - Binder Collection",
       "price" : 439.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-binder-collection"
     }, {
       "site" : "maxgaming.dk",
