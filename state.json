@@ -384,7 +384,7 @@
       "productId" : "pokemon-30th-celebration-poster-collection",
       "name" : "Pokémon 30th Celebration - Poster Collection",
       "price" : 239.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-poster-collection"
     }, {
       "site" : "maxgaming.dk",
@@ -860,14 +860,14 @@
       "productId" : "pokemon-30th-celebration-greninja-ex-box",
       "name" : "Pokémon 30th Celebration - Greninja ex Box",
       "price" : 329.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-greninja-ex-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-sylveon-ex-box",
       "name" : "Pokémon 30th Celebration - Sylveon ex Box",
       "price" : 329.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-sylveon-ex-box"
     }, {
       "site" : "maxgaming.dk",
