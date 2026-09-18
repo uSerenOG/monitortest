@@ -62,7 +62,7 @@
       "productId" : "pokemon-30th-anniversary-celebration-first-partner-vol-2-simplified-chinese",
       "name" : "Pokémon 30th Anniversary Celebration First Partner Vol. 2 (Simplified Chinese)",
       "price" : 139.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-anniversary-celebration-first-partner-vol-2-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
