@@ -773,18 +773,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-charizard-ex-ultra-premium-samling",
-      "name" : "Pokémon Mega Charizard Ex Ultra Premium Samling",
-      "price" : 1489.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-charizard-ex-ultra-premium-samling"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-heat-wave-arena-sv9a-booster-box",
       "name" : "Pokémon Heat Wave Arena SV9a Booster Box (Japansk)",
       "price" : 819.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-heat-wave-arena-sv9a-booster-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-charizard-ex-ultra-premium-samling",
+      "name" : "Pokémon Mega Charizard Ex Ultra Premium Samling",
+      "price" : 1489.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-charizard-ex-ultra-premium-samling"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-white-flair-binder-collection",
@@ -1109,18 +1109,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/flareon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-gift-box-charmander-simplified-chinese",
-      "name" : "Pokémon First Partner Gift Box - Charmander (Simplified Chinese)",
-      "price" : 1239.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mini-album-med-booster-q1-26",
       "name" : "Pokémon Mini Album med Booster Q1 26",
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-gift-box-charmander-simplified-chinese",
+      "name" : "Pokémon First Partner Gift Box - Charmander (Simplified Chinese)",
+      "price" : 1239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-marnie",
@@ -1137,18 +1137,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pro-binder-9-p-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-phantasmal-flames-premium-checklane",
-      "name" : "Pokémon ME02 Phantasmal Flames Premium Checklane",
-      "price" : 79.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-premium-checklane"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-premium-snap-binder-poke-blue",
       "name" : "Pokémon Premium Snap Binder Poke Blue",
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-snap-binder-poke-blue"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me02-phantasmal-flames-premium-checklane",
+      "name" : "Pokémon ME02 Phantasmal Flames Premium Checklane",
+      "price" : 79.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-premium-checklane"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-kangaskhan-ex-box",
