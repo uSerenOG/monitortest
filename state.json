@@ -633,18 +633,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tinkaton-deck-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "togepi-105ct-apex-deck-protector-sleeves",
       "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
       "price" : 24.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-regular-25-pack",
