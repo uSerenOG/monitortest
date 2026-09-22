@@ -626,13 +626,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/full-view-deck-box-charmander"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "togepi-105ct-apex-deck-protector-sleeves",
       "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
       "price" : 24.0,
@@ -645,6 +638,13 @@
       "price" : 20.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tinkaton-deck-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
@@ -1291,13 +1291,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-brave-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "tcg-my-first-battle-pikachu-bulbasaur",
       "name" : "Pokémon TCG My first battle - Pikachu & Bulbasaur",
       "price" : 117.0,
@@ -1310,6 +1303,13 @@
       "price" : 819.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-album-mega-charizard-x-y-2",
