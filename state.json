@@ -1598,20 +1598,6 @@
       "price" : 50.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392805",
-      "name" : "Pokémon 30th Lucario sticker ",
-      "price" : 249.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-30th-lucario-sticker/200392805/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392804",
-      "name" : "Pokémon 30th Exeggutor sticker",
-      "price" : 249.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-30th-exeggutor-sticker/200392804/"
     } ]
   }
 }
