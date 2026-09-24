@@ -642,7 +642,7 @@
       "site" : "maxgaming.dk",
       "productId" : "togepi-105ct-apex-deck-protector-sleeves",
       "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
-      "price" : 24.0,
+      "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
     }, {
@@ -1453,18 +1453,18 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "200215319",
@@ -1516,34 +1516,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380910",
-      "name" : "Pokémon ME05 Pitch Black samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380917",
-      "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200209928",
-      "name" : "Pokemon Deluxe Battle Deck 23",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200195519",
-      "name" : "Squishmallows Pokémon blinkende Pikachu 25 cm",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100502881",
       "name" : "Ultra Pro Pro-Fit Kortlommer til Samlekort  (100 stk.)",
       "price" : 50.0,
@@ -1556,6 +1528,20 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380910",
+      "name" : "Pokémon ME05 Pitch Black samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380917",
+      "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
     }, {
       "site" : "br.dk",
       "productId" : "200366280",
@@ -1591,6 +1577,20 @@
       "price" : 479.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200209928",
+      "name" : "Pokemon Deluxe Battle Deck 23",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200195519",
+      "name" : "Squishmallows Pokémon blinkende Pikachu 25 cm",
+      "price" : 199.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
     } ]
   }
 }
