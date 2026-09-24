@@ -1393,14 +1393,14 @@
       "productId" : "200392808",
       "name" : "Pokemon Sylveon EX tin samlekort",
       "price" : 299.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-tin-samlekort/200392808/"
     }, {
       "site" : "br.dk",
       "productId" : "200392809",
       "name" : "Pokemon Greninja EX tin samlekort",
       "price" : 299.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-tin-samlekort/200392809/"
     }, {
       "site" : "br.dk",
@@ -1414,14 +1414,14 @@
       "productId" : "200392806",
       "name" : "Pokémon Sylveon ex Box 30th",
       "price" : 349.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-box-30th/200392806/"
     }, {
       "site" : "br.dk",
       "productId" : "200392807",
       "name" : "Pokemon Greninja EX samlekort box",
       "price" : 349.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
     }, {
       "site" : "br.dk",
