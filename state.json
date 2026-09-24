@@ -1390,6 +1390,20 @@
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
+      "productId" : "200392807",
+      "name" : "Pokemon Greninja EX samlekort box",
+      "price" : 349.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392806",
+      "name" : "Pokémon Sylveon ex Box 30th",
+      "price" : 349.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-box-30th/200392806/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200392808",
       "name" : "Pokemon Sylveon EX tin samlekort",
       "price" : 299.0,
@@ -1409,20 +1423,6 @@
       "price" : 799.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392806",
-      "name" : "Pokémon Sylveon ex Box 30th",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-box-30th/200392806/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392807",
-      "name" : "Pokemon Greninja EX samlekort box",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
     }, {
       "site" : "br.dk",
       "productId" : "200392214",
@@ -1467,13 +1467,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380909",
-      "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
-      "price" : 49.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
@@ -1488,6 +1481,27 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
+      "productId" : "200380909",
+      "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200277178",
+      "name" : "Pokémon battle spinner – flere varianter - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100559004",
+      "name" : "Ultra pro Plastlommer til samlemapper 9-lommer pr side",
+      "price" : 50.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
+    }, {
+      "site" : "br.dk",
       "productId" : "100549325",
       "name" : "Pokémon samlehæfte - assorteret",
       "price" : 129.0,
@@ -1500,13 +1514,6 @@
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200277178",
-      "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
       "productId" : "200380917",
@@ -1528,13 +1535,6 @@
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380908",
-      "name" : "Pokémon Pitch Black booster bundle - samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     }, {
       "site" : "br.dk",
       "productId" : "200366285",
@@ -1584,13 +1584,6 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "100559004",
-      "name" : "Ultra pro Plastlommer til samlemapper 9-lommer pr side",
-      "price" : 50.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
