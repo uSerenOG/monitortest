@@ -304,18 +304,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-booster-2"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-abyss-eye-booster-box-japansk",
-      "name" : "Pokémon Abyss Eye Booster Box (Japansk)",
-      "price" : 739.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-abyss-eye-booster-box-japansk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-crystal-gathering-booster-box-simplified-chinese",
       "name" : "Pokémon Crystal Gathering Booster Box (Simplified Chinese)",
       "price" : 939.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-booster-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-abyss-eye-booster-box-japansk",
+      "name" : "Pokémon Abyss Eye Booster Box (Japansk)",
+      "price" : 739.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-abyss-eye-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pokemon-day-2026-collection-box-3-pack",
