@@ -1495,18 +1495,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
-      "productId" : "100549325",
-      "name" : "Pokémon samlehæfte - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200277179",
       "name" : "Pokémon Battle Spinner Arena sæt",
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100549325",
+      "name" : "Pokémon samlehæfte - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
     }, {
       "site" : "br.dk",
       "productId" : "200380909",
