@@ -1551,13 +1551,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200291390",
       "name" : "Pokémon battle deck – flere varianter – assorteret",
       "price" : 179.0,
@@ -1570,6 +1563,13 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366280",
+      "name" : "Pokémon Chaos Rising - 3 pak",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
       "productId" : "200291392",
