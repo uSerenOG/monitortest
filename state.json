@@ -1032,18 +1032,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-blister-3-pak"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-charmander-mappe-4-pocket",
-      "name" : "Pokémon Charmander Mappe - 4 Pocket",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-4-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantasmagoriske-flammer-blister-1-pakke",
       "name" : "Pokémon ME02 Phantasmal Flames Blister (1-pack)",
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmagoriske-flammer-blister-1-pakke"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-charmander-mappe-4-pocket",
+      "name" : "Pokémon Charmander Mappe - 4 Pocket",
+      "price" : 65.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-4-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-enhanced-2-pack-blister-2026",
