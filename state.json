@@ -69,7 +69,7 @@
       "productId" : "pokemon-30th-anniversary-celebration-first-partner-vol-2-simplified-chinese",
       "name" : "Pokémon 30th Anniversary Celebration First Partner Vol. 2 (Simplified Chinese)",
       "price" : 139.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-anniversary-celebration-first-partner-vol-2-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -692,7 +692,7 @@
       "productId" : "pokemon-grand-crystal-mystery-box-simplified-chinese",
       "name" : "Pokémon Grand Crystal Mystery Box (Simplified Chinese)",
       "price" : 259.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-mystery-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
@@ -986,7 +986,7 @@
       "productId" : "pokemon-151-dream-figure-set-promo-card-blind-box",
       "name" : "Pokémon 151 Dream Figure Set Promo Card Blind Box",
       "price" : 229.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151-dream-figure-set-promo-card-blind-box"
     }, {
       "site" : "maxgaming.dk",
