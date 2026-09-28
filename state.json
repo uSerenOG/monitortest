@@ -752,18 +752,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/charizard-ex-special-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-premium-checklane",
       "name" : "Pokémon ME05: Pitch Black - Premium Checklane",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-premium-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-black-bolt-sv11b-booster-box-japanese",
