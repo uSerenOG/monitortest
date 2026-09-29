@@ -1593,6 +1593,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
+      "productId" : "200291390",
+      "name" : "Pokémon battle deck – flere varianter – assorteret",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366282",
       "name" : "Pokémon Chaos Rising Premium Checklane",
       "price" : 79.0,
@@ -1619,13 +1626,6 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200291390",
-      "name" : "Pokémon battle deck – flere varianter – assorteret",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
     }, {
       "site" : "br.dk",
       "productId" : "200380908",
