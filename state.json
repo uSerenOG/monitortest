@@ -1263,18 +1263,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-bulbasaur-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "shimmering-skyline-sleeves-65-pack",
       "name" : "Pokémon Shimmering Skyline Sleeves (65-pack)",
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/shimmering-skyline-sleeves-65-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-premium-rod-snap-binder-poke",
