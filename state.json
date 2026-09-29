@@ -1460,18 +1460,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
-      "productId" : "200279925",
-      "name" : "Pokémon Battle Academy 2024",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200277178",
+      "name" : "Pokémon battle spinner – flere varianter - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
       "productId" : "100552697",
@@ -1488,11 +1488,11 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
-      "productId" : "200277178",
-      "name" : "Pokémon battle spinner – flere varianter - assorteret",
-      "price" : 129.0,
+      "productId" : "200279925",
+      "name" : "Pokémon Battle Academy 2024",
+      "price" : 299.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
+      "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
     }, {
       "site" : "br.dk",
       "productId" : "200380919",
