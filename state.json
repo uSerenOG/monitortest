@@ -381,18 +381,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-reshiram-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-munikis-zero-booster-box-japanese",
-      "name" : "Pokémon Munikis Zero Booster Box (Japanese)",
-      "price" : 739.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-phantasmal-flames-booster",
       "name" : "Pokémon ME02 Phantasmal Flames Booster",
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-munikis-zero-booster-box-japanese",
+      "name" : "Pokémon Munikis Zero Booster Box (Japanese)",
+      "price" : 739.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-collection-series-3",
@@ -1025,18 +1025,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/palafin-ex-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-enhanced-2-pack-blister-2026",
-      "name" : "Pokémon Enhanced 2-Pack Blister 2026",
-      "price" : 26139.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-blister-2026"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-black-bolt-white-flare-mini-tin",
       "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Mini Tin (1 pcs)",
       "price" : 119.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-mini-tin"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-enhanced-2-pack-blister-2026",
+      "name" : "Pokémon Enhanced 2-Pack Blister 2026",
+      "price" : 26139.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-blister-2026"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-checklane-booster",
