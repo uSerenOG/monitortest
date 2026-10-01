@@ -668,18 +668,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
-      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-tinkaton-deck-box",
       "name" : "Pokémon Tinkaton Deck Box",
       "price" : 19.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tinkaton-deck-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
+      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-charmander",
