@@ -1389,13 +1389,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-steven"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-sylveon-ex-130-103-30th-celebration-japansk",
-      "name" : "Pokémon Sylveon ex 130/103 30th Celebration (Japansk)",
-      "price" : 329.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-sylveon-ex-130-103-30th-celebration-japansk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-gengar-ex-131-103-30th-celebration-japanese",
       "name" : "Pokémon Gengar ex 131/103 30th Celebration (Japanese)",
       "price" : 569.0,
@@ -1506,6 +1499,13 @@
       "price" : 45.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-zapdos-108-103-30th-celebration-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-sylveon-ex-130-103-30th-celebration-japansk",
+      "name" : "Pokémon Sylveon ex 130/103 30th Celebration (Japansk)",
+      "price" : 329.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-sylveon-ex-130-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-moltres-105-103-30th-celebration-japanese",
