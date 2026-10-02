@@ -1418,34 +1418,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-tin-samlekort/200392809/"
     }, {
       "site" : "br.dk",
-      "productId" : "200392202",
-      "name" : "Pokémon Elite Trainer Box 30th samlekort",
-      "price" : 799.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392205",
-      "name" : "Pokémon Poster Collection 30th",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-poster-collection-30th/200392205/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392214",
-      "name" : "Pokémon 30th samlekort",
-      "price" : 179.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-30th-samlekort/200392214/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392204",
-      "name" : "Pokémon Binder Collection 30th",
-      "price" : 499.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-binder-collection-30th/200392204/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100568448",
       "name" : "Ultra pro Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
       "price" : 40.0,
@@ -1467,18 +1439,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100552697",
       "name" : "Pokémon portefolio samlemappe assorteret",
       "price" : 89.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "200279925",
@@ -1493,6 +1465,13 @@
       "price" : 50.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392202",
+      "name" : "Pokémon Elite Trainer Box 30th samlekort",
+      "price" : 799.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
     }, {
       "site" : "br.dk",
       "productId" : "200277179",
@@ -1565,11 +1544,32 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
     }, {
       "site" : "br.dk",
+      "productId" : "200392205",
+      "name" : "Pokémon Poster Collection 30th",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-poster-collection-30th/200392205/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366282",
       "name" : "Pokémon Chaos Rising Premium Checklane",
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392214",
+      "name" : "Pokémon 30th samlekort",
+      "price" : 179.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-30th-samlekort/200392214/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392204",
+      "name" : "Pokémon Binder Collection 30th",
+      "price" : 499.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-binder-collection-30th/200392204/"
     }, {
       "site" : "br.dk",
       "productId" : "200380919",
