@@ -1638,7 +1638,7 @@
       "productId" : "200397758",
       "name" : "Pokémon Booster Bundle 30th Celebration",
       "price" : 349.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-booster-bundle-30th-celebration/200397758/"
     } ]
   }
