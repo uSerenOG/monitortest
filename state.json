@@ -1480,13 +1480,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-espeon-ex-043-040-30th-celebration-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-moltres-105-103-30th-celebration-japanese",
-      "name" : "Pokémon Moltres 105/103 30th Celebration (Japanese)",
-      "price" : 55.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-moltres-105-103-30th-celebration-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-hisuian-zoroark-122-103-30th-celebration-japansk",
       "name" : "Pokémon Hisuian Zorua 122/103 30th Celebration (Japansk)",
       "price" : 44.0,
@@ -1513,6 +1506,13 @@
       "price" : 45.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-zapdos-108-103-30th-celebration-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-moltres-105-103-30th-celebration-japanese",
+      "name" : "Pokémon Moltres 105/103 30th Celebration (Japanese)",
+      "price" : 55.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-moltres-105-103-30th-celebration-japanese"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
