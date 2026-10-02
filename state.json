@@ -1626,6 +1626,20 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397756",
+      "name" : "Pokemon Mini Tins 30th - flere varianter - assorteret",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mini-tins-30th-flere-varianter-assorteret/200397756/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397758",
+      "name" : "Pokémon Booster Bundle 30th Celebration",
+      "price" : 349.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-booster-bundle-30th-celebration/200397758/"
     } ]
   }
 }
