@@ -1670,6 +1670,20 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
+      "productId" : "200392807",
+      "name" : "Pokemon Greninja EX samlekort box",
+      "price" : 349.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392806",
+      "name" : "Pokémon Sylveon ex Box 30th",
+      "price" : 349.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-box-30th/200392806/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200392214",
       "name" : "Pokémon 30th samlekort",
       "price" : 179.0,
@@ -1745,20 +1759,6 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392807",
-      "name" : "Pokemon Greninja EX samlekort box",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392806",
-      "name" : "Pokémon Sylveon ex Box 30th",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-box-30th/200392806/"
     }, {
       "site" : "br.dk",
       "productId" : "200380919",
