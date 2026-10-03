@@ -423,18 +423,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-plush-toy-card-display-gaveaske",
-      "name" : "Pokémon Plush Toy Card Display Gift Box",
-      "price" : 269.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-plush-toy-card-display-gaveaske"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-greninja-ex-premium-collection",
       "name" : "Pokémon Mega Greninja ex Premium Collection",
       "price" : 499.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-plush-toy-card-display-gaveaske",
+      "name" : "Pokémon Plush Toy Card Display Gift Box",
+      "price" : 269.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-plush-toy-card-display-gaveaske"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-booster-bundle",
@@ -556,18 +556,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-4-paradox-rift-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-sleeved-booster",
-      "name" : "Pokémon Mega Evolution Sleeved Booster",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-sleeved-booster"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-booster",
       "name" : "Pokémon ME04 Chaos Rising Booster",
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-evolution-sleeved-booster",
+      "name" : "Pokémon Mega Evolution Sleeved Booster",
+      "price" : 90.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-sleeved-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "9-pocket-binder-tinkaton",
@@ -1039,18 +1039,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmagoriske-flammer-blister-1-pakke"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-white-flare-mini-tin",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Mini Tin (1 pcs)",
-      "price" : 119.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-mini-tin"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-grafaiai-ex-box",
       "name" : "Pokémon Grafaiai ex Box",
       "price" : 259.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grafaiai-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-105-black-bolt-white-flare-mini-tin",
+      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Mini Tin (1 pcs)",
+      "price" : 119.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-mini-tin"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-checklane-booster",
@@ -1074,6 +1074,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-me04-chaos-rising-premium-checklane-blister",
+      "name" : "Pokémon ME04 Chaos Rising Premium Checklane Blister",
+      "price" : 79.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-premium-checklane-blister"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "flareon-vmax-gift-box",
       "name" : "Pokémon Flareon VMAX Gift Box (Simplified Chinese)",
       "price" : 1029.0,
@@ -1086,13 +1093,6 @@
       "price" : 233.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/palafin-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-premium-checklane-blister",
-      "name" : "Pokémon ME04 Chaos Rising Premium Checklane Blister",
-      "price" : 79.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-premium-checklane-blister"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-greninja-kangaskhan",
@@ -1109,18 +1109,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-white-flare-unova-poster-collection",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Unova Poster Collection",
-      "price" : 253.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-unova-poster-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-ex-gengar-diancie",
       "name" : "Pokémon Battle Deck Ex Gengar/Diancie",
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-ex-gengar-diancie"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-105-black-bolt-white-flare-unova-poster-collection",
+      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Unova Poster Collection",
+      "price" : 253.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-unova-poster-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-premium-snap-binder-poke-blue",
@@ -1137,13 +1137,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-binder-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-tech-sticker-collection",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt Tech Sticker Collection",
-      "price" : 199.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-phantasmal-flames-premium-checklane",
       "name" : "Pokémon ME02 Phantasmal Flames Premium Checklane",
       "price" : 79.0,
@@ -1156,6 +1149,13 @@
       "price" : 239.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-kangaskhan-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-105-black-bolt-tech-sticker-collection",
+      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt Tech Sticker Collection",
+      "price" : 199.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-premium-checklane",
@@ -1179,6 +1179,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/greninja-4-pocket-portfolio"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-portfolio-9-p-mega-charizard-x-y",
+      "name" : "Pokémon Portfolio 9-P Mega Charizard X/Y",
+      "price" : 119.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-mega-charizard-x-y"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-super-electric-breaker-sv8-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Super Electric Breaker SV8 Booster Box (Japanese)",
       "price" : 869.0,
@@ -1200,25 +1207,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-marnie"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-portfolio-9-p-mega-charizard-x-y",
-      "name" : "Pokémon Portfolio 9-P Mega Charizard X/Y",
-      "price" : 119.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-mega-charizard-x-y"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-8ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – XL",
       "price" : 1019.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "jolteon-vmax-gift-box",
-      "name" : "Pokémon Jolteon VMAX Gift Box (Simplified Chinese)",
-      "price" : 1029.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/jolteon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-lucario-ex-figur-samling",
@@ -1233,6 +1226,13 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "jolteon-vmax-gift-box",
+      "name" : "Pokémon Jolteon VMAX Gift Box (Simplified Chinese)",
+      "price" : 1029.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/jolteon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-checklane-booster",
@@ -1340,18 +1340,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ex-battle-deck-melmetal-ex",
-      "name" : "Pokémon Ex Battle Deck - Melmetal ex",
-      "price" : 126.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-melmetal-ex"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantasmal-flames-checklane",
       "name" : "Pokémon ME02 Phantasmal Flames Checklane",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmal-flames-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "ex-battle-deck-melmetal-ex",
+      "name" : "Pokémon Ex Battle Deck - Melmetal ex",
+      "price" : 126.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-melmetal-ex"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "deluxe-battle-deck-miraidon",
@@ -1368,18 +1368,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-houndoom-ex"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "binder-pikachu-2-pocket",
-      "name" : "Pokémon Binder Pikachu 2 Pocket",
-      "price" : 119.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/binder-pikachu-2-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-traner-varktojskasse-25",
       "name" : "Pokémon Træner Værktøjskasse 25",
       "price" : 25365.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "binder-pikachu-2-pocket",
+      "name" : "Pokémon Binder Pikachu 2 Pocket",
+      "price" : 119.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/binder-pikachu-2-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-steven",
