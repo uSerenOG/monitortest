@@ -1628,18 +1628,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380910",
-      "name" : "Pokémon ME05 Pitch Black samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380917",
       "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380910",
+      "name" : "Pokémon ME05 Pitch Black samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
     }, {
       "site" : "br.dk",
       "productId" : "200380911",
@@ -1661,13 +1661,6 @@
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392807",
-      "name" : "Pokemon Greninja EX samlekort box",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
     }, {
       "site" : "br.dk",
       "productId" : "200392806",
@@ -1759,6 +1752,13 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392807",
+      "name" : "Pokemon Greninja EX samlekort box",
+      "price" : 349.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
     }, {
       "site" : "br.dk",
       "productId" : "200380919",
