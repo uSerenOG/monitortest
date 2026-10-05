@@ -13,14 +13,14 @@
       "productId" : "pokemon-30th-celebration-booster-box-japanese",
       "name" : "Pokémon 30th Celebration Booster Box (Japanese)",
       "price" : 1699.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-premium-deck-set-espeon-umbreon-japanese",
       "name" : "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon (Japanese)",
       "price" : 1399.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-premium-deck-set-espeon-umbreon-japanese"
     }, {
       "site" : "maxgaming.dk",
