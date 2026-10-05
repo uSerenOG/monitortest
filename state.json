@@ -1649,6 +1649,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
     }, {
       "site" : "br.dk",
+      "productId" : "200366282",
+      "name" : "Pokémon Chaos Rising Premium Checklane",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200366280",
       "name" : "Pokémon Chaos Rising - 3 pak",
       "price" : 179.0,
@@ -1710,13 +1717,6 @@
       "price" : 599.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366282",
-      "name" : "Pokémon Chaos Rising Premium Checklane",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
       "productId" : "200366279",
