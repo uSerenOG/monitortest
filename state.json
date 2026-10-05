@@ -997,18 +997,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/gem-pack-vol-1-booster-box-chinese-2"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-zygarde-ex-premium-collection",
-      "name" : "Pokémon Mega Zygarde ex Premium Collection",
-      "price" : 519.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-zygarde-ex-premium-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-blister-booster",
       "name" : "Pokémon ME04 Chaos Rising Blister Booster",
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-zygarde-ex-premium-collection",
+      "name" : "Pokémon Mega Zygarde ex Premium Collection",
+      "price" : 519.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-zygarde-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-venusaur-ex-premium-collection",
