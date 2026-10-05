@@ -1516,20 +1516,6 @@
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
-      "productId" : "200397756",
-      "name" : "Pokemon Mini Tins 30th - flere varianter - assorteret",
-      "price" : 179.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-mini-tins-30th-flere-varianter-assorteret/200397756/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200397758",
-      "name" : "Pokémon Booster Bundle 30th Celebration",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-booster-bundle-30th-celebration/200397758/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100568448",
       "name" : "Ultra pro Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
       "price" : 40.0,
@@ -1612,6 +1598,13 @@
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-tin-samlekort/200392808/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200255087",
+      "name" : "Deluxe battle deck",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/deluxe-battle-deck/200255087/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1759,13 +1752,6 @@
       "price" : 349.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380919",
-      "name" : "Pokémon Box Premium Ex Mega Greninja",
-      "price" : 529.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-box-premium-ex-mega-greninja/200380919/"
     } ]
   }
 }
