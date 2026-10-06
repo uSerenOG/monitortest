@@ -1530,13 +1530,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
-      "productId" : "100552697",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
@@ -1544,18 +1537,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
+      "productId" : "100552697",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "100549325",
@@ -1579,32 +1572,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
       "site" : "br.dk",
-      "productId" : "200392809",
-      "name" : "Pokemon Greninja EX tin samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-tin-samlekort/200392809/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392808",
-      "name" : "Pokemon Sylveon EX tin samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-tin-samlekort/200392808/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200392202",
-      "name" : "Pokémon Elite Trainer Box 30th samlekort",
-      "price" : 799.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200255087",
-      "name" : "Deluxe battle deck",
-      "price" : 249.0,
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/deluxe-battle-deck/200255087/"
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
@@ -1733,6 +1705,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
     }, {
       "site" : "br.dk",
+      "productId" : "200255087",
+      "name" : "Deluxe battle deck",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/deluxe-battle-deck/200255087/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200209928",
       "name" : "Pokemon Deluxe Battle Deck 23",
       "price" : 249.0,
@@ -1747,11 +1726,32 @@
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
     }, {
       "site" : "br.dk",
+      "productId" : "200392809",
+      "name" : "Pokemon Greninja EX tin samlekort",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-tin-samlekort/200392809/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392808",
+      "name" : "Pokemon Sylveon EX tin samlekort",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-sylveon-ex-tin-samlekort/200392808/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200392807",
       "name" : "Pokemon Greninja EX samlekort box",
       "price" : 349.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200392202",
+      "name" : "Pokémon Elite Trainer Box 30th samlekort",
+      "price" : 799.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
     } ]
   }
 }
