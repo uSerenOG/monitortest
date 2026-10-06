@@ -1565,18 +1565,18 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
-      "productId" : "200277179",
-      "name" : "Pokémon Battle Spinner Arena sæt",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200158189",
       "name" : "Pokémon portefolio samlemappe assorteret",
       "price" : 159.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200277179",
+      "name" : "Pokémon Battle Spinner Arena sæt",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
       "site" : "br.dk",
       "productId" : "100502881",
