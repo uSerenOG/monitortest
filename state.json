@@ -1032,18 +1032,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder",
-      "name" : "Pokémon Elite Series Charizard 12-Lomme Lynlås PRO Binder",
-      "price" : 409.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
       "name" : "Pokémon ME05: Pitch Black - Checklane",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder",
+      "name" : "Pokémon Elite Series Charizard 12-Lomme Lynlås PRO Binder",
+      "price" : 409.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
