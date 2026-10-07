@@ -1523,6 +1523,13 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
+      "productId" : "200215319",
+      "name" : "Pokémon Battle Deck EX samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200277178",
       "name" : "Pokémon battle spinner – flere varianter - assorteret",
       "price" : 129.0,
@@ -1537,18 +1544,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200215319",
-      "name" : "Pokémon Battle Deck EX samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "100549325",
@@ -1563,13 +1570,6 @@
       "price" : 50.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "200277179",
