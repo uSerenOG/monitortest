@@ -1523,6 +1523,13 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
+      "productId" : "100552697",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
@@ -1535,13 +1542,6 @@
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "100552697",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
       "productId" : "200279925",
@@ -1745,13 +1745,6 @@
       "price" : 799.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-30th-samlekort/200392202/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380918",
-      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     } ]
   }
 }
