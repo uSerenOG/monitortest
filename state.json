@@ -1256,18 +1256,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pro-binder-charmander-9-pocket",
-      "name" : "Pokémon Pro Binder Charmander 9 Pocket",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-premium-checklane",
       "name" : "Pokémon Mega Evolution Premium Checklane",
       "price" : 79.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-premium-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pro-binder-charmander-9-pocket",
+      "name" : "Pokémon Pro Binder Charmander 9 Pocket",
+      "price" : 199.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mystery-gaveaske-forenklet-kinesisk",
