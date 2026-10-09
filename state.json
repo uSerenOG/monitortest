@@ -1530,18 +1530,18 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
-      "productId" : "100552697",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100552697",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
       "productId" : "200277178",
@@ -1635,13 +1635,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200392806",
       "name" : "Pokémon Sylveon ex Box 30th",
       "price" : 349.0,
@@ -1689,6 +1682,13 @@
       "price" : 599.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366280",
+      "name" : "Pokémon Chaos Rising - 3 pak",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
     }, {
       "site" : "br.dk",
       "productId" : "200366279",
