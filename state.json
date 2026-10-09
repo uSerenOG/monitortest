@@ -1249,18 +1249,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pro-binder-charmander-9-pocket",
-      "name" : "Pokémon Pro Binder Charmander 9 Pocket",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
       "name" : "Pokémon ME02 Phantasmal Flames Blister (3-pack)",
       "price" : 169.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pro-binder-charmander-9-pocket",
+      "name" : "Pokémon Pro Binder Charmander 9 Pocket",
+      "price" : 199.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-ex-gengar-diancie",
