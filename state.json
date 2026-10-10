@@ -1712,13 +1712,6 @@
       "url" : "https://www.br.dk/produkter/deluxe-battle-deck/200255087/"
     }, {
       "site" : "br.dk",
-      "productId" : "200209928",
-      "name" : "Pokemon Deluxe Battle Deck 23",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200195519",
       "name" : "Squishmallows Pokémon blinkende Pikachu 25 cm",
       "price" : 159.2,
@@ -1745,6 +1738,13 @@
       "price" : 349.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200209928",
+      "name" : "Pokemon Deluxe Battle Deck 23",
+      "price" : 249.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-deluxe-battle-deck-23/200209928/"
     } ]
   }
 }
