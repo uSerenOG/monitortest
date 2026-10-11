@@ -146,7 +146,7 @@
       "productId" : "pokemon-meowth-120-103-30th-celebration-japansk",
       "name" : "Pokémon Meowth 120/103 30th Celebration (Japansk)",
       "price" : 49.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-meowth-120-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
