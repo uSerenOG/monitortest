@@ -1628,13 +1628,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-flere-varianter-assorteret/200291390/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366282",
-      "name" : "Pokémon Chaos Rising Premium Checklane",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200392806",
       "name" : "Pokémon Sylveon ex Box 30th",
       "price" : 349.0,
@@ -1675,6 +1668,13 @@
       "price" : 529.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366282",
+      "name" : "Pokémon Chaos Rising Premium Checklane",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
       "productId" : "200366280",
