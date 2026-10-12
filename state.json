@@ -836,18 +836,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "togepi-105ct-apex-deck-protector-sleeves",
       "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-flip-deck-box-mega-charizard-x",
@@ -1586,13 +1586,6 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-plastlommer-til-samlemapper-9-lommer-pr-side/100559004/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380918",
-      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100502881",
       "name" : "Ultra Pro Pro-Fit Kortlommer til Samlekort  (100 stk.)",
       "price" : 50.0,
@@ -1661,6 +1654,13 @@
       "price" : 499.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-binder-collection-30th/200392204/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380918",
+      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
       "productId" : "200380908",
