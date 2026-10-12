@@ -160,7 +160,7 @@
       "productId" : "pokemon-galarian-meowth-117-103-30th-celebration-japansk",
       "name" : "Pokémon Galarian Meowth 117/103 30th Celebration (Japansk)",
       "price" : 42.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-galarian-meowth-117-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
