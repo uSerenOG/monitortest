@@ -1354,13 +1354,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/greninja-4-pocket-portfolio"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-checklane-booster",
       "name" : "Pokémon Mega Evolution Checklane Booster",
       "price" : 59.0,
@@ -1373,6 +1366,13 @@
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-lucario-ex-figur-samling",
