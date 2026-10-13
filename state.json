@@ -1551,18 +1551,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200158189",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 159.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200158189",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 159.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
       "productId" : "200277179",
