@@ -1677,25 +1677,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-premium-checklane/200366282/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366280",
-      "name" : "Pokémon Chaos Rising - 3 pak",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366279",
       "name" : "Pokémon Chaos Rising 1 pak",
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200291392",
-      "name" : "Pokémon trainer toolkit",
-      "price" : 479.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
     }, {
       "site" : "br.dk",
       "productId" : "200255087",
@@ -1731,6 +1717,20 @@
       "price" : 349.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366280",
+      "name" : "Pokémon Chaos Rising - 3 pak",
+      "price" : 179.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-3-pak/200366280/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200291392",
+      "name" : "Pokémon trainer toolkit",
+      "price" : 479.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
     } ]
   }
 }
