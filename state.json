@@ -1515,18 +1515,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-booster-bundle",
-      "name" : "Pokémon 30th Celebration - Booster Bundle",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-bundle"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-enhanced-2-pack-q4-2026",
       "name" : "Pokémon Enhanced 2-Pack Q4 2026",
       "price" : 26149.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-q4-2026"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-booster-bundle",
+      "name" : "Pokémon 30th Celebration - Booster Bundle",
+      "price" : 399.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-mini-tin",
