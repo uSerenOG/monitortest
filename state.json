@@ -1684,13 +1684,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-binder-collection-30th/200392204/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366285",
-      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
-      "price" : 529.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366282",
       "name" : "Pokémon Chaos Rising Premium Checklane",
       "price" : 79.0,
@@ -1738,6 +1731,13 @@
       "price" : 349.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     } ]
   }
 }
