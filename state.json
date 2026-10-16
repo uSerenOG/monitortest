@@ -1513,6 +1513,27 @@
       "price" : 113.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-mini-tin",
+      "name" : "Pokémon 30th Celebration - Mini Tin",
+      "price" : 169.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-mini-tin"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-booster-bundle",
+      "name" : "Pokémon 30th Celebration - Booster Bundle",
+      "price" : 399.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-bundle"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-enhanced-2-pack-q4-2026",
+      "name" : "Pokémon Enhanced 2-Pack Q4 2026",
+      "price" : 26149.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-q4-2026"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
@@ -1717,13 +1738,6 @@
       "price" : 349.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-greninja-ex-samlekort-box/200392807/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200291392",
-      "name" : "Pokémon trainer toolkit",
-      "price" : 479.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-trainer-toolkit/200291392/"
     } ]
   }
 }
