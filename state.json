@@ -286,7 +286,7 @@
       "productId" : "pokemon-30th-celebration-mini-tin",
       "name" : "Pokémon 30th Celebration - Mini Tin",
       "price" : 169.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-mini-tin"
     }, {
       "site" : "maxgaming.dk",
