@@ -1389,18 +1389,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-gift-box-bulbasaur-simplified-chinese",
       "name" : "Pokémon First Partner Gift Box - Bulbasaur (Simplified Chinese)",
       "price" : 1090.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-bulbasaur-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-lucario-ex-figur-samling",
