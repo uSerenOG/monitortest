@@ -563,6 +563,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-collection-series-3",
+      "name" : "Pokémon First Partner Collection Series 3",
+      "price" : 3279.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-3"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-phantasmal-flames-booster",
       "name" : "Pokémon ME02 Phantasmal Flames Booster",
       "price" : 90.0,
@@ -575,13 +582,6 @@
       "price" : 1489.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-charizard-ex-ultra-premium-samling"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-collection-series-3",
-      "name" : "Pokémon First Partner Collection Series 3",
-      "price" : 3279.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-3"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "mega-brave-m1l-booster-box-japanese",
@@ -976,6 +976,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-sprigatito-meowscarada-ex-japansk"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
       "price" : 819.0,
@@ -988,13 +995,6 @@
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charizard-9p-pro-binder-zip-elite"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
@@ -1109,18 +1109,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/vstar-universe-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-white-flare-sv11w-booster-box-japanese",
-      "name" : "Pokémon Scarlet & Violet: White Flare SV11W Booster Box (Japanese)",
-      "price" : 749.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-white-flare-sv11w-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-blister-booster",
       "name" : "Pokémon ME04 Chaos Rising Blister Booster",
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-white-flare-sv11w-booster-box-japanese",
+      "name" : "Pokémon Scarlet & Violet: White Flare SV11W Booster Box (Japanese)",
+      "price" : 749.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-white-flare-sv11w-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-blister-3-pak",
@@ -1158,6 +1158,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-mini-album-med-booster-q1-26",
+      "name" : "Pokémon Mini Album med Booster Q1 26",
+      "price" : 90.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
       "name" : "Ultra Pro Toploader 3x4",
       "price" : 89.0,
@@ -1170,13 +1177,6 @@
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmagoriske-flammer-blister-1-pakke"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mini-album-med-booster-q1-26",
-      "name" : "Pokémon Mini Album med Booster Q1 26",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder",
@@ -1200,18 +1200,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "palafin-ex-box",
-      "name" : "Pokémon Palafin ex Box",
-      "price" : 233.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/palafin-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-grafaiai-ex-box",
       "name" : "Pokémon Grafaiai ex Box",
       "price" : 259.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grafaiai-ex-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "palafin-ex-box",
+      "name" : "Pokémon Palafin ex Box",
+      "price" : 233.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/palafin-ex-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "slashing-legends-ex-tin",
