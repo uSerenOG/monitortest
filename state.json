@@ -1534,6 +1534,27 @@
       "price" : 25365.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Charizard Collectors Figure Gift Box (Simplified Chinese)",
+      "price" : 2889.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-pikachu-figure-set-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Pikachu Figure Set (Simplified Chinese)",
+      "price" : 269.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-pikachu-figure-set-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-booster-box-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Booster Box (Simplified Chinese)",
+      "price" : 1069.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
