@@ -430,18 +430,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-reshiram-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
-      "name" : "Pokémon ME04 Chaos Rising Booster Bundle (6-Pack)",
-      "price" : 449.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster-bundle-6-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese",
       "name" : "Pokémon Crystal Gathering Exclusive Gift Box (Simplified Chinese)",
       "price" : 2779.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
+      "name" : "Pokémon ME04 Chaos Rising Booster Bundle (6-Pack)",
+      "price" : 449.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me03-perfect-order-elite-trainer-box",
