@@ -1628,6 +1628,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     }, {
       "site" : "br.dk",
+      "productId" : "200380918",
+      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200380911",
       "name" : "Pokémon Pitch Black Checklane Booster Pack",
       "price" : 79.0,
@@ -1640,6 +1647,13 @@
       "price" : 179.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
       "productId" : "100559004",
