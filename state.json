@@ -1603,8 +1603,15 @@
       "productId" : "200380918",
       "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
       "price" : 599.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380911",
+      "name" : "Pokémon Pitch Black Checklane Booster Pack",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
     }, {
       "site" : "br.dk",
       "productId" : "200380910",
@@ -1640,13 +1647,6 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380911",
-      "name" : "Pokémon Pitch Black Checklane Booster Pack",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
     }, {
       "site" : "br.dk",
       "productId" : "200291390",
