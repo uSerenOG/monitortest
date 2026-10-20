@@ -1607,6 +1607,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
+      "productId" : "200380910",
+      "name" : "Pokémon ME05 Pitch Black samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
+    }, {
+      "site" : "br.dk",
       "productId" : "100559004",
       "name" : "Ultra pro Plastlommer til samlemapper 9-lommer pr side",
       "price" : 50.0,
@@ -1626,13 +1633,6 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380910",
-      "name" : "Pokémon ME05 Pitch Black samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
     }, {
       "site" : "br.dk",
       "productId" : "200380909",
