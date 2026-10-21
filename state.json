@@ -1179,13 +1179,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/flareon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "palafin-ex-box",
       "name" : "Pokémon Palafin ex Box",
       "price" : 233.0,
@@ -1205,6 +1198,13 @@
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-premium-checklane",
