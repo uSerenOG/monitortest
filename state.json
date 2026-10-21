@@ -899,18 +899,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-mega-ex-box",
-      "name" : "Pokémon ME2.5 Ascended Heroes MEGA ex Box",
-      "price" : 330.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-mega-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
       "name" : "Pokémon ME05: Pitch Black - Checklane",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me25-ascended-heroes-mega-ex-box",
+      "name" : "Pokémon ME2.5 Ascended Heroes MEGA ex Box",
+      "price" : 330.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-mega-ex-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "151c-surprise-booster-box-simplified-chinese",
