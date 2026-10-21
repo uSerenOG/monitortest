@@ -1018,18 +1018,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-card-sleeves-premium-100pcs"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-starter-set-eevee-ex-japansk",
       "name" : "Pokémon Mega Starter Set - Eevee EX (Japansk)",
       "price" : 369.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-eevee-ex-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-charmander",
@@ -1130,18 +1130,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-9-p-poke-me01"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
-      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – M",
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
+      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pro-binder-9-p-mega-charizard-x-y",
