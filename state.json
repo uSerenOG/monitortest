@@ -1701,7 +1701,7 @@
       "productId" : "200195519",
       "name" : "Squishmallows Pokémon blinkende Pikachu 25 cm",
       "price" : 199.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/squishmallows-pokemon-blinkende-pikachu-25-cm/200195519/"
     } ]
   }
