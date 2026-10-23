@@ -444,18 +444,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-booster-box-simplified-chinese",
-      "name" : "Pokémon 30th Celebration Booster Box (Simplified Chinese)",
-      "price" : 1069.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-plush-toy-card-display-gaveaske",
       "name" : "Pokémon Plush Toy Card Display Gift Box",
       "price" : 269.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-plush-toy-card-display-gaveaske"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-booster-box-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Booster Box (Simplified Chinese)",
+      "price" : 1069.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
@@ -1200,18 +1200,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pro-binder-charmander-9-pocket",
-      "name" : "Pokémon Pro Binder Charmander 9 Pocket",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
       "name" : "Pokémon Deck Pro Mega Charizard X (65 stk)",
       "price" : 59.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-x-65-stk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pro-binder-charmander-9-pocket",
+      "name" : "Pokémon Pro Binder Charmander 9 Pocket",
+      "price" : 199.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
