@@ -752,18 +752,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-blister-1-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
-      "name" : "Pokémon ME02 Phantasmal Flames Blister (3-pack)",
-      "price" : 169.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-munikis-zero-booster-box-japanese",
       "name" : "Pokémon Munikis Zero Booster Box (Japanese)",
       "price" : 739.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
+      "name" : "Pokémon ME02 Phantasmal Flames Blister (3-pack)",
+      "price" : 169.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-4-paradox-rift-booster",
