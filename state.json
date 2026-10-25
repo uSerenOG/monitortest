@@ -528,18 +528,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-box-first-partner-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-grand-crystal-binder-gift-box-umbreon",
-      "name" : "Pokémon Grand Crystal Binder Gift Box - Umbreon (Simplified Chinese)",
-      "price" : 1119.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-umbreon"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-pikachu-figure-set-simplified-chinese",
       "name" : "Pokémon 30th Celebration Pikachu Figure Set (Simplified Chinese)",
       "price" : 269.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-pikachu-figure-set-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-grand-crystal-binder-gift-box-umbreon",
+      "name" : "Pokémon Grand Crystal Binder Gift Box - Umbreon (Simplified Chinese)",
+      "price" : 1119.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-binder-gift-box-umbreon"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
@@ -899,18 +899,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-summer-ex-tin-box",
-      "name" : "Pokémon Summer ex Tin box",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
       "price" : 339.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-summer-ex-tin-box",
+      "name" : "Pokémon Summer ex Tin box",
+      "price" : 299.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-premium-checklane",
