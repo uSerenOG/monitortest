@@ -241,13 +241,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-sylveon-ex-130-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-ascended-heroes-booster-bundle",
-      "name" : "Pokémon Ascended Heroes Booster Bundle",
-      "price" : 419.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-ascended-heroes-booster-bundle"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-ex-127-103-30th-celebration-japansk",
       "name" : "Pokémon Pikachu ex 127/103 30th Celebration (Japansk)",
       "price" : 779.0,
@@ -381,13 +374,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-zekrom-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me03-perfect-order-elite-trainer-box",
-      "name" : "Pokémon ME03 Perfect Order Elite Trainer Box",
-      "price" : 589.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese",
       "name" : "Pokémon 30th Celebration Charizard Collectors Figure Gift Box (Simplified Chinese)",
       "price" : 2889.0,
@@ -402,20 +388,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-vol-3-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-collection-series-2",
-      "name" : "Pokémon First Partner Collection Series 2",
-      "price" : 2269.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-2"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-zygarde-ex-premium-collection",
-      "name" : "Pokémon Mega Zygarde ex Premium Collection",
-      "price" : 519.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-zygarde-ex-premium-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
@@ -428,13 +400,6 @@
       "price" : 479.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster-bundle"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-pokemon-day-2026-collection-box-3-pack",
-      "name" : "Pokémon Pokemon Day 2026 Collection Box 3-Pack",
-      "price" : 209.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pokemon-day-2026-collection-box-3-pack"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-pikachu-figure-set-simplified-chinese",
@@ -458,13 +423,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-box-first-partner-collection",
-      "name" : "Pokémon Box First Partner Collection",
-      "price" : 249.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-box-first-partner-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-phantasmal-flames-booster",
       "name" : "Pokémon ME02 Phantasmal Flames Booster",
       "price" : 90.0,
@@ -477,13 +435,6 @@
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me03-perfect-order-booster",
-      "name" : "Pokémon ME03 Perfect Order - Booster",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
@@ -528,13 +479,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-fukuoka"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me03-perfect-order-booster-bundle-6-pack",
-      "name" : "Pokémon ME03 Perfect Order - Booster Bundle (6-pack)",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-booster-bundle-6-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-venusaur-ex-premium-collection",
       "name" : "Pokémon Mega Venusaur Ex Premium Collection",
       "price" : 479.0,
@@ -549,13 +493,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-deluxe-pin-collection",
-      "name" : "Pokémon ME2.5 Ascended Heroes - Deluxe Pin Collection",
-      "price" : 349.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-deluxe-pin-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
       "name" : "Pokémon Ninja Spinner Booster Box (Japanese)",
       "price" : 759.0,
@@ -568,13 +505,6 @@
       "price" : 159.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-3-pack"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-enhanced-2-pack",
-      "name" : "Pokémon ME2.5 Ascended Heroes Enhanced 2-Pack",
-      "price" : 125.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-enhanced-2-pack"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-lumiose-city-mini-tin",
@@ -605,25 +535,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-kangaskhan-ex-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me03-perfect-order-blister-1-pack",
-      "name" : "Pokémon ME03 Perfect Order - Blister (1-pack)",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-blister-1-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
       "name" : "Pokémon ME02 Phantasmal Flames Blister (3-pack)",
       "price" : 169.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-premium-poster-collection",
-      "name" : "Pokémon ME2.5 Ascended Heroes - Premium Poster Collection",
-      "price" : 629.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-premium-poster-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-premium-checklane",
@@ -668,13 +584,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-mini-tin",
-      "name" : "Pokémon ME2.5 Ascended Heroes Mini Tin",
-      "price" : 129.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-mini-tin"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
       "name" : "Pokémon ME05: Pitch Black - Checklane",
       "price" : 59.0,
@@ -696,46 +605,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-plush-toy-card-display-gaveaske"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-mega-ex-box",
-      "name" : "Pokémon ME2.5 Ascended Heroes MEGA ex Box",
-      "price" : 330.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-mega-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-2026-tin",
-      "name" : "Pokémon 2026 Tin",
-      "price" : 279.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-tin"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-heroes-mini-tin",
       "name" : "Pokémon Mega Heroes Mini Tin",
       "price" : 159.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-heroes-mini-tin"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-enhanced-2-pack-blister-2026",
-      "name" : "Pokémon Enhanced 2-Pack Blister 2026",
-      "price" : 26139.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-blister-2026"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me25-ascended-heroes-tech-sticker-collection",
-      "name" : "Pokémon ME2.5 Ascended Heroes Tech Sticker Collection",
-      "price" : 209.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-tech-sticker-collection"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-tin-pokeball-25-rel-5-12",
-      "name" : "Pokémon Tin Pokeball 25",
-      "price" : 25166.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tin-pokeball-25-rel-5-12"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-blister-3-pak",
@@ -764,20 +638,6 @@
       "price" : 269.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-team-rocket-ex-dase"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-psyduck-ar-199-193-m2a-japansk-mega-dream-ex",
-      "name" : "Pokémon Psyduck AR 199/193 m2a Mega Dream ex – Pokémonkort",
-      "price" : 129.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-psyduck-ar-199-193-m2a-japansk-mega-dream-ex"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-grafaiai-ex-box",
-      "name" : "Pokémon Grafaiai ex Box",
-      "price" : 259.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grafaiai-ex-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-105-black-bolt-tech-sticker-collection",
@@ -927,13 +787,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-traner-varktojskasse-25",
-      "name" : "Pokémon Træner Værktøjskasse 25",
-      "price" : 25365.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-traner-varktojskasse-25"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-9-pocket-binder",
       "name" : "Pokémon Pikachu 9 Pocket Binder",
       "price" : 129.0,
@@ -988,13 +841,6 @@
       "price" : 739.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "gem-pack-vol-2-booster-box-chinese",
-      "name" : "Pokémon Gem Pack Vol 2 Booster Box (Simplified Chinese)",
-      "price" : 579.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/gem-pack-vol-2-booster-box-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-151c-gathering-booster-box-forenklet-kinesisk",
@@ -1114,13 +960,6 @@
       "price" : 369.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-eevee-ex-japansk"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-gift-box-charmander-simplified-chinese",
-      "name" : "Pokémon First Partner Gift Box - Charmander (Simplified Chinese)",
-      "price" : 1239.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-charmander-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "151c-hope-booster-box-chinese",
@@ -1249,13 +1088,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-white-flare-sv11w-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-gift-box-bulbasaur-simplified-chinese",
-      "name" : "Pokémon First Partner Gift Box - Bulbasaur (Simplified Chinese)",
-      "price" : 1090.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-gift-box-bulbasaur-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-samlerkiste",
       "name" : "Pokémon Collector's Chest 2025",
       "price" : 25339.0,
@@ -1361,13 +1193,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-charmander",
-      "name" : "Pokémon Playmat Charmander",
-      "price" : 199.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-heat-wave-arena-sv9a-booster-box",
       "name" : "Pokémon Heat Wave Arena SV9a Booster Box (Japansk)",
       "price" : 819.0,
@@ -1382,11 +1207,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-forste-partner-gaveaske-forenklet-kinesisk",
-      "name" : "Pokémon First Partner Gift Box - Squirtle (Simplified Chinese)",
-      "price" : 1090.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-forste-partner-gaveaske-forenklet-kinesisk"
+      "productId" : "pokemon-playmat-charmander",
+      "name" : "Pokémon Playmat Charmander",
+      "price" : 189.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-album-mega-charizard-x-y-2",
