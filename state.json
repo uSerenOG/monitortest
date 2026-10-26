@@ -164,13 +164,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-regular-25-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-10-destined-rivals-elite-trainer-box",
-      "name" : "Pokémon Scarlet & Violet 10: Destined Rivals Elite Trainer Box",
-      "price" : 689.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-meowth-120-103-30th-celebration-japansk",
       "name" : "Pokémon Meowth 120/103 30th Celebration (Japansk)",
       "price" : 49.0,
@@ -295,13 +288,6 @@
       "price" : 259.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-grand-crystal-mystery-box-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-85-prismatic-evolutions-super-premium-collection",
-      "name" : "Pokémon Scarlet & Violet 8.5: Prismatic Evolutions Super Premium Collection",
-      "price" : 1549.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-85-prismatic-evolutions-super-premium-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-enhanced-2-pack-q4-2026",
@@ -435,13 +421,6 @@
       "price" : 739.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-10-destined-rivals-booster-2",
-      "name" : "Pokémon Scarlet & Violet 10: Destined Rivals Booster",
-      "price" : 54.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-booster-2"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-booster-bundle",
@@ -633,13 +612,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-blister-1-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-4-paradox-rift-booster",
-      "name" : "Pokémon Scarlet & Violet 4: Paradox Rift Booster",
-      "price" : 45.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-4-paradox-rift-booster"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
       "name" : "Pokémon ME02 Phantasmal Flames Blister (3-pack)",
       "price" : 169.0,
@@ -759,13 +731,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me25-ascended-heroes-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ex-battle-deck-dragapult-ex",
-      "name" : "Pokémon Dragapult EX League Battle Deck",
-      "price" : 266.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-dragapult-ex"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-tin-pokeball-25-rel-5-12",
       "name" : "Pokémon Tin Pokeball 25",
       "price" : 25166.0,
@@ -799,13 +764,6 @@
       "price" : 269.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-team-rocket-ex-dase"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "slashing-legends-ex-tin",
-      "name" : "Pokémon Slashing Legends Ex Tin",
-      "price" : 219.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/slashing-legends-ex-tin"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-psyduck-ar-199-193-m2a-japansk-mega-dream-ex",
@@ -857,13 +815,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-abyss-eye-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-white-flare-mini-tin",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Mini Tin (1 pcs)",
-      "price" : 119.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-mini-tin"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-greninja-kangaskhan",
       "name" : "Pokémon Battle Deck Greninja/Kangaskhan",
       "price" : 166.0,
@@ -885,32 +836,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-ex-gengar-diancie"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-white-flare-unova-poster-collection",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt & White Flare Unova Poster Collection",
-      "price" : 253.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-white-flare-unova-poster-collection"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-white-flair-binder-collection",
-      "name" : "Pokémon Scarlet & Violet 10.5: White Flair Binder Collection",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flair-binder-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "rival-battle-deck-marnie",
       "name" : "Pokémon Rival Battle Deck Marnie",
       "price" : 169.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-marnie"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-binder-collection",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt Binder Collection",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-binder-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-team-rockets-mewtwo-ex-league-battle-deck",
@@ -1543,13 +1473,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/binder-pikachu-2-pocket"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-1-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 1 Card Set (Japanese)",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-1-card-set-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-2-card-set-japanese",
       "name" : "Pokémon 30th Celebration Gen 2 Card Set (Japanese)",
       "price" : 289.0,
@@ -1604,6 +1527,13 @@
       "price" : 289.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-9-card-set-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-1-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 1 Card Set (Japanese)",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-1-card-set-japanese"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
