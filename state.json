@@ -311,13 +311,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-scarlet-violet-7-stellar-crown-elite-trainer-box",
-      "name" : "Pokémon Scarlet & Violet 7: Stellar Crown Elite Trainer Box",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-scarlet-violet-7-stellar-crown-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-gem-pack-vol-4-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 4 Booster Box (Simplified Chinese)",
       "price" : 349.0,
@@ -458,13 +451,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-checklane"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charizard-ex-special-collection",
-      "name" : "Pokémon Charizard Ex Special Collection",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charizard-ex-special-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-booster-bundle-6-pack",
       "name" : "Pokémon ME04 Chaos Rising Booster Bundle (6-Pack)",
       "price" : 449.0,
@@ -528,25 +514,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-ex-gengar-diancie"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "rival-battle-deck-marnie",
-      "name" : "Pokémon Rival Battle Deck Marnie",
-      "price" : 169.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-marnie"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-checklane-booster",
       "name" : "Pokémon Mega Evolution Checklane Booster",
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-checklane-booster"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "rival-battle-deck-steven",
-      "name" : "Pokémon Rival Battle Deck Steven",
-      "price" : 169.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-steven"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-munikis-zero-booster-box-japanese",
@@ -556,32 +528,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ex-battle-deck-houndoom-ex",
-      "name" : "Pokémon Ex Battle Deck - Houndoom ex",
-      "price" : 126.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-houndoom-ex"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "ex-battle-deck-melmetal-ex",
-      "name" : "Pokémon Ex Battle Deck - Melmetal ex",
-      "price" : 126.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ex-battle-deck-melmetal-ex"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "tcg-my-first-battle-pikachu-bulbasaur",
       "name" : "Pokémon TCG My first battle - Pikachu & Bulbasaur",
       "price" : 113.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-pikachu-bulbasaur"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "deluxe-battle-deck-miraidon",
-      "name" : "Pokémon Deluxe Battle Deck Miraidon ex",
-      "price" : 193.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/deluxe-battle-deck-miraidon"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "tcg-my-first-battle-charmander-squirtle",
@@ -787,13 +738,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "151c-surprise-booster-box-simplified-chinese",
-      "name" : "Pokémon 151C Surprise Booster Box (Simplified Chinese)",
-      "price" : 1066.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/151c-surprise-booster-box-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-charmander-mappe-4-pocket",
       "name" : "Pokémon Charmander Mappe - 4 Pocket",
       "price" : 65.0,
@@ -878,13 +822,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-9-journey-together-9-pocket-binder",
-      "name" : "Pokémon Scarlet & Violet 9: Journey Together 9-pocket binder",
-      "price" : 99.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "deck-sleeve-charmander-65-stk",
       "name" : "Pokémon Deck Sleeve Charmander (65 stk)",
       "price" : 79.0,
@@ -967,13 +904,6 @@
       "price" : 869.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-super-electric-breaker-sv8-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-9-journey-together-mini-album-booster",
-      "name" : "Pokémon Scarlet & Violet 9: Journey Together Mini Album + Booster",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-mini-album-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-deck-box-alcove-tower",
@@ -1102,13 +1032,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "binder-pikachu-2-pocket",
-      "name" : "Pokémon Binder Pikachu 2 Pocket",
-      "price" : 119.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/binder-pikachu-2-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "center-mega-brave-japansk",
       "name" : "Pokémon Mega Brave Pokémon Center Set (Japansk)",
       "price" : 1619.0,
@@ -1173,13 +1096,6 @@
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
-      "productId" : "200380918",
-      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380910",
       "name" : "Pokémon ME05 Pitch Black samlekort",
       "price" : 179.0,
@@ -1194,18 +1110,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
-      "productId" : "100568448",
-      "name" : "Ultra pro Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
-      "price" : 40.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/ultra-pro-toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380911",
       "name" : "Pokémon Pitch Black Checklane Booster Pack",
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100568448",
+      "name" : "Ultra pro Toploader Ekstra stærk beskyttelseslomme til samlekort (25 stk.)",
+      "price" : 40.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/ultra-pro-toploader-ekstra-staerk-beskyttelseslomme-til-samlekort-25-stk/100568448/"
     }, {
       "site" : "br.dk",
       "productId" : "200277178",
@@ -1215,18 +1131,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-flere-varianter-assorteret/200277178/"
     }, {
       "site" : "br.dk",
-      "productId" : "100552697",
-      "name" : "Pokémon portefolio samlemappe assorteret",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200158189",
       "name" : "Pokémon portefolio samlemappe assorteret",
       "price" : 159.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "100552697",
+      "name" : "Pokémon portefolio samlemappe assorteret",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
       "productId" : "200279925",
@@ -1236,13 +1152,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-academy-2024/200279925/"
     }, {
       "site" : "br.dk",
-      "productId" : "200277179",
-      "name" : "Pokémon Battle Spinner Arena sæt",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200215319",
       "name" : "Pokémon Battle Deck EX samlekort",
       "price" : 179.0,
@@ -1250,11 +1159,11 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380908",
-      "name" : "Pokémon Pitch Black booster bundle - samlekort",
-      "price" : 299.0,
+      "productId" : "200277179",
+      "name" : "Pokémon Battle Spinner Arena sæt",
+      "price" : 249.0,
       "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
       "site" : "br.dk",
       "productId" : "100549325",
@@ -1304,6 +1213,13 @@
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-poster-collection-30th/200392205/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380908",
+      "name" : "Pokémon Pitch Black booster bundle - samlekort",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
     }, {
       "site" : "br.dk",
       "productId" : "200366279",
