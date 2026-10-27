@@ -1232,7 +1232,7 @@
       "productId" : "200255087",
       "name" : "Deluxe battle deck",
       "price" : 249.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/deluxe-battle-deck/200255087/"
     } ]
   }
