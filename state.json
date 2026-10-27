@@ -360,13 +360,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-pikachu-figure-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-booster",
-      "name" : "Pokémon Mega Evolution Booster",
-      "price" : 59.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-booster"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-1-card-set-japanese",
       "name" : "Pokémon 30th Celebration Gen 1 Card Set (Japanese)",
       "price" : 299.0,
@@ -393,13 +386,6 @@
       "price" : 179.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-3-pack-blister"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
-      "name" : "Pokémon ME02 Phantasmal Flames Blister (3-pack)",
-      "price" : 169.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantom-flammer-blister-3-pak"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-premium-checklane",
@@ -456,27 +442,6 @@
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-battle-deck-greninja-kangaskhan",
-      "name" : "Pokémon Battle Deck Greninja/Kangaskhan",
-      "price" : 166.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-greninja-kangaskhan"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-battle-deck-ex-gengar-diancie",
-      "name" : "Pokémon Battle Deck Ex Gengar/Diancie",
-      "price" : 199.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-ex-gengar-diancie"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-checklane-booster",
-      "name" : "Pokémon Mega Evolution Checklane Booster",
-      "price" : 59.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-checklane-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-munikis-zero-booster-box-japanese",
@@ -738,13 +703,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-card-sleeves-premium-100pcs"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mini-album-med-booster-q1-26",
-      "name" : "Pokémon Mini Album med Booster Q1 26",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mini-album-med-booster-q1-26"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
       "name" : "Ultra Pro Toploader 3x4",
       "price" : 89.0,
@@ -813,13 +771,6 @@
       "price" : 59.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-x-65-stk"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mystery-gaveaske-forenklet-kinesisk",
-      "name" : "Pokémon Mystery Gift box (Simplified Chinese)",
-      "price" : 139.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mystery-gaveaske-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-white-flare-sv11w-booster-box-japanese",
@@ -941,13 +892,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-album-mega-charizard-x-y-2"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-premium-snap-binder-poke-blue",
-      "name" : "Pokémon Premium Snap Binder Poke Blue",
-      "price" : 199.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-snap-binder-poke-blue"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "greninja-4-pocket-portfolio",
       "name" : "Pokémon Greninja - 4-Pocket Portfolio",
       "price" : 59.0,
@@ -988,13 +932,6 @@
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "center-mega-brave-japansk",
-      "name" : "Pokémon Mega Brave Pokémon Center Set (Japansk)",
-      "price" : 1619.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-brave-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-9-card-set-japansk",
