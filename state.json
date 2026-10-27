@@ -262,13 +262,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-storm-emeralda-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-phantasmal-flames-elite-trainer-box",
-      "name" : "Pokémon ME02 Phantasmal Flames Elite Trainer Box",
-      "price" : 579.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-elite-trainer-box",
       "name" : "Pokémon ME05: Pitch Black - Elite Trainer Box",
       "price" : 669.0,
@@ -311,13 +304,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-elite-trainer-box",
-      "name" : "Pokémon Mega Evolution Elite Trainer Box",
-      "price" : 589.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-elite-trainer-box",
       "name" : "Pokémon ME04 Chaos Rising Elite Trainer Box",
       "price" : 619.0,
@@ -330,20 +316,6 @@
       "price" : 399.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-scarlet-violet-7-stellar-crown-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-white-flare-reshiram-elite-trainer-box",
-      "name" : "Pokémon Scarlet & Violet 10.5: White Flare Reshiram Elite Trainer Box",
-      "price" : 539.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-reshiram-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-zekrom-elite-trainer-box",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt Zekrom Elite Trainer Box",
-      "price" : 539.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-zekrom-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-gem-pack-vol-4-booster-box-simplified-chinese",
@@ -395,13 +367,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-pikachu-figure-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-charizard-ex-ultra-premium-samling",
-      "name" : "Pokémon Mega Charizard Ex Ultra Premium Samling",
-      "price" : 1489.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-charizard-ex-ultra-premium-samling"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-booster",
       "name" : "Pokémon Mega Evolution Booster",
       "price" : 59.0,
@@ -430,32 +395,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-booster-bundle-6-pack",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt Booster Bundle (6-pack)",
-      "price" : 359.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-booster-bundle-6-pack"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-white-flare-booster-bundle-6-pack",
-      "name" : "Pokémon Scarlet & Violet 10.5: White Flare Booster Bundle (6-pack)",
-      "price" : 359.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-white-flare-booster-bundle-6-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-venusaur-ex-premium-collection",
-      "name" : "Pokémon Mega Venusaur Ex Premium Collection",
-      "price" : 479.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-venusaur-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me04-chaos-rising-blister-3-pack",
@@ -477,20 +421,6 @@
       "price" : 179.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-3-pack-blister"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-kangaskhan-ex-box",
-      "name" : "Pokémon Mega Kangaskhan ex Box",
-      "price" : 239.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-kangaskhan-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-sleeved-booster",
-      "name" : "Pokémon Mega Evolution Sleeved Booster",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-sleeved-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me02-fantom-flammer-blister-3-pak",
@@ -549,13 +479,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-5-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-heroes-mini-tin",
-      "name" : "Pokémon Mega Heroes Mini Tin",
-      "price" : 159.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-heroes-mini-tin"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-special-box-pokemon-center-fukuoka",
       "name" : "Pokémon Pikachu Special Box Pokémon Center - Fukuoka",
       "price" : 1199.0,
@@ -568,34 +491,6 @@
       "price" : 49.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-booster"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-blister-3-pak",
-      "name" : "Pokémon Mega Evolution Blister 3-Pack",
-      "price" : 159.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-blister-3-pak"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-latias-ex-box",
-      "name" : "Pokémon Mega Latias Ex Box",
-      "price" : 279.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-latias-ex-box"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-10-destined-rivals-team-rocket-ex-dase",
-      "name" : "Pokémon Scarlet & Violet 10: Destined Rivals - Team Rocket ex Dåse",
-      "price" : 269.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-10-destined-rivals-team-rocket-ex-dase"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-105-black-bolt-tech-sticker-collection",
-      "name" : "Pokémon Scarlet & Violet 10.5: Black Bolt Tech Sticker Collection",
-      "price" : 199.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-105-black-bolt-tech-sticker-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
@@ -612,13 +507,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-tohoku"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-fantasmagoriske-flammer-blister-1-pakke",
-      "name" : "Pokémon ME02 Phantasmal Flames Blister (1-pack)",
-      "price" : 90.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmagoriske-flammer-blister-1-pakke"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-summer-ex-tin-box",
       "name" : "Pokémon Summer ex Tin box",
       "price" : 299.0,
@@ -626,25 +514,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-summer-ex-tin-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-evolution-premium-checklane",
-      "name" : "Pokémon Mega Evolution Premium Checklane",
-      "price" : 79.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-evolution-premium-checklane"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-greninja-kangaskhan",
       "name" : "Pokémon Battle Deck Greninja/Kangaskhan",
       "price" : 166.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-battle-deck-greninja-kangaskhan"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-phantasmal-flames-premium-checklane",
-      "name" : "Pokémon ME02 Phantasmal Flames Premium Checklane",
-      "price" : 79.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-premium-checklane"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-battle-deck-ex-gengar-diancie",
@@ -659,13 +533,6 @@
       "price" : 169.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/rival-battle-deck-marnie"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-team-rockets-mewtwo-ex-league-battle-deck",
-      "name" : "Pokémon Team Rocket's Mewtwo ex League Battle Deck",
-      "price" : 369.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-team-rockets-mewtwo-ex-league-battle-deck"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-evolution-checklane-booster",
@@ -708,13 +575,6 @@
       "price" : 113.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-pikachu-bulbasaur"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me02-fantasmal-flames-checklane",
-      "name" : "Pokémon ME02 Phantasmal Flames Checklane",
-      "price" : 59.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-fantasmal-flames-checklane"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "deluxe-battle-deck-miraidon",
@@ -864,13 +724,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/sv9-battle-partners-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-gem-pack-vol-3-booster-box-forenklet-kinesisk",
-      "name" : "Pokémon Gem Pack Vol 3 Booster Box (Simplified Chinese)",
-      "price" : 749.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-3-booster-box-forenklet-kinesisk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "151c-journey-booster-box-chinese",
       "name" : "Pokémon 151C Journey Booster Box (Simplified Chinese)",
       "price" : 819.0,
@@ -911,13 +764,6 @@
       "price" : 269.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-dragon-boat-festival-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "vaporeon-vmax-gift-box",
-      "name" : "Pokémon Vaporeon VMAX Gift Box (Simplified Chinese)",
-      "price" : 1159.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/vaporeon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "sv2a-151-booster-box-japansk",
@@ -1011,13 +857,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-paradise-dragona-sv4a-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "flareon-vmax-gift-box",
-      "name" : "Pokémon Flareon VMAX Gift Box (Simplified Chinese)",
-      "price" : 1029.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/flareon-vmax-gift-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pro-binder-9-p-mega-charizard-x-y",
       "name" : "Pokémon Pro-Binder 9-P Mega Charizard X/Y",
       "price" : 199.0,
@@ -1095,13 +934,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-white-flare-sv11w-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-samlerkiste",
-      "name" : "Pokémon Collector's Chest 2025",
-      "price" : 25339.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-samlerkiste"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pro-binder-charmander-9-pocket",
       "name" : "Pokémon Pro Binder Charmander 9 Pocket",
       "price" : 199.0,
@@ -1142,13 +974,6 @@
       "price" : 90.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-mini-album-booster"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "jolteon-vmax-gift-box",
-      "name" : "Pokémon Jolteon VMAX Gift Box (Simplified Chinese)",
-      "price" : 1029.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/jolteon-vmax-gift-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-deck-box-alcove-tower",
@@ -1263,13 +1088,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/white-flare-sv11w-deluxe-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-lucario-ex-figur-samling",
-      "name" : "Pokémon Mega Lucario ex Figure Collection",
-      "price" : 339.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-lucario-ex-figur-samling"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "sv11b-black-bolt-deluxe-box-japanese",
       "name" : "Pokémon SV11B Black Bolt Deluxe Box (Japansk)",
       "price" : 1019.0,
@@ -1282,13 +1100,6 @@
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "center-mega-symphonia",
-      "name" : "Pokémon Mega Symphonia Pokémon Center Set (Japansk)",
-      "price" : 1419.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/center-mega-symphonia"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "binder-pikachu-2-pocket",
