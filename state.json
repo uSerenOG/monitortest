@@ -381,32 +381,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me02-phantasmal-flames-booster"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-booster",
-      "name" : "Pokémon ME04 Chaos Rising Booster",
-      "price" : 49.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-booster"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "mega-symphonia-m1s-booster-box-japanese",
       "name" : "Pokémon Mega Symphonia M1S Booster Box (Japanese)",
       "price" : 739.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-symphonia-m1s-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-blister-3-pack",
-      "name" : "Pokémon ME04 Chaos Rising Blister (3-Pack)",
-      "price" : 159.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-3-pack"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-lumiose-city-mini-tin",
-      "name" : "Pokémon Lumiose City Mini Tin",
-      "price" : 125.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lumiose-city-mini-tin"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-3-pack-blister",
@@ -428,20 +407,6 @@
       "price" : 59.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-premium-checklane"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-premium-checklane-blister",
-      "name" : "Pokémon ME04 Chaos Rising Premium Checklane Blister",
-      "price" : 79.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-premium-checklane-blister"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-checklane-booster",
-      "name" : "Pokémon ME04 Chaos Rising Checklane Booster",
-      "price" : 59.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-checklane-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-checklane",
@@ -470,13 +435,6 @@
       "price" : 1199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-fukuoka"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me04-chaos-rising-blister-booster",
-      "name" : "Pokémon ME04 Chaos Rising Blister Booster",
-      "price" : 49.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me04-chaos-rising-blister-booster"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
@@ -586,7 +544,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-starter-set-zorua-zoroark-ex-japansk",
       "name" : "Pokémon Mega Starter Set - Zorua & Zoroark EX (Japansk)",
-      "price" : 369.0,
+      "price" : 269.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-zorua-zoroark-ex-japansk"
     }, {
@@ -726,7 +684,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-starter-set-sprigatito-meowscarada-ex-japansk",
       "name" : "Pokémon Mega Starter Set - Sprigatito & Meowscarada EX (Japansk)",
-      "price" : 369.0,
+      "price" : 269.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-sprigatito-meowscarada-ex-japansk"
     }, {
