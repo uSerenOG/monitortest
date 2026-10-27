@@ -272,7 +272,7 @@
       "productId" : "pokemon-enhanced-2-pack-q4-2026",
       "name" : "Pokémon Enhanced 2-Pack Q4 2026",
       "price" : 26149.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-q4-2026"
     }, {
       "site" : "maxgaming.dk",
