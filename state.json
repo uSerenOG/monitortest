@@ -87,13 +87,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-first-partner-collection-series-3",
-      "name" : "Pokémon First Partner Collection Series 3",
-      "price" : 3279.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-3"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-premium-deck-set-espeon-umbreon-japanese",
       "name" : "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon (Japanese)",
       "price" : 1399.0,
@@ -948,6 +941,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-2-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-3-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 3 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-3-card-set-japanese"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-7-card-set-japanese",
       "name" : "Pokémon 30th Celebration Gen 7 Card Set (Japanese)",
       "price" : 289.0,
@@ -960,13 +960,6 @@
       "price" : 289.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-8-card-set-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-3-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 3 Card Set (Japanese)",
-      "price" : 289.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-3-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-4-card-set-japanese",
