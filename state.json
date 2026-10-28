@@ -794,6 +794,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-heat-wave-arena-sv9a-booster-box"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-3-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 3 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-3-card-set-japanese"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-super-electric-breaker-sv8-booster-box-japanese",
       "name" : "Pokémon Scarlet & Violet: Super Electric Breaker SV8 Booster Box (Japanese)",
       "price" : 869.0,
@@ -806,13 +813,6 @@
       "price" : 239.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-y"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-3-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 3 Card Set (Japanese)",
-      "price" : 289.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-3-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-7-card-set-japanese",
@@ -829,13 +829,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-glory-of-team-rocket-sv10-booster-box",
-      "name" : "Pokémon Scarlet & Violet: Glory of Team Rocket SV10 Booster Box (Japanese)",
-      "price" : 819.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-glory-of-team-rocket-sv10-booster-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-4-card-set-japanese",
       "name" : "Pokémon 30th Celebration Gen 4 Card Set (Japanese)",
       "price" : 289.0,
@@ -848,6 +841,13 @@
       "price" : 289.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-6-card-set-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-glory-of-team-rocket-sv10-booster-box",
+      "name" : "Pokémon Scarlet & Violet: Glory of Team Rocket SV10 Booster Box (Japanese)",
+      "price" : 819.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-glory-of-team-rocket-sv10-booster-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-8-card-set-japanese",
@@ -913,18 +913,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-charmander",
-      "name" : "Pokémon Playmat Charmander",
-      "price" : 189.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "ultra-pro-charmander-m2-deck-box",
       "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-charmander",
+      "name" : "Pokémon Playmat Charmander",
+      "price" : 189.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-album-mega-charizard-x-y-2",
