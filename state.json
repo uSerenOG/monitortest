@@ -293,7 +293,7 @@
       "productId" : "pokemon-30th-celebration-booster-box-simplified-chinese",
       "name" : "Pokémon 30th Celebration Booster Box (Simplified Chinese)",
       "price" : 1069.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
