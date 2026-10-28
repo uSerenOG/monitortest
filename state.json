@@ -843,18 +843,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-glory-of-team-rocket-sv10-booster-box"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-8-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 8 Card Set (Japanese)",
-      "price" : 289.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-8-card-set-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-6-card-set-japansk",
       "name" : "Pokémon 30th Celebration Gen 6 Card Set (Japanese)",
       "price" : 289.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-6-card-set-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-8-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 8 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-8-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-5-card-set-japanese",
