@@ -981,6 +981,20 @@
       "price" : 199.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-premium-deck-set-espeon-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Premium Deck Set Espeon (Simplified Chinese)",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-premium-deck-set-espeon-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-premium-deck-set-umbreon-forenklet-kinesisk",
+      "name" : "Pokémon 30th Celebration Premium Deck Set Umbreon (Forenklet kinesisk)",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-premium-deck-set-umbreon-forenklet-kinesisk"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
