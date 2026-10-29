@@ -995,6 +995,13 @@
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-premium-deck-set-umbreon-forenklet-kinesisk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-1-9-collection-japanese-bundle",
+      "name" : "Pokémon 30th Celebration Gen 1-9 Collection (Japanese)",
+      "price" : 1999.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-1-9-collection-japanese-bundle"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
