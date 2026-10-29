@@ -153,7 +153,7 @@
       "productId" : "pokemon-zapdos-108-103-30th-celebration-japansk",
       "name" : "Pokémon Zapdos 108/103 30th Celebration (Japansk)",
       "price" : 45.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-zapdos-108-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
