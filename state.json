@@ -878,18 +878,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-elite-series-charizard-12-lomme-lynlas-pro-binder"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-deck-box-mega-charizard-x-rod",
-      "name" : "Pokémon Deck Box Mega Charizard X Rød",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x-rod"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "charmander-mini-album",
       "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
       "price" : 89.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-deck-box-mega-charizard-x-rod",
+      "name" : "Pokémon Deck Box Mega Charizard X Rød",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x-rod"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-charmander",
@@ -948,18 +948,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "white-flare-sv11w-deluxe-box-japansk",
-      "name" : "Pokémon SV11W White Flare Deluxe Box (Japansk)",
-      "price" : 959.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/white-flare-sv11w-deluxe-box-japansk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "greninja-4-pocket-portfolio",
       "name" : "Pokémon Greninja - 4-Pocket Portfolio",
       "price" : 59.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/greninja-4-pocket-portfolio"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "white-flare-sv11w-deluxe-box-japansk",
+      "name" : "Pokémon SV11W White Flare Deluxe Box (Japansk)",
+      "price" : 959.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/white-flare-sv11w-deluxe-box-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-tinkaton-deck-box",
