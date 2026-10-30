@@ -132,7 +132,7 @@
       "productId" : "pokemon-moltres-105-103-30th-celebration-japanese",
       "name" : "Pokémon Moltres 105/103 30th Celebration (Japanese)",
       "price" : 55.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-moltres-105-103-30th-celebration-japanese"
     }, {
       "site" : "maxgaming.dk",
