@@ -1089,13 +1089,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
-      "productId" : "200277179",
-      "name" : "Pokémon Battle Spinner Arena sæt",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
-    }, {
-      "site" : "br.dk",
       "productId" : "100549325",
       "name" : "Pokémon samlehæfte - assorteret",
       "price" : 129.0,
@@ -1108,6 +1101,13 @@
       "price" : 599.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200277179",
+      "name" : "Pokémon Battle Spinner Arena sæt",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
     }, {
       "site" : "br.dk",
       "productId" : "100559004",
