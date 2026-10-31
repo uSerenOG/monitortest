@@ -521,18 +521,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-7-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-4-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 4 Card Set (Japanese)",
-      "price" : 289.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-4-card-set-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-8-card-set-japanese",
       "name" : "Pokémon 30th Celebration Gen 8 Card Set (Japanese)",
       "price" : 289.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-8-card-set-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-4-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 4 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-4-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-5-card-set-japanese",
@@ -717,18 +717,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-paradise-dragona-sv4a-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-charmander-mappe-9-pocket",
-      "name" : "Pokémon Charmander Mappe - 9 Pocket",
-      "price" : 99.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-charizard-9p-pro-binder-zip-elite",
       "name" : "Pokémon Charizard 9P PRO-Binder Zip Elite",
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charizard-9p-pro-binder-zip-elite"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-charmander-mappe-9-pocket",
+      "name" : "Pokémon Charmander Mappe - 9 Pocket",
+      "price" : 99.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-charmander-mappe-9-pocket"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-1-9-collection-japanese-bundle",
