@@ -1033,18 +1033,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
-      "productId" : "200366285",
-      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
-      "price" : 529.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380911",
       "name" : "Pokémon Pitch Black Checklane Booster Pack",
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366285",
+      "name" : "Pokémon TCG Premium Ex Box Mega Zygarde samlekort",
+      "price" : 529.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-premium-ex-box-mega-zygarde-samlekort/200366285/"
     }, {
       "site" : "br.dk",
       "productId" : "100568448",
@@ -1068,6 +1068,13 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/200158189/"
     }, {
       "site" : "br.dk",
+      "productId" : "100549325",
+      "name" : "Pokémon samlehæfte - assorteret",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
+    }, {
+      "site" : "br.dk",
       "productId" : "200279925",
       "name" : "Pokémon Battle Academy 2024",
       "price" : 299.0,
@@ -1082,32 +1089,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200215319",
-      "name" : "Pokémon Battle Deck EX samlekort",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "100549325",
-      "name" : "Pokémon samlehæfte - assorteret",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-samlehaefte-assorteret/100549325/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200277179",
       "name" : "Pokémon Battle Spinner Arena sæt",
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-battle-spinner-arena-saet/200277179/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200215319",
+      "name" : "Pokémon Battle Deck EX samlekort",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-battle-deck-ex-samlekort/200215319/"
     }, {
       "site" : "br.dk",
       "productId" : "100559004",
@@ -1131,18 +1124,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380917",
-      "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380909",
       "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380917",
+      "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
     }, {
       "site" : "br.dk",
       "productId" : "200291390",
@@ -1171,6 +1164,13 @@
       "price" : 299.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200366283",
+      "name" : "Pokémon Chaos Rising Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : false,
+      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     } ]
   }
 }
