@@ -593,7 +593,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
-      "price" : 339.0,
+      "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
     }, {
@@ -614,7 +614,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-151c-gathering-booster-box-forenklet-kinesisk",
       "name" : "Pokémon 151C Gathering Booster Box (Simplified Chinese)",
-      "price" : 819.0,
+      "price" : 679.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151c-gathering-booster-box-forenklet-kinesisk"
     }, {
@@ -684,7 +684,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-2026-dragon-boat-festival-simplified-chinese",
       "name" : "Pokémon 2026 Dragon Boat Festival (Simplified Chinese)",
-      "price" : 269.0,
+      "price" : 239.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-2026-dragon-boat-festival-simplified-chinese"
     }, {
@@ -1180,13 +1180,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-boosterpakke/200397060/"
     }, {
       "site" : "br.dk",
-      "productId" : "200397054",
-      "name" : "Pokemon Mega Evolution Delta Reign samlekort booster pakke",
-      "price" : 49.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-booster-pakke/200397054/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200397059",
       "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
       "price" : 79.0,
@@ -1199,6 +1192,13 @@
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397058/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397054",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekort booster pakke",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-booster-pakke/200397054/"
     }, {
       "site" : "br.dk",
       "productId" : "200397053",
