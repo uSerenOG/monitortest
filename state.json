@@ -318,13 +318,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-ex-126-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-1-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 1 Card Set (Japanese)",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-1-card-set-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-regular-25-pack",
       "name" : "Ultra Pro Toploader 3x4",
       "price" : 29.0,
@@ -369,7 +362,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese",
       "name" : "Pokémon 30th Celebration Charizard Collectors Figure Gift Box (Simplified Chinese)",
-      "price" : 2889.0,
+      "price" : 2699.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese"
     }, {
@@ -516,7 +509,7 @@
       "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-card-set-simplified-chinese",
       "name" : "Pokémon First Partner Card Set (Simplified Chinese)",
-      "price" : 169.0,
+      "price" : 139.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-card-set-simplified-chinese"
     }, {
@@ -1033,18 +1026,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-me05-pitch-black-samlekort/200380910/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380918",
-      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380911",
       "name" : "Pokémon Pitch Black Checklane Booster Pack",
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-checklane-booster-pack/200380911/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380918",
+      "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
     }, {
       "site" : "br.dk",
       "productId" : "200277178",
@@ -1131,18 +1124,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-premium-checklane-flere-varianter-assorteret/200380917/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380909",
-      "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
-      "price" : 49.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200385295",
       "name" : "Pokemon First Partner collection box 3 samlekort",
       "price" : 249.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380909",
+      "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
     }, {
       "site" : "br.dk",
       "productId" : "200291390",
@@ -1178,6 +1171,55 @@
       "price" : 599.0,
       "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397060",
+      "name" : "Pokémon Mega Evolution Delta Reign samlekort boosterpakke",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-boosterpakke/200397060/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397059",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397059/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397058",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397058/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397054",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekort booster pakke",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-booster-pakke/200397054/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397053",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekortpakker",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekortpakker/200397053/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397052",
+      "name" : "Pokemon Mega Evolution Delta Reign boosterbundle samlekort",
+      "price" : 349.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-boosterbundle-samlekort/200397052/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397051",
+      "name" : "Pokemon Elite Trainer Box: Mega Evolution Delta Reign samlekort box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-mega-evolution-delta-reign-samlekort-box/200397051/"
     } ]
   }
 }
