@@ -773,18 +773,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/deck-sleeve-charmander-65-stk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-card-sleeves-premium-100pcs",
-      "name" : "Ultra Pro Card Sleeves Premium (100pcs)",
-      "price" : 29.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-card-sleeves-premium-100pcs"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
       "name" : "Ultra Pro Toploader 3x4",
       "price" : 89.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-platinum-25-pack-plastfickor"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-card-sleeves-premium-100pcs",
+      "name" : "Ultra Pro Card Sleeves Premium (100pcs)",
+      "price" : 29.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-card-sleeves-premium-100pcs"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-pro-mega-charizard-x-65-stk",
@@ -920,18 +920,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-ceruledge",
       "name" : "Pokémon Full View Deck Box - Ceruledge",
       "price" : 19.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/full-view-deck-box-ceruledge"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-charmander",
@@ -983,18 +983,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
-      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "white-flare-sv11w-deluxe-box-japansk",
       "name" : "Pokémon SV11W White Flare Deluxe Box (Japansk)",
       "price" : 959.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/white-flare-sv11w-deluxe-box-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
+      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "sv11b-black-bolt-deluxe-box-japanese",
@@ -1117,13 +1117,6 @@
       "url" : "https://www.br.dk/produkter/ultra-pro-pro-fit-kortlommer-til-samlekort-100-stk/100502881/"
     }, {
       "site" : "br.dk",
-      "productId" : "200385295",
-      "name" : "Pokemon First Partner collection box 3 samlekort",
-      "price" : 249.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380917",
       "name" : "Pokémon Pitch Black Premium Checklane – flere varianter – assorteret",
       "price" : 79.0,
@@ -1136,6 +1129,13 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200385295",
+      "name" : "Pokemon First Partner collection box 3 samlekort",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
     }, {
       "site" : "br.dk",
       "productId" : "200291390",
@@ -1157,20 +1157,6 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200380908",
-      "name" : "Pokémon Pitch Black booster bundle - samlekort",
-      "price" : 299.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-booster-bundle-samlekort/200380908/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200366283",
-      "name" : "Pokémon Chaos Rising Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-elite-trainer-box/200366283/"
     }, {
       "site" : "br.dk",
       "productId" : "200397060",
