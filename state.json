@@ -1194,20 +1194,6 @@
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-boosterbundle-samlekort/200397052/"
     }, {
       "site" : "br.dk",
-      "productId" : "200397051",
-      "name" : "Pokemon Elite Trainer Box: Mega Evolution Delta Reign samlekort box",
-      "price" : 599.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-mega-evolution-delta-reign-samlekort-box/200397051/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200397053",
-      "name" : "Pokemon Mega Evolution Delta Reign samlekortpakker",
-      "price" : 179.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekortpakker/200397053/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200397059",
       "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
       "price" : 79.0,
@@ -1220,6 +1206,20 @@
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397058/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397053",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekortpakker",
+      "price" : 179.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekortpakker/200397053/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397051",
+      "name" : "Pokemon Elite Trainer Box: Mega Evolution Delta Reign samlekort box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-elite-trainer-box-mega-evolution-delta-reign-samlekort-box/200397051/"
     } ]
   }
 }
