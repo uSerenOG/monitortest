@@ -647,18 +647,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-151c-gathering-booster-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "mega-inferno-x-booster-box-japansk",
-      "name" : "Pokémon Mega Inferno X Booster Box (Japansk)",
-      "price" : 1249.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/mega-inferno-x-booster-box-japansk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-vol-3-simplified-chinese",
       "name" : "Pokémon First Partner Vol. 3 (Simplified Chinese)",
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-vol-3-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "mega-inferno-x-booster-box-japansk",
+      "name" : "Pokémon Mega Inferno X Booster Box (Japansk)",
+      "price" : 1249.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/mega-inferno-x-booster-box-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "gem-pack-vol-1-booster-box-chinese-2",
