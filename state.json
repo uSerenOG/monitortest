@@ -1103,18 +1103,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-portefolio-samlemappe-assorteret/100552697/"
     }, {
       "site" : "br.dk",
-      "productId" : "200397059",
-      "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397059/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200380918",
       "name" : "Pokémon TCG Pitch Black Elite Trainer Box",
       "price" : 599.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tcg-pitch-black-elite-trainer-box/200380918/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200397059",
+      "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397059/"
     }, {
       "site" : "br.dk",
       "productId" : "200397058",
