@@ -913,6 +913,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pro-binder-charmander-9-pocket"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "ultra-pro-charmander-m2-deck-box",
+      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-ceruledge",
       "name" : "Pokémon Full View Deck Box - Ceruledge",
       "price" : 19.0,
@@ -927,11 +934,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "ultra-pro-charmander-m2-deck-box",
-      "name" : "Pokémon Ultra Pro Charmander M2 Deck Box",
-      "price" : 249.0,
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
       "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/ultra-pro-charmander-m2-deck-box"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-charmander",
@@ -939,13 +946,6 @@
       "price" : 189.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-tinkaton-deck-box",
@@ -969,18 +969,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/white-flare-sv11w-deluxe-box-japansk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
-      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
-      "price" : 819.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "togepi-105ct-apex-deck-protector-sleeves",
       "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
       "price" : 129.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
+      "name" : "Pokémon Mega Charizard X/Y Spillemåtte – L",
+      "price" : 819.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-portfolio-4-p-mega-charizard-x-y",
