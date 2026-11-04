@@ -1092,7 +1092,7 @@
       "productId" : "200397059",
       "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
       "price" : 79.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397059/"
     }, {
       "site" : "br.dk",
@@ -1106,7 +1106,7 @@
       "productId" : "200397058",
       "name" : "Pokemon Mega Evolution Delta Reign samlekort checklane boosterpakke",
       "price" : 69.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mega-evolution-delta-reign-samlekort-checklane-boosterpakke/200397058/"
     }, {
       "site" : "br.dk",
