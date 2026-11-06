@@ -885,18 +885,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/full-view-deck-box-charmander"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-flip-deck-box-mega-charizard-x",
-      "name" : "Pokémon Flip Deck Box Mega Charizard X",
-      "price" : 239.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-deck-box-mega-charizard-x-rod",
       "name" : "Pokémon Deck Box Mega Charizard X Rød",
       "price" : 69.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x-rod"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-flip-deck-box-mega-charizard-x",
+      "name" : "Pokémon Flip Deck Box Mega Charizard X",
+      "price" : 239.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pro-binder-charmander-9-pocket",
