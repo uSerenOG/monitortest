@@ -1185,20 +1185,6 @@
       "price" : 279.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-30th-celebration-battle-deck/200397757/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200397763",
-      "name" : "Pokémon 30th Celebration Ultra-Premium Collection",
-      "price" : 2599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-30th-celebration-ultra-premium-collection/200397763/"
-    }, {
-      "site" : "br.dk",
-      "productId" : "200397762",
-      "name" : "Pokémon 30th Celebration Ultra-Premium Collection",
-      "price" : 2599.0,
-      "inStock" : false,
-      "url" : "https://www.br.dk/produkter/pokemon-30th-celebration-ultra-premium-collection/200397762/"
     } ]
   }
 }
