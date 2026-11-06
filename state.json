@@ -1204,7 +1204,7 @@
       "productId" : "200380919",
       "name" : "Pokémon Box Premium Ex Mega Greninja",
       "price" : 529.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-box-premium-ex-mega-greninja/200380919/"
     }, {
       "site" : "br.dk",
