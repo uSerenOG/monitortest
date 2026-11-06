@@ -983,18 +983,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-6ft"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
-      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
-      "price" : 129.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "greninja-4-pocket-portfolio",
       "name" : "Pokémon Greninja - 4-Pocket Portfolio",
       "price" : 59.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/greninja-4-pocket-portfolio"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "togepi-105ct-apex-deck-protector-sleeves",
+      "name" : "Pokémon Togepi 105ct APEX Deck Protector Sleeves",
+      "price" : 129.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/togepi-105ct-apex-deck-protector-sleeves"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "sv11b-black-bolt-deluxe-box-japanese",
