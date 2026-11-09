@@ -1218,21 +1218,21 @@
       "productId" : "200397759",
       "name" : "Pokémon 30th Celebration Ditto Premium Collection",
       "price" : 599.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-30th-celebration-ditto-premium-collection/200397759/"
     }, {
       "site" : "br.dk",
       "productId" : "200397760",
       "name" : "Pokémon Mew TCG 30th celebration - flere varianter - assorteret",
       "price" : 449.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-mew-tcg-30th-celebration-flere-varianter-assorteret/200397760/"
     }, {
       "site" : "br.dk",
       "productId" : "200397757",
       "name" : "Pokemon 30th Celebration Battle Deck",
       "price" : 279.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-30th-celebration-battle-deck/200397757/"
     } ]
   }
