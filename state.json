@@ -244,7 +244,7 @@
       "productId" : "pokemon-lapras-106-103-30th-celebration-japansk",
       "name" : "Pokémon Lapras 106/103 30th Celebration (Japansk)",
       "price" : 45.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-lapras-106-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
