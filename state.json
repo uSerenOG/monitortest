@@ -822,13 +822,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-9-pocket-binder"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-card-sleeves-premium-100pcs",
-      "name" : "Ultra Pro Card Sleeves Premium (100pcs)",
-      "price" : 29.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-card-sleeves-premium-100pcs"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "toploader-3x4-clear-platinum-25-pack-plastfickor",
       "name" : "Ultra Pro Toploader 3x4",
       "price" : 89.0,
@@ -841,6 +834,13 @@
       "price" : 239.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-flip-deck-box-mega-charizard-y"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-card-sleeves-premium-100pcs",
+      "name" : "Ultra Pro Card Sleeves Premium (100pcs)",
+      "price" : 29.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-card-sleeves-premium-100pcs"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "scarlet-violet-super-electric-breaker-sv8-booster-box-japanese",
