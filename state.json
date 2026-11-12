@@ -1011,13 +1011,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-figure-collection-mewtwo",
-      "name" : "Pokémon 30th Celebration - Figure Collection Mewtwo",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mewtwo"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-ultra-premium-collection-night",
       "name" : "Pokémon 30th Celebration - Ultra Premium Collection Night",
       "price" : 2199.0,
@@ -1088,6 +1081,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-blister-pack-3-pack"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-me06-delta-reign-checklane-1-pack",
+      "name" : "Pokémon ME06 Delta Reign: Checklane (1-pack)",
+      "price" : 59.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-checklane-1-pack"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-premium-checklane-1-pak",
       "name" : "Pokémon ME06 Delta Reign: Premium Checklane (1-pak)",
       "price" : 79.0,
@@ -1095,11 +1095,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-premium-checklane-1-pak"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me06-delta-reign-checklane-1-pack",
-      "name" : "Pokémon ME06 Delta Reign: Checklane (1-pack)",
-      "price" : 59.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-checklane-1-pack"
+      "productId" : "pokemon-30th-celebration-figure-collection-mewtwo",
+      "name" : "Pokémon 30th Celebration - Figure Collection Mewtwo",
+      "price" : 399.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mewtwo"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
