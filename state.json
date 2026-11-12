@@ -1098,7 +1098,7 @@
       "productId" : "pokemon-me06-delta-reign-booster-bundle",
       "name" : "Pokémon ME06 Delta Reign: Booster Bundle",
       "price" : 339.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-booster-bundle"
     } ],
     "br.dk" : [ {
