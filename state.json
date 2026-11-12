@@ -1046,13 +1046,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mewtwo"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me06-delta-reign-blister-pack-3-pack",
-      "name" : "Pokémon ME06 Delta Reign: Blister Pack (3-pack)",
-      "price" : 169.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-blister-pack-3-pack"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-checklane-1-pack",
       "name" : "Pokémon ME06 Delta Reign: Checklane (1-pack)",
       "price" : 59.0,
@@ -1100,6 +1093,13 @@
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me06-delta-reign-blister-pack-3-pack",
+      "name" : "Pokémon ME06 Delta Reign: Blister Pack (3-pack)",
+      "price" : 169.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-blister-pack-3-pack"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
