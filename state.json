@@ -1032,20 +1032,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-battle-deck-umbreon-ex"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me06-delta-reign-checklane-1-pack",
-      "name" : "Pokémon ME06 Delta Reign: Checklane (1-pack)",
-      "price" : 59.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-checklane-1-pack"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-figure-collection-mewtwo",
-      "name" : "Pokémon 30th Celebration - Figure Collection Mewtwo",
-      "price" : 399.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mewtwo"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-figure-collection-mew",
       "name" : "Pokémon 30th Celebration - Figure Collection Mew",
       "price" : 399.0,
@@ -1088,6 +1074,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-elite-trainer-box"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-figure-collection-mewtwo",
+      "name" : "Pokémon 30th Celebration - Figure Collection Mewtwo",
+      "price" : 399.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mewtwo"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-ultra-premium-collection-day",
       "name" : "Pokémon 30th Celebration - Ultra Premium Collection Day",
       "price" : 2199.0,
@@ -1100,6 +1093,13 @@
       "price" : 2199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-ultra-premium-collection-night"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me06-delta-reign-checklane-1-pack",
+      "name" : "Pokémon ME06 Delta Reign: Checklane (1-pack)",
+      "price" : 59.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-checklane-1-pack"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
