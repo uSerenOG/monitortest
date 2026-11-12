@@ -1011,34 +1011,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-premium-rod-snap-binder-poke"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-figure-collection-mew",
-      "name" : "Pokémon 30th Celebration - Figure Collection Mew",
-      "price" : 399.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mew"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-ultra-premium-collection-day",
-      "name" : "Pokémon 30th Celebration - Ultra Premium Collection Day",
-      "price" : 2199.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-ultra-premium-collection-day"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-battle-deck-espeon-ex",
-      "name" : "Pokémon 30th Celebration - Battle Deck Espeon ex",
-      "price" : 349.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-battle-deck-espeon-ex"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-battle-deck-umbreon-ex",
-      "name" : "Pokémon 30th Celebration - Battle Deck Umbreon ex",
-      "price" : 349.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-battle-deck-umbreon-ex"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-figure-collection-mewtwo",
       "name" : "Pokémon 30th Celebration - Figure Collection Mewtwo",
       "price" : 399.0,
@@ -1051,13 +1023,6 @@
       "price" : 59.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-checklane-1-pack"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-me06-delta-reign-premium-checklane-1-pak",
-      "name" : "Pokémon ME06 Delta Reign: Premium Checklane (1-pak)",
-      "price" : 79.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-premium-checklane-1-pak"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-ultra-premium-collection-night",
@@ -1095,11 +1060,46 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-booster"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-figure-collection-mew",
+      "name" : "Pokémon 30th Celebration - Figure Collection Mew",
+      "price" : 399.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mew"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-ultra-premium-collection-day",
+      "name" : "Pokémon 30th Celebration - Ultra Premium Collection Day",
+      "price" : 2199.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-ultra-premium-collection-day"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-battle-deck-espeon-ex",
+      "name" : "Pokémon 30th Celebration - Battle Deck Espeon ex",
+      "price" : 349.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-battle-deck-espeon-ex"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-battle-deck-umbreon-ex",
+      "name" : "Pokémon 30th Celebration - Battle Deck Umbreon ex",
+      "price" : 349.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-battle-deck-umbreon-ex"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-blister-pack-3-pack",
       "name" : "Pokémon ME06 Delta Reign: Blister Pack (3-pack)",
       "price" : 169.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-blister-pack-3-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me06-delta-reign-premium-checklane-1-pak",
+      "name" : "Pokémon ME06 Delta Reign: Premium Checklane (1-pak)",
+      "price" : 79.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-premium-checklane-1-pak"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
