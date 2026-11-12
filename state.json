@@ -1067,13 +1067,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-ultra-premium-collection-night"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me06-delta-reign-elite-trainer-box",
-      "name" : "Pokémon ME06 Delta Reign: Elite Trainer Box",
-      "price" : 599.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-elite-trainer-box"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-booster-bundle",
       "name" : "Pokémon ME06 Delta Reign: Booster Bundle",
       "price" : 339.0,
@@ -1100,6 +1093,13 @@
       "price" : 599.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-ditto-premium-collection"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me06-delta-reign-elite-trainer-box",
+      "name" : "Pokémon ME06 Delta Reign: Elite Trainer Box",
+      "price" : 599.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-elite-trainer-box"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
