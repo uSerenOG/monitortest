@@ -1100,6 +1100,20 @@
       "price" : 59.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-checklane-1-pack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-tin-fall-ex",
+      "name" : "Pokémon Tin Fall ex",
+      "price" : 269.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tin-fall-ex"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-deck-crafters-collection",
+      "name" : "Pokémon Deck Crafters Collection",
+      "price" : 139.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-crafters-collection"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
