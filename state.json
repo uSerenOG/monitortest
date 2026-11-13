@@ -426,7 +426,7 @@
       "productId" : "pokemon-24-pack-adventskalender-2026-battle-figure-multipack",
       "name" : "Pokémon 24-Pack Adventskalender 2026 Battle Figure Multipack",
       "price" : 399.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-24-pack-adventskalender-2026-battle-figure-multipack"
     }, {
       "site" : "maxgaming.dk",
