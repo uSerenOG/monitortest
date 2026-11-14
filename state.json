@@ -538,7 +538,7 @@
       "productId" : "pokemon-me06-delta-reign-blister-pack-3-pack",
       "name" : "Pokémon ME06 Delta Reign: Blister Pack (3-pack)",
       "price" : 169.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-blister-pack-3-pack"
     }, {
       "site" : "maxgaming.dk",
