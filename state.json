@@ -356,7 +356,7 @@
       "productId" : "pokemon-moltres-105-103-30th-celebration-japanese",
       "name" : "Pokémon Moltres 105/103 30th Celebration (Japanese)",
       "price" : 55.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-moltres-105-103-30th-celebration-japanese"
     }, {
       "site" : "maxgaming.dk",
@@ -370,7 +370,7 @@
       "productId" : "pokemon-zapdos-108-103-30th-celebration-japansk",
       "name" : "Pokémon Zapdos 108/103 30th Celebration (Japansk)",
       "price" : 45.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-zapdos-108-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
@@ -384,7 +384,7 @@
       "productId" : "pokemon-articuno-107-103-30th-celebration-japansk",
       "name" : "Pokémon Articuno 107/103 30th Celebration (Japansk)",
       "price" : 45.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-articuno-107-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
