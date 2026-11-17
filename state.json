@@ -836,6 +836,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-crystal-gathering-exclusive-gift-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-me03-perfect-order-booster-bundle-6-pack",
+      "name" : "Pokémon ME03 Perfect Order - Booster Bundle (6-pack)",
+      "price" : 379.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-booster-bundle-6-pack"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-premium-checklane-1-pak",
       "name" : "Pokémon ME06 Delta Reign: Premium Checklane (1-pak)",
       "price" : 79.0,
@@ -1114,6 +1121,13 @@
       "price" : 1019.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-first-partner-collection-series-3",
+      "name" : "Pokémon First Partner Collection Series 3",
+      "price" : 3299.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-first-partner-collection-series-3"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
