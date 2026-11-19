@@ -1332,6 +1332,13 @@
       "price" : 279.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-tin-fall-ex/200385297/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200385300",
+      "name" : "Pokémon samlemappe - Charizard",
+      "price" : 249.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-samlemappe-charizard/200385300/"
     } ]
   }
 }
