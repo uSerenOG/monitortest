@@ -1121,6 +1121,13 @@
       "price" : 1019.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "scarlet-violet-9-journey-together-9-pocket-binder",
+      "name" : "Pokémon Scarlet & Violet 9: Journey Together 9-pocket binder",
+      "price" : 99.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
@@ -1292,18 +1299,18 @@
       "url" : "https://www.br.dk/produkter/pokemon-first-partner-collection-box-3-samlekort/200385295/"
     }, {
       "site" : "br.dk",
-      "productId" : "200380909",
-      "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
-      "price" : 49.0,
-      "inStock" : true,
-      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
-    }, {
-      "site" : "br.dk",
       "productId" : "200366279",
       "name" : "Pokémon Chaos Rising 1 pak",
       "price" : 49.0,
       "inStock" : true,
       "url" : "https://www.br.dk/produkter/pokemon-chaos-rising-1-pak/200366279/"
+    }, {
+      "site" : "br.dk",
+      "productId" : "200380909",
+      "name" : "Pokémon Pitch Black 1-pak – flere varianter – assorteret",
+      "price" : 49.0,
+      "inStock" : true,
+      "url" : "https://www.br.dk/produkter/pokemon-pitch-black-1-pak-flere-varianter-assorteret/200380909/"
     }, {
       "site" : "br.dk",
       "productId" : "200371886",
