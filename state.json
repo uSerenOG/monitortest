@@ -314,7 +314,7 @@
       "productId" : "pokemon-30th-celebration-espeon-umbreon-box-forenklet-kinesisk",
       "name" : "Pokémon 30th Celebration Espeon & Umbreon Box (Forenklet kinesisk)",
       "price" : 1619.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-espeon-umbreon-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
@@ -1081,18 +1081,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-charmander"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-album-mega-charizard-x-y-2",
       "name" : "Pokémon Album Mega Charizard X/Y 2",
       "price" : 119.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-album-mega-charizard-x-y-2"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-portfolio-9-p-mega-charizard-x-y",
