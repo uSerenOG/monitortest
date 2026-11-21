@@ -1074,18 +1074,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-album-mega-charizard-x-y-2",
-      "name" : "Pokémon Album Mega Charizard X/Y 2",
-      "price" : 119.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-album-mega-charizard-x-y-2"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y",
       "name" : "Pokémon Mega Charizard X/Y Spillemåtte – M",
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-album-mega-charizard-x-y-2",
+      "name" : "Pokémon Album Mega Charizard X/Y 2",
+      "price" : 119.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-album-mega-charizard-x-y-2"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "full-view-deck-box-ceruledge",
