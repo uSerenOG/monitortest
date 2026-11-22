@@ -1121,13 +1121,6 @@
       "price" : 1019.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "scarlet-violet-9-journey-together-9-pocket-binder",
-      "name" : "Pokémon Scarlet & Violet 9: Journey Together 9-pocket binder",
-      "price" : 99.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/scarlet-violet-9-journey-together-9-pocket-binder"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
