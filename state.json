@@ -783,7 +783,7 @@
       "productId" : "pokemon-me03-perfect-order-booster-bundle-6-pack",
       "name" : "Pokémon ME03 Perfect Order - Booster Bundle (6-pack)",
       "price" : 379.0,
-      "inStock" : false,
+      "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
