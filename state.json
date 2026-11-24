@@ -1088,13 +1088,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/full-view-deck-box-ceruledge"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "charmander-mini-album",
-      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
-      "price" : 89.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-portfolio-9-p-mega-charizard-x-y",
       "name" : "Pokémon Portfolio 9-P Mega Charizard X/Y",
       "price" : 99.0,
@@ -1107,6 +1100,13 @@
       "price" : 79.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-portfolio-4-p-mega-charizard-x-y"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "charmander-mini-album",
+      "name" : "Pokémon Charmander Mini Mappe - 3 Lommer",
+      "price" : 89.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/charmander-mini-album"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-mega-charizard-x-y-6ft",
