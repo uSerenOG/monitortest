@@ -1121,6 +1121,13 @@
       "price" : 1019.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-playmat-mega-charizard-x-y-8ft"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-24-pack-holiday-calendar-2026-battle-figure-multipack-2",
+      "name" : "Pokémon 24-Pack Holiday Calendar 2026 Battle Figure Multipack #2",
+      "price" : 2399.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-24-pack-holiday-calendar-2026-battle-figure-multipack-2"
     } ],
     "br.dk" : [ {
       "site" : "br.dk",
