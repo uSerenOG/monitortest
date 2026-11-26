@@ -1351,7 +1351,7 @@
       "productId" : "200385297",
       "name" : "Pokémon Tin Fall ex",
       "price" : 279.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.br.dk/produkter/pokemon-tin-fall-ex/200385297/"
     } ]
   }
