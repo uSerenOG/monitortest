@@ -654,18 +654,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "mega-brave-m1l-booster-box-japanese",
-      "name" : "Pokémon Mega Brave M1L Booster Box (Japanese)",
-      "price" : 669.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
       "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
       "price" : 299.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "mega-brave-m1l-booster-box-japanese",
+      "name" : "Pokémon Mega Brave M1L Booster Box (Japanese)",
+      "price" : 669.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
@@ -1039,18 +1039,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x-rod"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-deck-box-mega-charizard-x",
-      "name" : "Pokémon Deck Box Mega Charizard X",
-      "price" : 69.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-mega-starter-set-eevee-ex-japansk",
       "name" : "Pokémon Mega Starter Set - Eevee EX (Japansk)",
       "price" : 369.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-starter-set-eevee-ex-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-deck-box-mega-charizard-x",
+      "name" : "Pokémon Deck Box Mega Charizard X",
+      "price" : 69.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-box-mega-charizard-x"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-playmat-charmander",
