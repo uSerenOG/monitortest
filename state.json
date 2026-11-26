@@ -990,18 +990,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-x-65-stk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
-      "name" : "Pokémon Deck Pro Mega Charizard Y (65 stk)",
-      "price" : 59.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-y-65-stk"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pro-binder-9-p-mega-charizard-x-y",
       "name" : "Pokémon Pro-Binder 9-P Mega Charizard X/Y",
       "price" : 199.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pro-binder-9-p-mega-charizard-x-y"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-deck-pro-mega-charizard-y-65-stk",
+      "name" : "Pokémon Deck Pro Mega Charizard Y (65 stk)",
+      "price" : 59.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-pro-mega-charizard-y-65-stk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-flip-deck-box-mega-charizard-x",
