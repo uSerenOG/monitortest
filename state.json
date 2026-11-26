@@ -654,18 +654,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-munikis-zero-booster-box-japanese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
-      "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
-      "price" : 299.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "mega-brave-m1l-booster-box-japanese",
       "name" : "Pokémon Mega Brave M1L Booster Box (Japanese)",
       "price" : 669.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/mega-brave-m1l-booster-box-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-gem-pack-vol-6-booster-box-simplified-chinese",
+      "name" : "Pokémon Gem Pack Vol 6 Booster Box (Simplified Chinese)",
+      "price" : 299.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-6-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-ninja-spinner-booster-box-japanese",
