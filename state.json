@@ -3,20 +3,6 @@
   "snapshots" : {
     "maxgaming.dk" : [ {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me05-pitch-black-booster",
-      "name" : "Pokémon ME05: Pitch Black - Booster",
-      "price" : 49.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mega-greninja-ex-premium-collection",
-      "name" : "Pokémon Mega Greninja ex Premium Collection",
-      "price" : 499.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-elite-trainer-box",
       "name" : "Pokémon 30th Celebration - Elite Trainer Box",
       "price" : 639.0,
@@ -80,11 +66,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-tin-ex"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me05-pitch-black-booster-bundle",
-      "name" : "Pokémon ME05: Pitch Black - Booster Bundle",
-      "price" : 479.0,
+      "productId" : "pokemon-me05-pitch-black-booster",
+      "name" : "Pokémon ME05: Pitch Black - Booster",
+      "price" : 49.0,
       "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster-bundle"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mega-greninja-ex-premium-collection",
+      "name" : "Pokémon Mega Greninja ex Premium Collection",
+      "price" : 499.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mega-greninja-ex-premium-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-enhanced-2-pack-q4-2026",
@@ -92,6 +85,13 @@
       "price" : 26149.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-enhanced-2-pack-q4-2026"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me05-pitch-black-booster-bundle",
+      "name" : "Pokémon ME05: Pitch Black - Booster Bundle",
+      "price" : 479.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-booster-bundle"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me05-pitch-black-premium-checklane",
@@ -122,13 +122,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-ultra-premium-collection-night"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me05-pitch-black-3-pack-blister",
-      "name" : "Pokémon ME05: Pitch Black - 3-Pack Blister",
-      "price" : 179.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-3-pack-blister"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-ultra-premium-collection-day",
       "name" : "Pokémon 30th Celebration - Ultra Premium Collection Day",
       "price" : 2199.0,
@@ -150,11 +143,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-figure-collection-mewtwo"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-me05-pitch-black-elite-trainer-box",
-      "name" : "Pokémon ME05: Pitch Black - Elite Trainer Box",
-      "price" : 669.0,
+      "productId" : "pokemon-me05-pitch-black-3-pack-blister",
+      "name" : "Pokémon ME05: Pitch Black - 3-Pack Blister",
+      "price" : 179.0,
       "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-elite-trainer-box"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-3-pack-blister"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-elite-trainer-box",
@@ -169,6 +162,20 @@
       "price" : 339.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me06-delta-reign-booster-bundle"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-me05-pitch-black-elite-trainer-box",
+      "name" : "Pokémon ME05: Pitch Black - Elite Trainer Box",
+      "price" : 669.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me05-pitch-black-elite-trainer-box"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-tin-fall-ex",
+      "name" : "Pokémon Tin Fall ex",
+      "price" : 269.0,
+      "inStock" : false,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tin-fall-ex"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me25-ascended-heroes-elite-trainer-box",
@@ -211,13 +218,6 @@
       "price" : 113.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/tcg-my-first-battle-charmander-squirtle"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-tin-fall-ex",
-      "name" : "Pokémon Tin Fall ex",
-      "price" : 269.0,
-      "inStock" : false,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-tin-fall-ex"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-me06-delta-reign-blister-pack-3-pack",
@@ -290,18 +290,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-pikachu-figure-set-simplified-chinese",
-      "name" : "Pokémon 30th Celebration Pikachu Figure Set (Simplified Chinese)",
-      "price" : 269.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-pikachu-figure-set-simplified-chinese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-espeon-umbreon-box-forenklet-kinesisk",
       "name" : "Pokémon 30th Celebration Espeon & Umbreon Box (Forenklet kinesisk)",
       "price" : 1619.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-espeon-umbreon-box-forenklet-kinesisk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-pikachu-figure-set-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Pikachu Figure Set (Simplified Chinese)",
+      "price" : 269.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-pikachu-figure-set-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-storm-emeralda-booster-box-japanese",
@@ -325,13 +325,6 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-anniversary-celebration-first-partner-vol-2-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-2-card-set-japanese",
-      "name" : "Pokémon 30th Celebration Gen 2 Card Set (Japanese)",
-      "price" : 289.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-2-card-set-japanese"
-    }, {
-      "site" : "maxgaming.dk",
       "productId" : "pokemon-pikachu-special-box-pokemon-center-hiroshima",
       "name" : "Pokémon Pikachu Special Box Pokémon Center - Hiroshima",
       "price" : 1309.0,
@@ -339,11 +332,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-pikachu-special-box-pokemon-center-hiroshima"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "toploader-3x4-clear-regular-25-pack",
-      "name" : "Ultra Pro Toploader 3x4",
-      "price" : 29.0,
+      "productId" : "pokemon-30th-celebration-gen-2-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 2 Card Set (Japanese)",
+      "price" : 289.0,
       "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-regular-25-pack"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-2-card-set-japanese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-futuristic-box-forenklet-kinesisk",
@@ -353,18 +346,18 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-futuristic-box-forenklet-kinesisk"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese",
-      "name" : "Pokémon 30th Celebration Charizard Collectors Figure Gift Box (Simplified Chinese)",
-      "price" : 2699.0,
+      "productId" : "toploader-3x4-clear-regular-25-pack",
+      "name" : "Ultra Pro Toploader 3x4",
+      "price" : 29.0,
       "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/toploader-3x4-clear-regular-25-pack"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-umbreon-ex-044-040-30th-celebration-japanese",
-      "name" : "Pokémon Umbreon ex 044/040 30th Celebration (Japanese)",
-      "price" : 779.0,
+      "productId" : "pokemon-30th-celebration-gen-1-9-collection-japanese-bundle",
+      "name" : "Pokémon 30th Celebration Gen 1-9 Collection (Japanese)",
+      "price" : 1999.0,
       "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-umbreon-ex-044-040-30th-celebration-japanese"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-1-9-collection-japanese-bundle"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-gem-pack-vol-5-booster-box-simplified-chinese",
@@ -381,32 +374,11 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gem-pack-vol-4-booster-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
-      "productId" : "pokemon-30th-celebration-gen-1-9-collection-japanese-bundle",
-      "name" : "Pokémon 30th Celebration Gen 1-9 Collection (Japanese)",
-      "price" : 1999.0,
+      "productId" : "pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese",
+      "name" : "Pokémon 30th Celebration Charizard Collectors Figure Gift Box (Simplified Chinese)",
+      "price" : 2699.0,
       "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-1-9-collection-japanese-bundle"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-gengar-ex-131-103-30th-celebration-japanese",
-      "name" : "Pokémon Gengar ex 131/103 30th Celebration (Japanese)",
-      "price" : 569.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gengar-ex-131-103-30th-celebration-japanese"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mew-ex-129-103-30th-celebration-japansk",
-      "name" : "Pokémon Mew ex 129/103 30th Celebration (Japansk)",
-      "price" : 619.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mew-ex-129-103-30th-celebration-japansk"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-mewtwo-ex-128-103-30th-celebration-japansk",
-      "name" : "Pokémon Mewtwo ex 128/103 30th Celebration (Japansk)",
-      "price" : 429.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mewtwo-ex-128-103-30th-celebration-japansk"
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-charizard-collectors-figure-gift-box-simplified-chinese"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-6-card-set-japansk",
@@ -423,6 +395,34 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-9-card-set-japansk"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-4-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 4 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-4-card-set-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-5-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 5 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-5-card-set-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-umbreon-ex-044-040-30th-celebration-japanese",
+      "name" : "Pokémon Umbreon ex 044/040 30th Celebration (Japanese)",
+      "price" : 779.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-umbreon-ex-044-040-30th-celebration-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-30th-celebration-gen-8-card-set-japanese",
+      "name" : "Pokémon 30th Celebration Gen 8 Card Set (Japanese)",
+      "price" : 289.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-30th-celebration-gen-8-card-set-japanese"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-30th-celebration-gen-7-card-set-japanese",
       "name" : "Pokémon 30th Celebration Gen 7 Card Set (Japanese)",
       "price" : 289.0,
@@ -435,6 +435,27 @@
       "price" : 399.0,
       "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-24-pack-adventskalender-2026-battle-figure-multipack"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mew-ex-129-103-30th-celebration-japansk",
+      "name" : "Pokémon Mew ex 129/103 30th Celebration (Japansk)",
+      "price" : 619.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mew-ex-129-103-30th-celebration-japansk"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-gengar-ex-131-103-30th-celebration-japanese",
+      "name" : "Pokémon Gengar ex 131/103 30th Celebration (Japanese)",
+      "price" : 569.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-gengar-ex-131-103-30th-celebration-japanese"
+    }, {
+      "site" : "maxgaming.dk",
+      "productId" : "pokemon-mewtwo-ex-128-103-30th-celebration-japansk",
+      "name" : "Pokémon Mewtwo ex 128/103 30th Celebration (Japansk)",
+      "price" : 429.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-mewtwo-ex-128-103-30th-celebration-japansk"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-chasing-glory-together-jumbo-booster-box-simplified-chinese",
@@ -766,6 +787,13 @@
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-me03-perfect-order-booster-bundle-6-pack"
     }, {
       "site" : "maxgaming.dk",
+      "productId" : "pokemon-deck-crafters-collection",
+      "name" : "Pokémon Deck Crafters Collection",
+      "price" : 139.0,
+      "inStock" : true,
+      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-crafters-collection"
+    }, {
+      "site" : "maxgaming.dk",
       "productId" : "pokemon-card-sleeves-premium-100pcs",
       "name" : "Ultra Pro Card Sleeves Premium (100pcs)",
       "price" : 29.0,
@@ -778,13 +806,6 @@
       "price" : 269.0,
       "inStock" : true,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-plush-toy-card-display-gaveaske"
-    }, {
-      "site" : "maxgaming.dk",
-      "productId" : "pokemon-deck-crafters-collection",
-      "name" : "Pokémon Deck Crafters Collection",
-      "price" : 139.0,
-      "inStock" : true,
-      "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-crafters-collection"
     }, {
       "site" : "maxgaming.dk",
       "productId" : "pokemon-first-partner-vol-3-simplified-chinese",
