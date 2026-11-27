@@ -790,7 +790,7 @@
       "productId" : "pokemon-deck-crafters-collection",
       "name" : "Pokémon Deck Crafters Collection",
       "price" : 139.0,
-      "inStock" : true,
+      "inStock" : false,
       "url" : "https://www.maxgaming.dk/dk/pokemon/pokemon-deck-crafters-collection"
     }, {
       "site" : "maxgaming.dk",
